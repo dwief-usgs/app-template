@@ -1,0 +1,1 @@
+﻿select words, poses from sentences where docid = '54b43277e138239d86852119' AND sentid = 548
