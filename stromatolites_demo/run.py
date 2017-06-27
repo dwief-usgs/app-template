@@ -56,6 +56,10 @@ os.system('python ./udf/ext_references.py')
 print 'Step 10: Build a best results table of strom-strat_name tuples ...'
 os.system('python ./udf/ext_results.py')
 
+# River
+print 'Step RIVER: Find river mentions ...'
+os.system('python ./udf/ext_river_phrases.py')
+
 #FIND ADJECTIVES DESCRIBING STROM
 print 'Step 11: Find adjectives describing strom target words ...'
 os.system('python ./udf/ext_target_adjective.py')

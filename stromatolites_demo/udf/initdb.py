@@ -28,7 +28,7 @@ cursor = connection.cursor()
 #COPY sentences FROM '/Users/jhusson/local/bin/deepdive-0.7.1/deepdive-apps/stromatolites/input/strom_nlp352';
 
 
-#TARGET_INSTANCES    
+#TARGET_INSTANCES
 cursor.execute("""
     DROP TABLE IF EXISTS target_instances CASCADE;
     CREATE TABLE target_instances(
@@ -46,7 +46,7 @@ cursor.execute("""
 """)
 connection.commit()
 
-#TARGET_ADJECTIVES    
+#TARGET_ADJECTIVES
 cursor.execute("""
     DROP TABLE IF EXISTS target_adjectives CASCADE;
     CREATE TABLE target_adjectives(
@@ -59,9 +59,30 @@ cursor.execute("""
 connection.commit()
 
 #STRAT_PHRASES
+# DAM PHRASES
 cursor.execute("""
     DROP TABLE IF EXISTS strat_phrases CASCADE;
     CREATE TABLE strat_phrases(
+        docid text,
+        sentid int,
+        strat_phrase text,
+        strat_phrase_root text,
+        num_phrase int,
+        sentence text,
+        strat_flag text,
+        phrase_start int,
+        phrase_end int,
+        strat_name_id text,
+        int_name text,
+        int_id int,
+        age_agree text DEFAULT '-');
+""")
+connection.commit()
+
+#RIVER_PHRASES
+cursor.execute("""
+    DROP TABLE IF EXISTS river_phrases CASCADE;
+    CREATE TABLE river_phrases(
         docid text,
         sentid int,
         strat_phrase text,
@@ -145,7 +166,7 @@ cursor.execute("""
         age_agree text DEFAULT '-',
         age_sum text DEFAULT '-',
         words_between text,
-        target_sent_dist int, 
+        target_sent_dist int,
         target_word text,
         target_parent text [],
         target_children text [],
