@@ -1,59 +1,51 @@
 """
-File: run_app.py
-Description: Sample app utilizing the GeoDeepDive infrastructure and products.
-    This process is replicating a previous manual effort in identifying relevant
-    documents to damn removal.
-Assumes: make setup-local has been run (so that the example database is populated)
-"""
+Geodeepdive application to find and extract candidate
+sentences along with document ids and sentence ids. 
 
+Output: cand-df.csv
+    3-sentence extractions that contain dam and a date
+"""
 import yaml
 import psycopg2
-from psycopg2.extensions import AsIs
+import requests
+import pandas as pd
+import numpy as np
 
-with open('../credentials.yml', 'r') as credential_yaml:
-    credentials = yaml.load(credential_yaml)
-
-with open('../config.yml', 'r') as config_yaml:
-    config = yaml.load(config_yaml)
-
-# Connect to Postgres
-connection = psycopg2.connect(
-    dbname=credentials['postgres']['database'],
-    user=credentials['postgres']['user'],
-    host=credentials['postgres']['host'],
-    port=credentials['postgres']['port'])
-cursor = connection.cursor()
-
-# tmp store
-dam_removal_docs = []
-docids = []
-
-# retrieve docids -- replace w/ correct db table
-cursor.execute("SELECT DISTINCT DOCID FROM geodeepdive;")
-for id in cursor:
-    docids.append(id[0])
+from utils import connect_db, get_dams, n_sents
 
 
-def term_in_corpus(term, cursor):
-    for i in cursor:
-        if term in i[0]:
-            return True
+# Placeholders for storage 
+doc_ids = []
+sent_ids = []
+passages = []
 
+# Get dam names
+dams = get_dams()
 
-for id in docids:
-    cursor.execute("SELECT WORD, DOCID, SENTID FROM geodeepdive WHERE docid = (%s);",(id))
-    try:
-        for sentence in cursor:
-            words = sentence[0]
-            sentid = sentence[2]
-            for i in eval(words):
-                if 'dam' == i and term_in_corpus('removal', cursor):
-                    if term_in_corpus('stream', cursor) or term_in_corpus('river', cursor):
-                            print('Match exists in document: ' + str(id) + str(sentid))
-                            dam_removal_docs.append((id, sentid))
-    except:
-        pass
+# Database connection
+df = connect_db()
 
-with open("../output/damremoval_documents.txt", "w") as f:
-    for i in dam_removal_docs:
-        f.write(str(i) + '\n')
+# Process sentences and build output dataframe
+for i in df.itertuples():
+    # Get surrounding sentences for scope
+    surround_sents = n_sents(i[2], df['docid'])
+    before_sent = df.iloc[surround_sents[0]]
+    after_sent = df.iloc[surround_sents[1]]
+    
+    # Sample passage
+    passage = before_sent['words'] + i[4] + after_sent['words']
+    full_ners = before_sent['ners'] + i[6] + after_sent['ners']
+    
+    # Cand condition
+    if 'dam' in passage or 'Dam' in passage and 'DATE' in full_ners:
+        doc_ids.append((before_sent['docid'], i[1], after_sent['docid']))
+        sent_ids.append((before_sent['sentid'], i[2], after_sent['sentid']))
+        passages.append(passage)
+
+df2 = pd.DataFrame({'docid': doc_ids,
+                    'sentid': sent_ids,
+                    'passage': passages})
+print(df2.info())
+
+# save to disk
+df2.to_csv('cand-df.csv')
