@@ -10,17 +10,18 @@ def remap_sent(sent): return ' '.join(sent)
 def n_sents(idx, df):
     ''' Returns the surrounding sentences in relation
     to the passed in dataframe
-    
+
     Returns
     -------
     tuple
         (starting sentence index, ending sentence index)
     '''
+    idx  = idx-1 # convert from sentid->dataframe index
     start = idx
     end = idx
     if idx > 0:
         start = idx-1
-    if idx < len(df):
+    if idx < len(df) - 1:
         end = idx+1
     return(start, end)
 
@@ -38,16 +39,20 @@ def connect_db():
     with open('./config.yml', 'r') as f:
         conf = yaml.load(f)
 
-    conn = psycopg2.connect(dbname=conf['postgres']['database'], 
+    conn = psycopg2.connect(dbname=conf['postgres']['database'],
                             user=conf['postgres']['user'],
                             host=conf['postgres']['host'],
                             port=conf['postgres']['port'],
                             password=conf['postgres']['password'])
     cursor = conn.cursor()
 
-    df = pd.read_sql_query('select docid, sentid, wordidx, words, poses, ners from sentences_nlp352;', con=conn)
-    print('Sentences: %s' %len(df))
-    return df
+    print "searching for docids..."
+    cursor.execute("select distinct(docid) from sentences_nlp352;")
+    docids = [i[0] for i in cursor.fetchall()] # maybe not necessary -- don't want the cursor to conflict itself though.
+    print "Looping over %s docids" % len(docids)
+    for i in docids:
+        df = pd.read_sql_query('select docid, sentid, wordidx, words, poses, ners from sentences_nlp352 WHERE docid=%(docid)s ORDER BY sentid;', con=conn, params={"docid" : i})
+        yield df
 
 
 # Loading related data
