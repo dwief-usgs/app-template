@@ -1,6 +1,6 @@
 """
 Geodeepdive application to find and extract candidate
-sentences along with document ids and sentence ids. 
+sentences along with document ids and sentence ids.
 
 Output: cand-df.csv
     3-sentence extractions that contain dam and a date
@@ -14,7 +14,7 @@ import numpy as np
 from utils import connect_db, get_dams, n_sents
 
 
-# Placeholders for storage 
+# Placeholders for storage
 doc_ids = []
 sent_ids = []
 passages = []
@@ -23,24 +23,25 @@ passages = []
 dams = get_dams()
 
 # Database connection
-df = connect_db()
+documents = connect_db()
 
 # Process sentences and build output dataframe
-for i in df.itertuples():
-    # Get surrounding sentences for scope
-    surround_sents = n_sents(i[2], df['docid'])
-    before_sent = df.iloc[surround_sents[0]]
-    after_sent = df.iloc[surround_sents[1]]
-    
-    # Sample passage
-    passage = before_sent['words'] + i[4] + after_sent['words']
-    full_ners = before_sent['ners'] + i[6] + after_sent['ners']
-    
-    # Cand condition
-    if 'dam' in passage or 'Dam' in passage and 'DATE' in full_ners:
-        doc_ids.append((before_sent['docid'], i[1], after_sent['docid']))
-        sent_ids.append((before_sent['sentid'], i[2], after_sent['sentid']))
-        passages.append(passage)
+for doc in documents:
+    for i in doc.itertuples():
+        # Get surrounding sentences for scope
+        surround_sents = n_sents(i[2], doc['docid'])
+        before_sent = doc.iloc[surround_sents[0]]
+        after_sent = doc.iloc[surround_sents[1]]
+
+        # Sample passage
+        passage = before_sent['words'] + i[4] + after_sent['words']
+        full_ners = before_sent['ners'] + i[6] + after_sent['ners']
+
+        # Cand condition
+        if ('dam' in passage or 'Dam' in passage) and 'DATE' in full_ners:
+            doc_ids.append((before_sent['docid'], i[1], after_sent['docid']))
+            sent_ids.append((before_sent['sentid'], i[2], after_sent['sentid']))
+            passages.append(passage)
 
 df2 = pd.DataFrame({'docid': doc_ids,
                     'sentid': sent_ids,
