@@ -1,0 +1,1 @@
+﻿select * from public.sentences where docid = '54b43277e138239d86852119' and (sentid in (28,29,30,31,32,33,34,35))
