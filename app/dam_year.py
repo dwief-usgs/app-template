@@ -3,7 +3,7 @@ Geodeepdive application to find and extract candidate
 sentences along with document ids and sentence ids.
 
 Output: cand-df.csv
-    3-sentence extractions that contain dam and a date
+    3-sentence extractions that contain dam
 """
 import yaml
 import psycopg2
@@ -18,6 +18,7 @@ from utils import connect_db, get_dams, n_sents
 doc_ids = []
 sent_ids = []
 passages = []
+ner = []
 
 # Get dam names
 dams = get_dams()
@@ -38,14 +39,16 @@ for doc in documents:
         full_ners = before_sent['ners'] + i[6] + after_sent['ners']
 
         # Cand condition
-        if ('dam' in passage or 'Dam' in passage) and 'DATE' in full_ners:
+        if ('dam' in passage or 'Dam' in passage):  # and 'DATE' in full_ners:
             doc_ids.append((before_sent['docid'], i[1], after_sent['docid']))
             sent_ids.append((before_sent['sentid'], i[2], after_sent['sentid']))
             passages.append(passage)
+            ner.append(full_ners)
 
 df2 = pd.DataFrame({'docid': doc_ids,
                     'sentid': sent_ids,
-                    'passage': passages})
+                    'passage': passages,
+                    'ner': ner})
 print(df2.info())
 
 # save to disk

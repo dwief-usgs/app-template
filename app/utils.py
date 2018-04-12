@@ -46,10 +46,10 @@ def connect_db():
                             password=conf['postgres']['password'])
     cursor = conn.cursor()
 
-    print "searching for docids..."
+    print("searching for docids...")
     cursor.execute("select distinct(docid) from sentences_nlp352;")
     docids = [i[0] for i in cursor.fetchall()] # maybe not necessary -- don't want the cursor to conflict itself though.
-    print "Looping over %s docids" % len(docids)
+    print("Looping over %s docids" % len(docids))
     for i in docids:
         df = pd.read_sql_query('select docid, sentid, wordidx, words, poses, ners from sentences_nlp352 WHERE docid=%(docid)s ORDER BY sentid;', con=conn, params={"docid" : i})
         yield df
