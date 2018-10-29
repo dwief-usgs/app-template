@@ -14,6 +14,14 @@ Documents that contain:
 python dam_year.py
 ```
 
+__New dataset - Rivers__
+
+Collecting data samples of river terms within journal publications intended for curation
+
+```sh
+python rivers.py
+```
+
 ## Output
 
 ```
