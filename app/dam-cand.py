@@ -11,7 +11,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-from utils import connect_db, get_dams, n_sents
+from utils import connect_db, n_sents
 
 
 # Placeholders for storage
@@ -19,9 +19,6 @@ doc_ids = []
 sent_ids = []
 passages = []
 ner = []
-
-# Get dam names
-dams = get_dams()
 
 # Database connection
 documents = connect_db()
@@ -52,4 +49,4 @@ df2 = pd.DataFrame({'docid': doc_ids,
 print(df2.info())
 
 # save to disk
-df2.to_csv('cand-df.csv')
+df2.to_csv('dam-cand-df.csv')
