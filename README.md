@@ -1,9 +1,6 @@
-#  Geodeepdive dam removal app 
-An application for dam removal built on the GeoDeepDive infrastructure. 
+#  GeoDeepDive USGS Nonindigenous Aquatic Species App
+An application used to extract information about nonindigenous aquatic species from the literature. This application is built on the GeoDeepDive infrastructure. 
 
-### Update - removal year
-
-Developed using python3.6
 
 ### Running
 
@@ -23,7 +20,7 @@ An application for dam removal built on the GeoDeepDive infrastructure. This pro
 
 ## Quick Start
 
-The goal of the application template is to query the GDD database to condense the publications that might be related to dam removal science. The results are later used in the modified Stromatolites application. 
+The goal of the application template is to query the GDD database to condense the publications that might be related to species that are being tracked by the USGS Nonindigenous Aquatic Species Program.  
 
 ### License
 
