@@ -1,1 +1,0 @@
-﻿select a.docid, a.sentid, a.wordidx, a.words, a.ners, a.poses, a.lemmas from (select docid, sentid, unnest(wordidx) as wordidx, unnest(words) as words, unnest(ners) as ners, unnest(poses) as poses, unnest(lemmas) as lemmas  from sentences) a;

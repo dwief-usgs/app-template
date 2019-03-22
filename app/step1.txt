@@ -1,2 +1,0 @@
-Dictionary: "Dam Removal -- all"
-Terms: ("dam" and "removal") and ("stream" or "river")

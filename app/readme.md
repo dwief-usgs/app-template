@@ -1,29 +1,19 @@
-## Dam Year Candidates 
+## NAS Taxa Candidates 
 
-Test for a wide net of candidate sentences related to a dam removal year. 
+Test for a wide net of candidate passages that mention Taxa being studied by USGS NAS team
 
-__Update 4/12__: wider net for additional criteria (rivers, streams, other attributes...) surrounding candidate dams and corenlp ner tags
+Passages from documents that contain:
 
-Documents that contain:
-
-("dam" and "removal") and ("stream" or "river")
+(term from nas species) 
 
 ## Quick Start
 
 ```sh
-python dam_year.py
-```
-
-__New dataset - Rivers__
-
-Collecting data samples of river terms within journal publications intended for curation
-
-```sh
-python rivers.py
+python nas-cand.py
 ```
 
 ## Output
 
 ```
-./cand-df.csv
+./nas-cand-df.csv
 ```
