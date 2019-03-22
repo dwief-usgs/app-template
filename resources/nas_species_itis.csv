@@ -1,0 +1,1330 @@
+species_ID,Group,Order,Family,Genus,Species,subspecies,scientificName,variety,common_name,native_exotic,continent_of_origin,itis_tsn
+43,Amphibians-Frogs,Anura,Bufonidae,Atelopus,zeteki,,Atelopus zeteki,,Panamanian Golden Frog,Exotic,South America,550266
+44,Amphibians-Frogs,Anura,Bufonidae,Anaxyrus,americanus,NULL,Anaxyrus americanus,NULL,American Toad,Native,North America,773511
+45,Amphibians-Frogs,Anura,Bufonidae,Rhaebo,blombergi,NULL,Rhaebo blombergi,NULL,Columbian Giant Toad,Exotic,South America,773675
+46,Amphibians-Frogs,Anura,Bufonidae,Anaxyrus,boreas,halophilus,Anaxyrus boreas halophilus,NULL,Southern California Toad,Native,North America,776687
+47,Amphibians-Frogs,Anura,Bufonidae,Bufo,bufo,,Bufo bufo,,European Toad,Exotic,Eurasia,173480
+48,Amphibians-Frogs,Anura,Bufonidae,Rhinella,marina,NULL,Rhinella marina,NULL,Cane Toad,Native,North and South America,773729
+49,Amphibians-Frogs,Anura,Dendrobatidae,Dendrobates,auratus,NULL,Dendrobates auratus,NULL,Green and Black Poison Dart Frog,Exotic,South America,173543
+50,Amphibians-Frogs,Anura,Dendrobatidae,Dendrobates,leucomelas,NULL,Dendrobates leucomelas,NULL,Yellow-banded Poison Dart Frog,Exotic,South America,662249
+51,Amphibians-Frogs,Anura,Dendrobatidae,Dendrobates,sp.,NULL,Dendrobates sp.,NULL,a Poison Dart Frog,Exotic,South America,173542
+52,Amphibians-Frogs,Anura,Hylidae,Acris,crepitans,NULL,Acris crepitans,NULL,Northern Cricket Frog,Native,North America,173520
+53,Amphibians-Frogs,Anura,Hylidae,Hyla,cinerea,NULL,Hyla cinerea,NULL,Green Treefrog,Native,North America,173505
+54,Amphibians-Frogs,Anura,Hylidae,Hyla,wrightorum,NULL,Hyla wrightorum,NULL,Arizona Treefrog,Native,North America,207283
+55,Amphibians-Frogs,Anura,Hylidae,Hyla,gratiosa,NULL,Hyla gratiosa,NULL,Barking Treefrog,Native,North America,173508
+56,Amphibians-Frogs,Anura,Hylidae,Litoria,aurea,NULL,Litoria aurea,NULL,Green and Golden Bell Frog,Exotic,Australia,662862
+57,Amphibians-Frogs,Anura,Hylidae,Osteopilus,septentrionalis,NULL,Osteopilus septentrionalis,NULL,Cuban Treefrog,Exotic,Caribbean,173538
+58,Amphibians-Frogs,Anura,Hylidae,Pachymedusa,dacnicolor,NULL,Pachymedusa dacnicolor,NULL,Mexican Leaf Frog,Exotic,South America,208137
+59,Amphibians-Frogs,Anura,Hylidae,Pseudacris,regilla,NULL,Pseudacris regilla,NULL,Northern Pacific Treefrog,Native,North America,207313
+60,Amphibians-Frogs,Anura,Eleutherodactylidae,Eleutherodactylus,coqui,NULL,Eleutherodactylus coqui,NULL,Coqui,Exotic,Caribbean,173559
+61,Amphibians-Frogs,Anura,Eleutherodactylidae,Eleutherodactylus,planirostris,NULL,Eleutherodactylus planirostris,NULL,Greenhouse Frog,Exotic,Caribbean,173568
+63,Amphibians-Frogs,Anura,Eleutherodactylidae,Eleutherodactylus,portoricensis,NULL,Eleutherodactylus portoricensis,NULL,Forest Coqui,Exotic,Caribbean,173569
+64,Amphibians-Frogs,Anura,Eleutherodactylidae,Eleutherodactylus,cystignathoides,NULL,Eleutherodactylus cystignathoides,NULL,Rio Grande Chirping Frog,Native,North America,550238
+65,Amphibians-Frogs,Anura,Eleutherodactylidae,Eleutherodactylus,cystignathoides,campi,Eleutherodactylus cystignathoides campi,NULL,Rio Grande Chirping Frog,Native,North America,776759
+66,Amphibians-Frogs,Anura,Pipidae,Hymenochirus,boettgeri,NULL,Hymenochirus boettgeri,NULL,Zaire Dwarf Clawed Frog,Exotic,Africa,664841
+67,Amphibians-Frogs,Anura,Pipidae,Xenopus,laevis,NULL,Xenopus laevis,NULL,African Clawed Frog,Exotic,Africa,173549
+68,Amphibians-Frogs,Anura,Ranidae,Rana,aurora,NULL,Rana aurora,NULL,Northern Red-legged Frog,Native,North America,173446
+69,Amphibians-Frogs,Anura,Ranidae,Lithobates,berlandieri,NULL,Lithobates berlandieri,NULL,Rio Grande Leopard Frog,Native,North America,775079
+70,Amphibians-Frogs,Anura,Ranidae,Lithobates,blairi,NULL,Lithobates blairi,NULL,Plains Leopard Frog,Native,North America,775080
+71,Amphibians-Frogs,Anura,Ranidae,Lithobates,catesbeianus,NULL,Lithobates catesbeianus,NULL,American Bullfrog,Native,North America,775084
+72,Amphibians-Frogs,Anura,Ranidae,Lithobates,clamitans,NULL,Lithobates clamitans,NULL,Green Frog,Native,North America,775087
+73,Amphibians-Frogs,Anura,Ranidae,Pelophylax,nigromaculatus,NULL,Pelophylax nigromaculatus,NULL,Black-spotted Frog,Exotic,Asia,775191
+74,Amphibians-Frogs,Anura,Ranidae,Lithobates,pipiens,NULL,Lithobates pipiens,NULL,Northern Leopard Frog,Native,North America,775108
+75,Amphibians-Frogs,Anura,Ranidae,Glandirana,rugosa,,Glandirana rugosa,,Japanese Wrinkled Frog,Exotic,Asia,774987
+76,Amphibians-Frogs,Anura,Ranidae,Lithobates,sphenocephalus,NULL,Lithobates sphenocephalus,NULL,Southern Leopard Frog,Native,North America,775116
+978,Amphibians-Frogs,Anura,Hylidae,Scinax,rubra,NULL,Scinax rubra,NULL,Common Scinax,Exotic,North America,550291
+979,Amphibians-Frogs,Anura,Ranidae,Lithobates,grylio,NULL,Lithobates grylio,NULL,Pig Frog,Native,North America,775091
+2276,Amphibians-Frogs,Anura,Hylidae,Litoria,caerulea,NULL,Litoria caerulea,NULL,Australian Green Treefrog,Exotic,Australia,662872
+2581,Amphibians-Frogs,Anura,Hylidae,Hyla,squirrella,NULL,Hyla squirrella,NULL,Squirrel Treefrog,Native,North America,173504
+2728,Amphibians-Frogs,Anura,Pipidae,Pipa,pipa,NULL,Pipa pipa,NULL,Suriname toad,Exotic,South America,207437
+2780,Amphibians-Frogs,Anura,Hylidae,Pseudacris,sierra,NULL,Pseudacris sierra,NULL,Sierran Chorus Frog,Native,North America,774548
+2781,Amphibians-Frogs,Anura,Hylidae,Pseudacris,hypochondriaca,NULL,Pseudacris hypochondriaca,NULL,Baja California Treefrog,Native,North America,774546
+2832,Amphibians-Frogs,Anura,Bufonidae,Incilius,nebulifer,NULL,Incilius nebulifer,NULL,Coastal Plain Toad,Native,North America,773583
+2864,Amphibians-Frogs,Anura,Bombinatoridae,Bombina,orientalis,NULL,Bombina orientalis,NULL,Oriental Fire-bellied Toad,Exotic,Eurasia,661630
+2865,Amphibians-Frogs,Anura,Microhylidae,Kaloula,pulchra,NULL,Kaloula pulchra,NULL,Malaysian Painted Frog,Exotic,Asia,664582
+2866,Amphibians-Frogs,Anura,Hyperoliidae,Afrixalus,fornasini,NULL,Afrixalus fornasini,NULL,Fornasini's Spiny Reed Frog,Exotic,Africa,663035
+2867,Amphibians-Frogs,Anura,Bufonidae,Duttaphrynus,melanostictus,NULL,Duttaphrynus melanostictus,NULL,Southeast Asian Toad,Exotic,Asia,773557
+2888,Amphibians-Frogs,Anura,Hylidae,Litoria,fallax,NULL,Litoria fallax,NULL,Eastern Dwarf Treefrog,Exotic,Australia,662897
+2889,Amphibians-Frogs,Anura,Rhacophoridae,Polypedates,megacephalus,NULL,Polypedates megacephalus,NULL,Hong Kong Whipping Frog,Exotic,Asia,665610
+2890,Amphibians-Frogs,Anura,Ranidae,Hylarana,guentheri,NULL,Hylarana guentheri,NULL,Günther's Amoy Frog,Exotic,Asia,775024
+2891,Amphibians-Frogs,Anura,Dicroglossidae,Fejervarya,cancrivora,NULL,Fejervarya cancrivora,NULL,Crab-Eating Frog,Exotic,Asia,664956
+2892,Amphibians-Frogs,Anura,Dicroglossidae,Fejervarya,limnocharis,NULL,Fejervarya limnocharis,NULL,Rice Frog,Exotic,Asia,664962
+2893,Amphibians-Frogs,anura,Microhylidae,Microhyla,pulchra,NULL,Microhyla pulchra,NULL,Marbled Pigmy Frog,Exotic,Asia,664610
+151,Amphibians-Salamanders,Caudata,Ambystomatidae,Ambystoma,tigrinum,NULL,Ambystoma tigrinum,NULL,Eastern Tiger Salamander,Native,North America,173592
+152,Amphibians-Salamanders,Caudata,Ambystomatidae,Ambystoma,mavortium,mavortium,Ambystoma mavortium mavortium,NULL,Barred Tiger Salamander,Native,North America,668593
+153,Amphibians-Salamanders,Caudata,Ambystomatidae,Ambystoma,mavortium,melanostictum,Ambystoma mavortium melanostictum,NULL,Blotched Tiger Salamander,Native,North America,668591
+154,Amphibians-Salamanders,Caudata,Plethodontidae,Desmognathus,quadramaculatus,NULL,Desmognathus quadramaculatus,NULL,Black-bellied Salamander,Native,North America,173642
+155,Amphibians-Salamanders,Caudata,Plethodontidae,Desmognathus,santeetlah,NULL,Desmognathus santeetlah,NULL,Santeetlah Dusky Salamander,Native,North America,173643
+156,Amphibians-Salamanders,Caudata,Proteidae,Necturus,maculosus,NULL,Necturus maculosus,NULL,Mudpuppy,Native,North America,173630
+157,Amphibians-Salamanders,Caudata,Salamandridae,Cynops,pyrrhogaster,NULL,Cynops pyrrhogaster,NULL,Japanese Fire-bellied Salamander,Exotic,Asia,668367
+158,Amphibians-Salamanders,Caudata,Salamandridae,Notophthalmus,viridescens,viridescens,Notophthalmus viridescens viridescens,NULL,Red-spotted Newt,Native,North America,173616
+159,Amphibians-Salamanders,Caudata,Salamandridae,Taricha,granulosa,NULL,Taricha granulosa,NULL,Rough-skinned Newt,Native,North America,173620
+2799,Amphibians-Salamanders,Caudata,Ambystomatidae,Ambystoma,macrodactylum,NULL,Ambystoma macrodactylum,NULL,Long-toed Salamander,Native,North America,173601
+2846,Amphibians-Salamanders,Caudata,Sirenidae,Siren,intermedia,NULL,Siren intermedia,NULL,Lesser Siren,Native,North America,173736
+2861,Amphibians-Salamanders,Caudata,Salamandridae,Cynops,orientalis,NULL,Cynops orientalis,NULL,Oriental Fire-bellied Newt,Exotic,Asia,668365
+2862,Amphibians-Salamanders,Caudata,Salamandridae,Pachytriton,labiatus,NULL,Pachytriton labiatus,NULL,Paddle-Tail Newt,Exotic,Asia,668380
+2863,Amphibians-Salamanders,Caudata,Amphiumidae,Amphiuma,tridactylum,NULL,Amphiuma tridactylum,NULL,Three-toed Amphiuma,Native,North America,173612
+2946,Amphibians-Salamanders,Caudata,Ambystomatidae,Ambystoma,gracile,,Ambystoma gracile,,Northwestern Salamander,Native,North America,173597
+3230,Amphibians-Salamanders,Caudata,Plethodontidae,Desmognathus,monticola,,Desmognathus monticola,,Seal Salamander,Native,North America,173640
+3143,Annelids-Hirundinea,,,Barbronia,weberi,,Barbronia weberi,,leech,Exotic,Asia,NULL
+2244,Annelids-Oligochaetes,Haplotaxida,Naididae,Ripistes,parasita,NULL,Ripistes parasita,NULL,an oligochaete,Exotic,Eurasia,68964
+273,Bryozoans,Plumatellida,Plumatellidae,Plumatella,repens,NULL,Plumatella repens,NULL,a bryozoan,Native,North America,156692
+278,Bryozoans,Ctenostomata,Vesiculariidae,Lophopodella,carteri,NULL,Lophopodella carteri,NULL,freshwater bryozoan,Exotic,Asia,156716
+2334,Bryozoans,Plumatellida,Stephanellidae,Stephanella,hina,NULL,Stephanella hina,NULL,bryozoan,Exotic,Asia,NULL
+2335,Bryozoans,Plumatellida,Pectinatellidae,Pectinatella,magnifica,NULL,Pectinatella magnifica,NULL,magnificent bryozoan,Native,North America,156731
+1050,Coelenterates-Hydrozoans,Leptothecatae,Blackfordiidae,Blackfordia,virginica,,Blackfordia virginica,,Black Sea jellyfish,Exotic,Europe,49780
+1060,Coelenterates-Hydrozoans,Anthoathecatae,Oceanidae,Cordylophora,caspia,,Cordylophora caspia,,freshwater hydroid,Exotic,Eurasia,48893
+1068,Coelenterates-Hydrozoans,Limnomedusae,Olindiidae,Craspedacusta,sowerbyi,,Craspedacusta sowerbyi,,freshwater jellyfish,Exotic,Asia,50776
+23,Crustaceans-Amphipods,Amphipoda,Gammaridae,Echinogammarus,ischnus,NULL,Echinogammarus ischnus,NULL,scud,Exotic,Europe,656834
+26,Crustaceans-Amphipods,Amphipoda,Gammaridae,Gammarus,fasciatus,NULL,Gammarus fasciatus,NULL,freshwater shrimp,Native,North America,93780
+2315,Crustaceans-Amphipods,Amphipoda,Corophiidae,Apocorophium,lacustre,NULL,Apocorophium lacustre,NULL,a scud,Native,North America,656749
+2387,Crustaceans-Amphipods,Amphipoda,Crangonyctidae,Crangonyx,pseudogracilis,NULL,Crangonyx pseudogracilis,NULL,northern river crangonyctid [English],Native,North America,95082
+2650,Crustaceans-Amphipods,Amphipoda,Gammaridae,Gammarus,tigrinus,NULL,Gammarus tigrinus,NULL,amphipod,Native,North America,93781
+2827,Crustaceans-Amphipods,Corophiidea,Corophiinae,Paracorophium,lucasi,NULL,Paracorophium lucasi,NULL,a New Zealand amphipod,Exotic,Southwest Pacific,NULL
+2828,Crustaceans-Amphipods,Corophiidea,Corophiinae,Paracorophium,sp.,NULL,Paracorophium sp.,NULL,an amphipod,Exotic,Southwest Pacific,NULL
+2921,Crustaceans-Amphipods,Amphipoda,Gammaridae,Gammarus,sp.,NULL,Gammarus sp.,NULL,,Native,North America,93773
+2621,Crustaceans-Barnacles,Sessilia,Balanidae,Megabalanus,coccopoma,,Megabalanus coccopoma,,Titan acorn barnacle,Exotic,Pacific Ocean,656268
+161,Crustaceans-Cladocerans,Diplostraca,Bosminidae,Bosmina,coregoni,NULL,Bosmina coregoni,NULL,water flea,Exotic,Europe,83952
+162,Crustaceans-Cladocerans,Diplostraca,Cercopagidae,Bythotrephes,longimanus,,Bythotrephes longimanus,,spiny waterflea,Exotic,Europe,684624
+163,Crustaceans-Cladocerans,Diplostraca,Cercopagidae,Cercopagis,pengoi,NULL,Cercopagis pengoi,NULL,fishhook waterflea,Exotic,Asia,684625
+164,Crustaceans-Cladocerans,Diplostraca,Daphnidae,Daphnia,lumholtzi,NULL,Daphnia lumholtzi,NULL,a waterflea,Exotic,AustralAsia,684652
+2370,Crustaceans-Cladocerans,Diplostraca,Bosminidae,Eubosmina,maritima,NULL,Eubosmina maritima,NULL,a cladoceran,Exotic,Eurasia,684675
+2563,Crustaceans-Cladocerans,Diplostraca,Daphniidae,Daphnia,longispina,NULL,Daphnia longispina,NULL,a waterflea,Exotic,Europe,83875
+2648,Crustaceans-Cladocerans,Diplostraca,Sididae,Diaphanosoma,fluviatile,NULL,Diaphanosoma fluviatile,NULL,a cladoceran,Exotic,South and Central America,83843
+2649,Crustaceans-Cladocerans,Diplostraca,Sididae,Diaphanosoma,brevireme,NULL,Diaphanosoma brevireme,NULL,a cladoceran,Exotic,South and Central America,83854
+2732,Crustaceans-Cladocerans,Diplostraca,Daphniidae,Daphnia,galeata,galeata,Daphnia galeata galeata,NULL,waterflea,Exotic,Eurasia,83878
+2876,Crustaceans-Cladocerans,Diplostraca,Daphniidae,Daphnia,curvirostris,NULL,Daphnia curvirostris,NULL,a water flea,Exotic,Eurasia,684664
+166,Crustaceans-Copepods,Arguloida,Argulidae,Argulus,japonicus,NULL,Argulus japonicus,NULL,Japanese fishlouse,Exotic,Asia,206252
+168,Crustaceans-Copepods,Calanoida,Centropagidae,Sinocalanus,doerri,NULL,Sinocalanus doerri,NULL,Asian calanoid copepod,Exotic,Asia,666916
+169,Crustaceans-Copepods,Diaptomidae,Diaptomidae,Skistodiaptomus,pallidus,NULL,Skistodiaptomus pallidus,NULL,calanoid copepod,Native,North America,666978
+171,Crustaceans-Copepods,Cyclopoida,Oithonidae,Limnoithona,sinensis,NULL,Limnoithona sinensis,NULL,Asian copepod,Exotic,Asia,667197
+172,Crustaceans-Copepods,Cyclopoida,Oithonidae,Limnoithona,tetraspina,NULL,Limnoithona tetraspina,NULL,a copepod,Exotic,Asia,667198
+175,Crustaceans-Copepods,Calanoida,Pseudodiaptomidae,Pseudodiaptomus,forbesi,NULL,Pseudodiaptomus forbesi,NULL,a calanoid copepod,Exotic,Asia,666993
+178,Crustaceans-Copepods,Calanoida,Temoridae,Eurytemora,affinis,NULL,Eurytemora affinis,NULL,a calanoid copepod,Native,North America,85863
+2371,Crustaceans-Copepods,Harpacticoida,Canthocamptidae,Heteropsyllus,nunni,,Heteropsyllus nunni,,a copepod,Native,North America,87538
+2372,Crustaceans-Copepods,Harpacticoida,Ameiridae,Nitokra,hibernica,NULL,Nitokra hibernica,NULL,a harpacticoid copepod,Exotic,Eurasia,667882
+2373,Crustaceans-Copepods,Harpacticoida,Ameiridae,Nitokra,incerta,NULL,Nitokra incerta,NULL,a harpacticoid copepod,Exotic,Eurasia,667883
+2374,Crustaceans-Copepods,Harpacticoida,Diosaccidae,Schizopera,borutzkyi,NULL,Schizopera borutzkyi,NULL,oarsman,Exotic,Europe,87845
+2595,Crustaceans-Copepods,Poecilostomatoida,Ergasilidae,Neoergasilus,japonicus,NULL,Neoergasilus japonicus,NULL,a parasitic copepod,Exotic,Asia,667492
+2659,Crustaceans-Copepods,Harpacticoida,Canthocamptidae,Heteropsyllus,nr nunni,,Heteropsyllus nr nunni,,a copepod,Unknown,Unknown,NULL
+2711,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Cyclops,strenuus,NULL,Cyclops strenuus,NULL,Copepod,Native,North America,88687
+2716,Crustaceans-Copepods,Siphonostomatoida,Lernaeopodidae,Salmincola,lotae,NULL,Salmincola lotae,NULL,parasitic copepod,Cryptogenic,Eurasia,NULL
+2723,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Megacyclops,viridis,NULL,Megacyclops viridis,NULL,Cyclopoid copepod,Exotic,Europe,88754
+2750,Crustaceans-Copepods,Harpacticoida ,Tachidiidae,Tachidius,triangularis,NULL,Tachidius triangularis,NULL,a copepod,Exotic,Asia,86558
+2755,Crustaceans-Copepods, Harpacticoida,Harpacticidae,Harpacticella,paradoxa,NULL,Harpacticella paradoxa,NULL,harpacticoid copepod,Exotic,Asia,86396
+2756,Crustaceans-Copepods, Amphipoda,Crangonyctidae,Crangonyx,floridanus,NULL,Crangonyx floridanus,NULL," Florida crangonyctid, a freshwater amphipod",Native,North America,193516
+2772,Crustaceans-Copepods,Harpacticoida,Canthocamptidae,Elaphoidella,bidens,bidens,Elaphoidella bidens bidens,NULL,a copepod,Exotic,Eurasia,668149
+2790,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Bryocyclops,muscicola,NULL,Bryocyclops muscicola,NULL,a copepod,Exotic,Asia,667137
+2791,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Paracyclops,bromeliacola,NULL,Paracyclops bromeliacola,NULL,a copepod,Exotic,South America,NULL
+2792,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Apocyclops,dengizicus,NULL,Apocyclops dengizicus,NULL,,Exotic,Asia,667134
+2793,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Thermocyclops,crassus,NULL,Thermocyclops crassus,NULL,,Exotic,Europe and Africa,667156
+2794,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Mesocyclops,pehpeiensis,NULL,Mesocyclops pehpeiensis,NULL,a copepod,Exotic,Asia,88701
+2795,Crustaceans-Copepods,Cyclopoida,Cyclopidae,Mesocyclops,ogunnus,NULL,Mesocyclops ogunnus,NULL,a copepod,Exotic,Asia,88702
+2849,Crustaceans-Copepods,Calanoida,Diaptomidae,Sinodiaptomus,valkanovi,NULL,Sinodiaptomus valkanovi,NULL,,Exotic,Asia,NULL
+2875,Crustaceans-Copepods,Cyclopoida,Lernaeidae,Lernaea,cyprinacea,NULL,Lernaea cyprinacea,NULL,anchor worm,Exotic,Asia,89254
+2887,Crustaceans-Copepods,Calanoida,Diaptomidae,Sinodiaptomus,sarsi,NULL,Sinodiaptomus sarsi,NULL,a copepod,Exotic,Asia,666974
+2898,Crustaceans-Copepods,Calanoida,Diaptomidae,Arctodiaptomus,dorsalis,NULL,Arctodiaptomus dorsalis,NULL,copepod,Native,North America,572714
+2932,Crustaceans-Copepods,Siphonostomatoida,Lernaeopodidae,Salmincola,edwardsii,NULL,Salmincola edwardsii,NULL,,Native,Unknown,667742
+182,Crustaceans-Crabs,Decapoda,Grapsidae,Eriocheir,sinensis,NULL,Eriocheir sinensis,NULL,Chinese mitten crab,Exotic,Asia,99058
+183,Crustaceans-Crabs,Decapoda,Grapsidae,Hemigrapsus,sanguineus,NULL,Hemigrapsus sanguineus,NULL,Asian shore crab,Exotic,Asia,621740
+185,Crustaceans-Crabs,Decapoda,Grapsidae,Platychirograpsus,spectabilis,NULL,Platychirograpsus spectabilis,NULL,saber crab,Exotic,North America,99076
+193,Crustaceans-Crabs,Decapoda,Potamidae,Geothelphusa,dehaani,NULL,Geothelphusa dehaani,NULL,a freshwater crab,Exotic,Asia,NULL
+197,Crustaceans-Crabs,Decapoda,Xanthidae,Rhithropanopeus,harrisii,NULL,Rhithropanopeus harrisii,NULL,"estuarine mud crab, Harris mud crab",Native,North America,98790
+198,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,nigrescens,NULL,Pacifastacus nigrescens,NULL,sooty crayfish,Native,North America,97331
+199,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,gambelii,,Pacifastacus gambelii,,Pilose Crayfish,Native,North America,97330
+200,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,leniusculus,NULL,Pacifastacus leniusculus,NULL,signal crayfish,Native,North America,97326
+201,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,leniusculus,leniusculus,Pacifastacus leniusculus leniusculus,NULL,signal crayfish,Native,North America,650412
+202,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,leniusculus,trowbridgii,Pacifastacus leniusculus trowbridgii,,signal crayfish,Native,North America,650444
+203,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,sp.,NULL,Pacifastacus sp.,NULL,crayfish,Native,North America,97325
+204,Crustaceans-Crayfish,Decapoda,Cambaridae,Cambarellus,shufeldtii,,Cambarellus shufeldtii,,Cajun dwarf crayfish,Native,North America,97625
+205,Crustaceans-Crayfish,Decapoda,Cambaridae,Cambarus,cumberlandensis,,Cambarus cumberlandensis,,Cumberland crayfish,Native,North America,97359
+206,Crustaceans-Crayfish,Decapoda,Cambaridae,Cambarus,longirostris,,Cambarus longirostris,,Longnose Crayfish,Native,North America,97382
+207,Crustaceans-Crayfish,Decapoda,Cambaridae,Cambarus,robustus,,Cambarus robustus,,Big Water Crayfish,Native,North America,97400
+208,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonella,clypeata,,Faxonella clypeata,,Ditch Fencing Crayfish,Native,North America,97417
+209,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,causeyi,,Faxonius causeyi,,Western plains crayfish,Native,North America,97431
+210,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,immunis,,Faxonius immunis,,calico crayfish,Native,North America,97446
+211,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,luteus,,Faxonius luteus,,Golden crayfish,Native,North America,97456
+212,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,neglectus,neglectus,Faxonius neglectus neglectus,,Ringed crayfish,Native,North America,650429
+213,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,placidus,,Faxonius placidus,,Placid crayfish,Native,North America,97472
+214,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,rusticus,,Faxonius rusticus,,Rusty Crayfish,Native,North America,97424
+215,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,virilis,,Faxonius virilis,,"Virile Crayfish, Northern Crayfish",Native,North America,97425
+216,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,acutus,acutus,Procambarus acutus acutus,,White River Crawfish,Native,North America,650438
+217,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,clarkii,,Procambarus clarkii,,Red Swamp Crayfish,Native,North America,97491
+219,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,seminolae,NULL,Procambarus seminolae,NULL,Seminole crayfish,Native,North America,97564
+220,Crustaceans-Crayfish,Decapoda,Parastacidae,Cherax,quadricarinatus,,Cherax quadricarinatus,,Australian redclaw crayfish,Exotic,Australia,NULL
+2243,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,obscurus,,Faxonius obscurus,,Allegheny crayfish,Native,North America,97466
+2249,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,propinquus,,Faxonius propinquus,,Northern clearwater crayfish,Native,North America,97473
+2267,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,neglectus,,Faxonius neglectus,,Ringed crayfish,Native,North America,97465
+2342,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,hylas,,Faxonius hylas,,Woodland crayfish,Native,North America,97444
+2348,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,palmeri,creolanus,Faxonius palmeri creolanus,,Creole painted crayfish,Native,North America,650419
+2614,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,neglectus,chaenodactylus,Faxonius neglectus chaenodactylus,,gap ringed crayfish,Native,North America,650428
+2811,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,sanbornii,,Faxonius sanbornii,,Sanborn crayfish,Native,North America,97479
+2812,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,alleni,,Procambarus alleni,,electric blue crayfish,Native,North America,97498
+2845,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,harrisonii,,Faxonius harrisonii,,Belted crayfish,Native,North America,97441
+2882,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,hayi,NULL,Procambarus hayi,NULL,straightedge crayfish,Native,North America,97520
+2897,Crustaceans-Crayfish,Decapoda,Cambaridae,Procambarus,zonangulus,,Procambarus zonangulus,,Southern White River Crawfish,Native,North America,650386
+2899,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,cristavarius,,Faxonius cristavarius,,Spiny stream crayfish,Native,North America,650401
+2904,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,juvenilis,,Faxonius juvenilis,,Kentucky River crayfish,Native,North America,NULL
+2928,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,ronaldi,,Faxonius ronaldi,,Mud River crayfish,Native,North America,650402
+2929,Crustaceans-Crayfish,Decapoda,Cambaridae,Faxonius,putnami,,Faxonius putnami,,Phallic crayfish,Native,North America,97475
+2945,Crustaceans-Crayfish,Decapoda,Astacidae,Pacifastacus,leniusculus,klamathensis,Pacifastacus leniusculus klamathensis,,signal crayfish,Native,North America,650413
+3233,Crustaceans-Crayfish,Decapoda,Cambaridae,Orconectes,deanae,,Orconectes deanae,,Conchas Crayfish,Native,North America,97435
+2409,Crustaceans-Isopods,Isopoda,Asellidae,Caecidotea,racovitzai,NULL,Caecidotea racovitzai,NULL,an asellid isopod,Native,North America,92692
+2757,Crustaceans-Isopods,Isopoda,Trachelipodidae,Caecidotea,laticaudata,NULL,Caecidotea laticaudata,NULL,a  freshwater isopod,Native,North and Central America,92746
+2785,Crustaceans-Isopods,Isopoda,Asellidae,Asellus,hilgendorfii,NULL,Asellus hilgendorfii,NULL,an asellid isopod,Exotic,Northwest Pacific,542588
+1142,Crustaceans-Mysids,Mysida,Mysidae,Mysis,diluviana,NULL,Mysis diluviana,NULL,opossum shrimp,Native,North America,NULL
+2627,Crustaceans-Mysids,Mysida,Mysidae,Hemimysis,anomala,NULL,Hemimysis anomala,NULL,bloody red shrimp,Exotic,Eurasia,90568
+2874,Crustaceans-Mysids,Mysida,Mysidae,Taphromysis,louisianae,NULL,Taphromysis louisianae,NULL,a mysid shrimp,Native,North America,90276
+1199,Crustaceans-Shrimp,Decapoda,Atyidae,Caridina,weberi,NULL,Caridina weberi,NULL,atyid shrimp,Exotic,Asia,97265
+1200,Crustaceans-Shrimp,Decapoda,Palaemonidae,Exopalaemon,modestus,,Exopalaemon modestus,,Siberian prawn,Exotic,Asia,96574
+1201,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,lar,NULL,Macrobrachium lar,NULL,Tahitian prawn,Exotic,Asia,96308
+1202,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,olfersii,NULL,Macrobrachium olfersii,NULL,bristled river shrimp,Native,North America,96236
+1203,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,rosenbergii,NULL,Macrobrachium rosenbergii,NULL,giant river prawn,Exotic,Asia,96343
+1205,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,macrobrachion,NULL,Macrobrachium macrobrachion,NULL,brackish river prawn,Exotic,Africa,96324
+1207,Crustaceans-Shrimp,Decapoda,Palaemonidae,Palaemonetes,paludosus,,Palaemonetes paludosus,,Riverine Grass Shrimp,Native,North America,96385
+1209,Crustaceans-Shrimp,Decapoda,Penaeidae,Penaeus,monodon,,Penaeus monodon,,Asian tiger shrimp,Exotic,Asia,95638
+2257,Crustaceans-Shrimp,Decapoda,Atyidae,Neocaridina,denticulata,sinensis,Neocaridina denticulata sinensis,NULL,a shrimp,Exotic,Asia,NULL
+2620,Crustaceans-Shrimp,Decapoda,Palaemonidae,Palaemonetes,kadiakensis,,Palaemonetes kadiakensis,,Mississippi Grass Shrimp,Native,North America,96396
+2878,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,ohione,NULL,Macrobrachium ohione,NULL,Ohio shrimp,Native,North America,96221
+2914,Crustaceans-Shrimp,Decapoda,Atyidae,Potimirim,potimirim,NULL,Potimirim potimirim,NULL,potimirim shrimp,Exotic,South America,97251
+2926,Crustaceans-Shrimp,Decapoda,Palaemonidae,Macrobrachium,heterochirus,NULL,Macrobrachium heterochirus,NULL,cascade river prawn,Exotic,South and Central America,96233
+285,Entoprocts,Solitaria,Barentsiidae,Urnatella,gracilis,,Urnatella gracilis,,freshwater goblet worm,Native,North America,156754
+4,Fishes,Cypriniformes,Cyprinidae,Cyprinus,carpio,NULL,Cyprinus carpio,NULL,Common Carp,Exotic,Eurasia,163344
+7,Fishes,Perciformes,Percidae,Gymnocephalus,cernua,NULL,Gymnocephalus cernua,NULL,Ruffe,Exotic,Eurasia,168520
+299,Fishes,Acipenseriformes,Acipenseridae,Acipenser,fulvescens,NULL,Acipenser fulvescens,NULL,Lake Sturgeon,Native,North America,161071
+300,Fishes,Acipenseriformes,Acipenseridae,Acipenser,transmontanus,NULL,Acipenser transmontanus,NULL,White Sturgeon,Native,North America,161068
+301,Fishes,Acipenseriformes,Acipenseridae,Acipenser or Scaphirhynchus,sp.,NULL,Acipenser or Scaphirhynchus sp.,NULL,sturgeon (eastern species),Native,North America,161064
+302,Fishes,Beloniformes,Adrianichthyidae,Oryzias,latipes,NULL,Oryzias latipes,NULL,Japanese medaka,Exotic,Asia,165622
+303,Fishes,Albuliformes,Albulidae,Albula,vulpes,NULL,Albula vulpes,NULL,Bonefish,Native,North America,161121
+304,Fishes,Percopsiformes,Amblyopsidae,Forbesichthys,agassizii,NULL,Forbesichthys agassizii,NULL,Spring Cavefish,Native,North America,201968
+305,Fishes,Amiiformes,Amiidae,Amia,calva,NULL,Amia calva,NULL,Bowfin,Native,North America,161104
+306,Fishes,Perciformes,Anabantidae,Anabas,testudineus,NULL,Anabas testudineus,NULL,climbing perch,Exotic,Asia,172585
+307,Fishes,Perciformes,Anabantidae,Ctenopoma,nigropannosum,NULL,Ctenopoma nigropannosum,NULL,twospot climbing perch,Exotic,Africa,172607
+308,Fishes,Anguilliformes,Anguillidae,Anguilla,anguilla,NULL,Anguilla anguilla,NULL,European eel,Exotic,Europe,161128
+309,Fishes,Anguilliformes,Anguillidae,Anguilla,australis,NULL,Anguilla australis,NULL,shortfin eel,Exotic,Australia,161133
+310,Fishes,Anguilliformes,Anguillidae,Anguilla,rostrata,NULL,Anguilla rostrata,NULL,American Eel,Native,North America,161127
+311,Fishes,Anguilliformes,Anguillidae,Anguilla,sp.,NULL,Anguilla sp.,NULL,unidentified eel,Exotic,Unknown,161126
+312,Fishes,Characiformes,Anostomidae,Leporinus,fasciatus,NULL,Leporinus fasciatus,NULL,banded leporinus,Exotic,South America,163162
+313,Fishes,Percopsiformes,Aphredoderidae,Aphredoderus,sayanus,NULL,Aphredoderus sayanus,NULL,Pirate Perch,Native,North America,164405
+314,Fishes,Cyprinodontiformes,Aplocheilidae,Aplocheilus,lineatus,NULL,Aplocheilus lineatus,NULL,striped panchax,Exotic,Asia,165709
+315,Fishes,Cyprinodontiformes,Aplocheilidae,Nothobranchius,guentheri,NULL,Nothobranchius guentheri,NULL,redtail notho,Exotic,Africa,165836
+316,Fishes,Atheriniformes,Atherinopsidae,Colpichthys,regis,NULL,Colpichthys regis,NULL,False Grunion,Exotic,South America,166051
+317,Fishes,Atheriniformes,Atherinopsidae,Chirostoma,jordani,NULL,Chirostoma jordani,NULL,Mesa Silverside,Exotic,North America,166064
+318,Fishes,Atheriniformes,Atherinopsidae,Labidesthes,sicculus,NULL,Labidesthes sicculus,NULL,Brook Silverside,Native,North America,166016
+319,Fishes,Atheriniformes,Atherinopsidae,Leuresthes,sardina,NULL,Leuresthes sardina,NULL,Gulf Grunion,Exotic,South America,630754
+320,Fishes,Atheriniformes,Atherinopsidae,Membras,martinica,NULL,Membras martinica,NULL,Rough Silverside,Native,North America,165989
+321,Fishes,Atheriniformes,Atherinopsidae,Menidia,beryllina,NULL,Menidia beryllina,NULL,Inland Silverside,Native,North America,165993
+322,Fishes,Siluriformes,Auchenipteridae,Parauchenipterus,galeatus,NULL,Parauchenipterus galeatus,NULL,driftwood catfish,Exotic,South America,NULL
+323,Fishes,Tetraodontiformes,Balistidae,Rhinecanthus,verrucosus,NULL,Rhinecanthus verrucosus,NULL,bursa triggerfish,Exotic,Indo-Pacific,646366
+324,Fishes,Beloniformes,Belonidae,Strongylura,marina,NULL,Strongylura marina,NULL,Atlantic Needlefish,Native,North America,165551
+325,Fishes,Beloniformes,Belonidae,Xenentodon,cancila,,Xenentodon cancila,,Asian needlefish,Exotic,Asia,165599
+326,Fishes,Perciformes,Osphronemidae,Betta,splendens,NULL,Betta splendens,NULL,Siamese fighting fish,Exotic,Asia,172611
+327,Fishes,Perciformes,Osphronemidae,Trichogaster,fasciata,,Trichogaster fasciata,,banded gourami,Exotic,Asia,172624
+328,Fishes,Perciformes,Osphronemidae,Trichogaster,labiosa,,Trichogaster labiosa,,thicklipped gourami,Exotic,Asia,172630
+329,Fishes,Perciformes,Osphronemidae,Colisa,lalia,,Colisa lalia,,dwarf gourami,Exotic,Asia,172626
+330,Fishes,Perciformes,Osphronemidae,Macropodus,opercularis,NULL,Macropodus opercularis,NULL,paradise fish,Exotic,Asia,172642
+331,Fishes,Perciformes,Osphronemidae,Trichopodus,leerii,,Trichopodus leerii,,pearl gourami,Exotic,Asia,638782
+332,Fishes,Perciformes,Osphronemidae,Trichogaster,trichopterus,NULL,Trichogaster trichopterus,NULL,three-spot gourami,Exotic,Asia,172634
+333,Fishes,Perciformes,Osphronemidae,Trichopsis,vittata,NULL,Trichopsis vittata,NULL,Croaking Gourami,Exotic,Asia,553301
+334,Fishes,Perciformes,Blenniidae,Parablennius,thysanius,NULL,Parablennius thysanius,NULL,blenny,Exotic,Asia,636484
+335,Fishes,Siluriformes,Callichthyidae,Callichthys,callichthys,NULL,Callichthys callichthys,NULL,cascarudo,Exotic,South America,164281
+336,Fishes,Siluriformes,Callichthyidae,Corydoras,aeneus,NULL,Corydoras aeneus,NULL,green corydoras,Exotic,South America,164292
+337,Fishes,Siluriformes,Callichthyidae,Corydoras,sp.,NULL,Corydoras sp.,NULL,corydoras,Exotic,South America,164282
+338,Fishes,Siluriformes,Callichthyidae,Hoplosternum,littorale,NULL,Hoplosternum littorale,NULL,Brown Hoplo,Exotic,South America,679689
+339,Fishes,Perciformes,Carangidae,Caranx,caballus,NULL,Caranx caballus,NULL,Green Jack,Exotic,South America,168611
+340,Fishes,Perciformes,Carangidae,Trachinotus,paitensis,NULL,Trachinotus paitensis,NULL,Paloma Pompano,Exotic,South America,168714
+341,Fishes,Cypriniformes,Catostomidae,Carpiodes,carpio,NULL,Carpiodes carpio,NULL,River Carpsucker,Native,North America,163919
+342,Fishes,Cypriniformes,Catostomidae,Carpiodes,cyprinus,NULL,Carpiodes cyprinus,NULL,Quillback,Native,North America,163917
+343,Fishes,Cypriniformes,Catostomidae,Carpiodes,velifer,NULL,Carpiodes velifer,NULL,Highfin Carpsucker,Native,North America,163920
+344,Fishes,Cypriniformes,Catostomidae,Catostomus,ardens,NULL,Catostomus ardens,NULL,Utah Sucker,Native,North America,163899
+345,Fishes,Cypriniformes,Catostomidae,Catostomus,catostomus,NULL,Catostomus catostomus,NULL,Longnose Sucker,Native,North America,163894
+346,Fishes,Cypriniformes,Catostomidae,Catostomus,commersonii,NULL,Catostomus commersonii,NULL,White Sucker,Native,North America,553273
+347,Fishes,Cypriniformes,Catostomidae,Catostomus,fumeiventris,NULL,Catostomus fumeiventris,NULL,Owens Sucker,Native,North America,163904
+348,Fishes,Cypriniformes,Catostomidae,Catostomus,latipinnis,NULL,Catostomus latipinnis,NULL,Flannelmouth Sucker,Native,North America,163906
+349,Fishes,Cypriniformes,Catostomidae,Catostomus,occidentalis,NULL,Catostomus occidentalis,NULL,Sacramento Sucker,Native,North America,163908
+350,Fishes,Cypriniformes,Catostomidae,Catostomus,platyrhynchus,NULL,Catostomus platyrhynchus,NULL,Mountain Sucker,Native,North America,163909
+353,Fishes,Cypriniformes,Catostomidae,Catostomus,plebeius,NULL,Catostomus plebeius,NULL,Rio Grande Sucker,Native,North America,163910
+354,Fishes,Cypriniformes,Catostomidae,Catostomus,santaanae,NULL,Catostomus santaanae,NULL,Santa Ana Sucker,Native,North America,163912
+355,Fishes,Cypriniformes,Catostomidae,Catostomus,tahoensis,NULL,Catostomus tahoensis,NULL,Tahoe Sucker,Native,North America,163914
+356,Fishes,Cypriniformes,Catostomidae,Catostomus,undescribed sp.,NULL,Catostomus undescribed sp.,NULL,Little Colorado River sucker,Native,North America,163893
+357,Fishes,Cypriniformes,Catostomidae,Chasmistes,brevirostris,NULL,Chasmistes brevirostris,NULL,Shortnose Sucker,Native,North America,163961
+358,Fishes,Cypriniformes,Catostomidae,Erimyzon,sucetta,NULL,Erimyzon sucetta,NULL,Lake Chubsucker,Native,North America,163922
+359,Fishes,Cypriniformes,Catostomidae,Hypentelium,etowanum,NULL,Hypentelium etowanum,NULL,Alabama Hog Sucker,Native,North America,163950
+360,Fishes,Cypriniformes,Catostomidae,Hypentelium,nigricans,NULL,Hypentelium nigricans,NULL,Northern Hog Sucker,Native,North America,163949
+361,Fishes,Cypriniformes,Catostomidae,Ictiobus,bubalus,NULL,Ictiobus bubalus,NULL,Smallmouth Buffalo,Native,North America,163955
+362,Fishes,Cypriniformes,Catostomidae,Ictiobus,cyprinellus,NULL,Ictiobus cyprinellus,NULL,Bigmouth Buffalo,Native,North America,163956
+363,Fishes,Cypriniformes,Catostomidae,Ictiobus,niger,NULL,Ictiobus niger,NULL,Black Buffalo,Native,North America,163957
+364,Fishes,Cypriniformes,Catostomidae,Minytrema,melanops,NULL,Minytrema melanops,NULL,Spotted Sucker,Native,North America,163959
+365,Fishes,Cypriniformes,Catostomidae,Moxostoma,erythrurum,NULL,Moxostoma erythrurum,NULL,Golden Redhorse,Native,North America,163939
+366,Fishes,Cypriniformes,Catostomidae,Moxostoma,macrolepidotum,NULL,Moxostoma macrolepidotum,NULL,Shorthead Redhorse,Native,North America,163928
+367,Fishes,Cypriniformes,Catostomidae,Moxostoma,cervinum,NULL,Moxostoma cervinum,NULL,Blacktip Jumprock,Native,North America,163937
+368,Fishes,Cypriniformes,Catostomidae,Moxostoma,lachneri,NULL,Moxostoma lachneri,NULL,Greater Jumprock,Native,North America,163942
+369,Fishes,Cypriniformes,Catostomidae,Moxostoma,rupiscartes,NULL,Moxostoma rupiscartes,NULL,Striped Jumprock,Native,North America,163946
+370,Fishes,Cypriniformes,Catostomidae,Thoburnia,rhothoeca,NULL,Thoburnia rhothoeca,NULL,Torrent Sucker,Native,North America,553276
+371,Fishes,Perciformes,Centrarchidae,Ambloplites,cavifrons,NULL,Ambloplites cavifrons,NULL,Roanoke Bass,Native,North America,168098
+372,Fishes,Perciformes,Centrarchidae,Ambloplites,constellatus,NULL,Ambloplites constellatus,NULL,Ozark Bass,Native,North America,168100
+373,Fishes,Perciformes,Centrarchidae,Ambloplites,rupestris,NULL,Ambloplites rupestris,NULL,Rock Bass,Native,North America,168097
+374,Fishes,Perciformes,Centrarchidae,Archoplites,interruptus,NULL,Archoplites interruptus,NULL,Sacramento Perch,Native,North America,168175
+375,Fishes,Perciformes,Centrarchidae,Centrarchus,macropterus,NULL,Centrarchus macropterus,NULL,Flier,Native,North America,168102
+376,Fishes,Perciformes,Centrarchidae,Lepomis,gulosus,,Lepomis gulosus,,Warmouth,Native,North America,168138
+377,Fishes,Perciformes,Centrarchidae,Enneacanthus,gloriosus,NULL,Enneacanthus gloriosus,NULL,Bluespotted Sunfish,Native,North America,168113
+378,Fishes,Perciformes,Centrarchidae,Lepomis,sp.,NULL,Lepomis sp.,NULL,sunfish,Native,North America,168130
+379,Fishes,Perciformes,Centrarchidae,Lepomis,auritus,NULL,Lepomis auritus,NULL,Redbreast Sunfish,Native,North America,168131
+380,Fishes,Perciformes,Centrarchidae,Lepomis,cyanellus,NULL,Lepomis cyanellus,NULL,Green Sunfish,Native,North America,168132
+382,Fishes,Perciformes,Centrarchidae,Lepomis,gibbosus,NULL,Lepomis gibbosus,NULL,Pumpkinseed,Native,North America,168144
+383,Fishes,Perciformes,Centrarchidae,Lepomis,humilis,NULL,Lepomis humilis,NULL,Orangespotted Sunfish,Native,North America,168151
+384,Fishes,Perciformes,Centrarchidae,Lepomis,hybrids,NULL,Lepomis hybrids,NULL,hybrid sunfish,Native,North America,NULL
+385,Fishes,Perciformes,Centrarchidae,Lepomis,macrochirus,NULL,Lepomis macrochirus,NULL,Bluegill,Native,North America,168141
+388,Fishes,Perciformes,Centrarchidae,Lepomis,megalotis,NULL,Lepomis megalotis,NULL,Longear Sunfish,Native,North America,168153
+390,Fishes,Perciformes,Centrarchidae,Lepomis,microlophus,NULL,Lepomis microlophus,NULL,Redear Sunfish,Native,North America,168154
+391,Fishes,Perciformes,Centrarchidae,Lepomis,miniatus,NULL,Lepomis miniatus,NULL,Redspotted Sunfish,Native,North America,168157
+392,Fishes,Perciformes,Centrarchidae,Micropterus,sp.,NULL,Micropterus sp.,NULL,black bass,Native,North America,168158
+394,Fishes,Perciformes,Centrarchidae,Micropterus,cataractae,NULL,Micropterus cataractae,NULL,Shoal Bass,Native,North America,564610
+395,Fishes,Perciformes,Centrarchidae,Micropterus,coosae,,Micropterus coosae,,Redeye Bass (sensu lato),Native,North America,168163
+396,Fishes,Perciformes,Centrarchidae,Micropterus,dolomieu,NULL,Micropterus dolomieu,NULL,Smallmouth Bass,Native,North America,550562
+397,Fishes,Perciformes,Centrarchidae,Micropterus,punctulatus,NULL,Micropterus punctulatus,NULL,Spotted Bass,Native,North America,168161
+398,Fishes,Perciformes,Centrarchidae,Micropterus,henshalli,NULL,Micropterus henshalli,NULL,Alabama Bass,Native,North America,168161
+401,Fishes,Perciformes,Centrarchidae,Micropterus,salmoides,NULL,Micropterus salmoides,NULL,Largemouth Bass,Native,North America,168160
+402,Fishes,Perciformes,Centrarchidae,Micropterus,salmoides,floridanus,Micropterus salmoides floridanus,NULL,Florida largemouth bass,Native,North America,168160
+403,Fishes,Perciformes,Centrarchidae,Micropterus,salmoides,floridanus x salmoides,Micropterus salmoides floridanus x salmoides,NULL,largemouth bass hybrid,Native,North America,NULL
+405,Fishes,Perciformes,Centrarchidae,Micropterus,salmoides,salmoides,Micropterus salmoides salmoides,NULL,northern largemouth bass,Native,North America,NULL
+406,Fishes,Perciformes,Centrarchidae,Micropterus,treculii,NULL,Micropterus treculii,NULL,Guadalupe Bass,Native,North America,168162
+407,Fishes,Perciformes,Centrarchidae,Pomoxis,sp.,NULL,Pomoxis sp.,NULL,crappie,Native,North America,168165
+408,Fishes,Perciformes,Centrarchidae,Pomoxis,annularis,NULL,Pomoxis annularis,NULL,White Crappie,Native,North America,168166
+409,Fishes,Perciformes,Centrarchidae,Pomoxis,nigromaculatus,NULL,Pomoxis nigromaculatus,NULL,Black Crappie,Native,North America,168167
+410,Fishes,Perciformes,Centropomidae,Lates,angustifrons,NULL,Lates angustifrons,NULL,Tanganyika lates,Exotic,Africa,645773
+411,Fishes,Perciformes,Centropomidae,Lates,mariae,NULL,Lates mariae,NULL,bigeye lates,Exotic,Africa,167671
+412,Fishes,Perciformes,Centropomidae,Lates,niloticus,NULL,Lates niloticus,NULL,Nile perch,Exotic,Africa,167670
+413,Fishes,Gonorynchiformes,Chanidae,Chanos,chanos,,Chanos chanos,,Milkfish,Native,Indo-Pacific,162838
+414,Fishes,Perciformes,Channidae,Channa,micropeltes,NULL,Channa micropeltes,NULL,Giant Snakehead,Exotic,Asia,642757
+416,Fishes,Characiformes,Characidae,Aphyocharax,anisitsi,NULL,Aphyocharax anisitsi,NULL,bloodfin tetra,Exotic,South America,163011
+417,Fishes,Characiformes,Characidae,Astyanax,mexicanus,NULL,Astyanax mexicanus,NULL,Mexican Tetra,Native,North America,162850
+418,Fishes,Characiformes,Characidae,Colossoma,macropomum,NULL,Colossoma macropomum,NULL,tambaqui,Exotic,South America,639908
+419,Fishes,Characiformes,Characidae,Colossoma or Piaractus,sp.,NULL,Colossoma or Piaractus sp.,NULL,unidentified pacu,Exotic,South America,NULL
+420,Fishes,Characiformes,Characidae,Gymnocorymbus,ternetzi,NULL,Gymnocorymbus ternetzi,NULL,black tetra,Exotic,South America,162891
+421,Fishes,Characiformes,Characidae,Hemigrammus,ocellifer,NULL,Hemigrammus ocellifer,NULL,head-and-taillight tetra,Exotic,South America,162961
+422,Fishes,Characiformes,Characidae,Hyphessobrycon,eques,NULL,Hyphessobrycon eques,NULL,serpae tetra,Exotic,South America,639869
+423,Fishes,Characiformes,Characidae,Metynnis,sp.,NULL,Metynnis sp.,NULL,metynnis,Exotic,South America,163247
+424,Fishes,Characiformes,Characidae,Moenkhausia,sanctaefilomenae,NULL,Moenkhausia sanctaefilomenae,NULL,redeye tetra,Exotic,South America,162990
+425,Fishes,Characiformes,Characidae,Myloplus,rubripinnis,NULL,Myloplus rubripinnis,NULL,redhook pacu,Exotic,South America,163255
+426,Fishes,Characiformes,Characidae,Paracheirodon,innesi,NULL,Paracheirodon innesi,NULL,neon tetra,Exotic,South America,163041
+427,Fishes,Characiformes,Characidae,Piaractus,brachypomus,NULL,Piaractus brachypomus,NULL,"pirapatinga, red-bellied pacu",Exotic,South America,163280
+428,Fishes,Characiformes,Characidae,Piaractus,mesopotamicus,NULL,Piaractus mesopotamicus,NULL,small-scaled pacu,Exotic,South America,641578
+429,Fishes,Characiformes,Characidae,Pygocentrus,nattereri,NULL,Pygocentrus nattereri,NULL,red piranha,Exotic,South America,641816
+430,Fishes,Characiformes,Characidae,Pygocentrus or Serrasalmus,sp.,NULL,Pygocentrus or Serrasalmus sp.,NULL,unidentified piranha,Exotic,South America,NULL
+431,Fishes,Characiformes,Characidae,Serrasalmus,rhombeus,NULL,Serrasalmus rhombeus,NULL,white piranha,Exotic,South America,163268
+433,Fishes,Perciformes,Cichlidae,"Oreochromis, Sarotherodon, Tilapia",sp.,NULL,"Oreochromis, Sarotherodon, Tilapia sp.",NULL,tilapia,Exotic,Africa,169770
+434,Fishes,Perciformes,Cichlidae,"Oreochromis, Sarotherodon, Tilapia",sp. x sp.,NULL,"Oreochromis, Sarotherodon, Tilapia sp. x sp.",NULL,hybrid tilapia,Exotic Hybrid,Africa,NULL
+435,Fishes,Perciformes,Cichlidae,Aequidens,pulcher,NULL,Aequidens pulcher,NULL,blue acara,Exotic,South America,169837
+436,Fishes,Perciformes,Cichlidae,Astronotus,ocellatus,NULL,Astronotus ocellatus,NULL,Oscar,Exotic,South America,169772
+437,Fishes,Perciformes,Cichlidae,Cichla,ocellaris,NULL,Cichla ocellaris,NULL,Butterfly Peacock Bass,Exotic,South America,169857
+438,Fishes,Perciformes,Cichlidae,Cichla,temensis,NULL,Cichla temensis,NULL,speckled pavon,Exotic,South America,169858
+439,Fishes,Perciformes,Cichlidae,Cichlasoma,sp.,NULL,Cichlasoma sp.,NULL,cichlid,Exotic,South America,169774
+440,Fishes,Perciformes,Cichlidae,Cichlasoma,beani,NULL,Cichlasoma beani,NULL,Sinaloa Cichlid,Exotic,South America,169803
+441,Fishes,Perciformes,Cichlidae,Cichlasoma,bimaculatum,NULL,Cichlasoma bimaculatum,NULL,Black Acara,Exotic,South America,169775
+442,Fishes,Perciformes,Cichlidae,Amphilophus,citrinellus,,Amphilophus citrinellus,,Midas Cichlid,Exotic,Central America,648192
+443,Fishes,Perciformes,Cichlidae,Herichthys,cyanoguttatus,,Herichthys cyanoguttatus,,Rio Grande Cichlid,Native,North America,649487
+444,Fishes,Perciformes,Cichlidae,Amphilophus,labiatus,NULL,Amphilophus labiatus,NULL,red devil,Exotic,Central America,648257
+445,Fishes,Perciformes,Cichlidae,Parachromis,managuensis,,Parachromis managuensis,,Jaguar Guapote,Exotic,Central America,649548
+446,Fishes,Perciformes,Cichlidae,Thorichthys,meeki,,Thorichthys meeki,,Firemouth Cichlid,Exotic,North and Central America,169787
+447,Fishes,Perciformes,Cichlidae,Archocentrus,nigrofasciatus,,Archocentrus nigrofasciatus,,Convict Cichlid,Exotic,Central America,648207
+448,Fishes,Perciformes,Cichlidae,Rocio,octofasciata,,Rocio octofasciata,,Jack Dempsey,Exotic,Central America,649458
+449,Fishes,Perciformes,Cichlidae,Cichlasoma,salvini,NULL,Cichlasoma salvini,NULL,Yellowbelly Cichlid,Exotic,Central America,169788
+450,Fishes,Perciformes,Cichlidae,Cichlasoma,spilurum,NULL,Cichlasoma spilurum,NULL,blue-eyed cichlid,Exotic,South America,169790
+451,Fishes,Perciformes,Cichlidae,Vieja,melanura,,Vieja melanura,,Redhead Cichlid,Exotic,Central America,648944
+452,Fishes,Perciformes,Cichlidae,Cichlasoma,trimaculatum,NULL,Cichlasoma trimaculatum,NULL,Threespot Cichlid,Exotic,South America,169804
+453,Fishes,Perciformes,Cichlidae,Cichlasoma,urophthalmus,,Cichlasoma urophthalmus,,Mayan Cichlid,Exotic,North and Central America,169802
+454,Fishes,Perciformes,Cichlidae,Geophagus,brasiliensis,NULL,Geophagus brasiliensis,NULL,pearl eartheater,Exotic,South America,169915
+455,Fishes,Perciformes,Cichlidae,Geophagus,sp.,NULL,Geophagus sp.,NULL,eartheater,Exotic,South America,169919
+456,Fishes,Perciformes,Cichlidae,Hemichromis,elongatus,NULL,Hemichromis elongatus,NULL,banded jewelfish,Exotic,Africa,553307
+457,Fishes,Perciformes,Cichlidae,Hemichromis,letourneuxi,NULL,Hemichromis letourneuxi,NULL,African Jewelfish,Exotic,Africa,553306
+458,Fishes,Perciformes,Cichlidae,Heros,severus,NULL,Heros severus,NULL,Banded Cichlid,Exotic,South America,169895
+459,Fishes,Perciformes,Cichlidae,Pseudotropheus,socolofi,NULL,Pseudotropheus socolofi,NULL,Pindani,Exotic,Africa,648891
+460,Fishes,Perciformes,Cichlidae,Melanochromis,auratus,NULL,Melanochromis auratus,NULL,golden mbuna,Exotic,Africa,169969
+461,Fishes,Perciformes,Cichlidae,Melanochromis,johannii,NULL,Melanochromis johannii,NULL,bluegray mbuna,Exotic,Africa,169972
+462,Fishes,Perciformes,Cichlidae,Oreochromis,mossambicus x hornorum,NULL,Oreochromis mossambicus x hornorum,NULL,hybrid tilapia,Exotic Hybrid,Africa,NULL
+463,Fishes,Perciformes,Cichlidae,Oreochromis,aureus,NULL,Oreochromis aureus,NULL,Blue Tilapia,Exotic,Africa,553308
+464,Fishes,Perciformes,Cichlidae,Oreochromis,aureus x mossambicus,NULL,Oreochromis aureus x mossambicus,NULL,blue x Mozambique tilapia,Exotic Hybrid,Africa,NULL
+465,Fishes,Perciformes,Cichlidae,Oreochromis,macrochir,NULL,Oreochromis macrochir,NULL,longfin tilapia,Exotic,Africa,553309
+466,Fishes,Perciformes,Cichlidae,Oreochromis,mossambicus,NULL,Oreochromis mossambicus,NULL,Mozambique Tilapia,Exotic,Africa,170015
+468,Fishes,Perciformes,Cichlidae,Oreochromis,niloticus,NULL,Oreochromis niloticus,NULL,Nile Tilapia,Exotic,Africa,553310
+469,Fishes,Perciformes,Cichlidae,Oreochromis,urolepis,NULL,Oreochromis urolepis,NULL,Wami Tilapia,Exotic,Africa,170018
+470,Fishes,Perciformes,Cichlidae,Oreochromis,urolepis,hornorum,Oreochromis urolepis hornorum,NULL,Wami Tilapia,Exotic,Africa,170020
+471,Fishes,Perciformes,Cichlidae,Oreochromis,urolepis hornorum x mossambicus,NULL,Oreochromis urolepis hornorum x mossambicus,NULL,hybrid tilapia,Exotic Hybrid,Africa,170020
+472,Fishes,Perciformes,Cichlidae,Pelvicachromis,pulcher,NULL,Pelvicachromis pulcher,NULL,rainbow krib,Exotic,Africa,169993
+473,Fishes,Perciformes,Cichlidae,Pseudotropheus,sp.,NULL,Pseudotropheus sp.,NULL,African Lake cichlid,Exotic,Africa,170005
+474,Fishes,Perciformes,Cichlidae,Pseudotropheus,zebra,NULL,Pseudotropheus zebra,NULL,zebra mbuna,Exotic,Africa,170012
+475,Fishes,Perciformes,Cichlidae,Pterophyllum,scalare,NULL,Pterophyllum scalare,NULL,freshwater angelfish,Exotic,South America,169845
+476,Fishes,Perciformes,Cichlidae,Pterophyllum,sp.,NULL,Pterophyllum sp.,NULL,freshwater angelfish,Exotic,South America,169844
+477,Fishes,Perciformes,Cichlidae,Sarotherodon,melanotheron,NULL,Sarotherodon melanotheron,NULL,Blackchin Tilapia,Exotic,Africa,553311
+478,Fishes,Perciformes,Cichlidae,Symphysodon,discus,NULL,Symphysodon discus,NULL,red discus,Exotic,South America,170028
+479,Fishes,Perciformes,Cichlidae,Telmatochromis,bifrenatus,NULL,Telmatochromis bifrenatus,NULL,Lake Tanganyika dwarf cichlid,Exotic,Africa,170032
+480,Fishes,Perciformes,Cichlidae,Tilapia,sp.,NULL,Tilapia sp.,NULL,unidentified tilapia,Exotic,Africa,169809
+481,Fishes,Perciformes,Cichlidae,Tilapia,buttikoferi,NULL,Tilapia buttikoferi,NULL,zebra tilapia,Exotic,Africa,648956
+482,Fishes,Perciformes,Cichlidae,Tilapia,mariae,NULL,Tilapia mariae,NULL,Spotted Tilapia,Exotic,Africa,169811
+483,Fishes,Perciformes,Cichlidae,Tilapia,rendalli,NULL,Tilapia rendalli,NULL,redbreast tilapia,Exotic,Africa,169816
+484,Fishes,Perciformes,Cichlidae,Tilapia,sparrmanii,NULL,Tilapia sparrmanii,NULL,banded tilapia,Exotic,Africa,649586
+485,Fishes,Perciformes,Cichlidae,Tilapia,zillii,NULL,Tilapia zillii,NULL,Redbelly Tilapia,Exotic,Africa,169813
+486,Fishes,Siluriformes,Clariidae,Clarias,batrachus,NULL,Clarias batrachus,NULL,Walking Catfish,Exotic,Asia,164120
+487,Fishes,Siluriformes,Clariidae,Clarias,fuscus,NULL,Clarias fuscus,NULL,whitespotted clarias,Exotic,Asia,164122
+488,Fishes,Clupeiformes,Clupeidae,Alosa,aestivalis,NULL,Alosa aestivalis,NULL,Blueback Herring,Native,North America,161703
+489,Fishes,Clupeiformes,Clupeidae,Alosa,chrysochloris,NULL,Alosa chrysochloris,NULL,Skipjack Herring,Native,North America,161707
+490,Fishes,Clupeiformes,Clupeidae,Alosa,pseudoharengus,NULL,Alosa pseudoharengus,NULL,Alewife,Native,North America,161706
+491,Fishes,Clupeiformes,Clupeidae,Alosa,sapidissima,NULL,Alosa sapidissima,NULL,American Shad,Native,North America,161702
+492,Fishes,Clupeiformes,Clupeidae,Dorosoma,cepedianum,NULL,Dorosoma cepedianum,NULL,Gizzard Shad,Native,North America,161737
+493,Fishes,Clupeiformes,Clupeidae,Dorosoma,petenense,NULL,Dorosoma petenense,NULL,Threadfin Shad,Native,North America,161738
+494,Fishes,Clupeiformes,Clupeidae,Dorosoma,petenense,atchafalayae,Dorosoma petenense atchafalayae,NULL,Mississippi threadfin shad,Native,North America,NULL
+495,Fishes,Clupeiformes,Clupeidae,Herklotsichthys,quadrimaculatus,NULL,Herklotsichthys quadrimaculatus,NULL,goldspot herring,Exotic,Indo-Pacific,161825
+496,Fishes,Clupeiformes,Clupeidae,Opisthonema,libertate,NULL,Opisthonema libertate,NULL,Deepbody Thread Herring,Exotic,North America,161750
+497,Fishes,Clupeiformes,Clupeidae,Sardinella,marquesensis,NULL,Sardinella marquesensis,NULL,Marquesan sardine,Exotic,Indo-Pacific,161766
+498,Fishes,Cypriniformes,Cobitidae,Misgurnus,anguillicaudatus,NULL,Misgurnus anguillicaudatus,NULL,Oriental Weatherfish,Exotic,Asia,163978
+499,Fishes,Cypriniformes,Cobitidae,Misgurnus,mizolepis,NULL,Misgurnus mizolepis,NULL,Chinese fine-scaled loach,Exotic,Asia,640096
+500,Fishes,Cypriniformes,Cobitidae,Pangio,kuhlii,NULL,Pangio kuhlii,NULL,coolie loach,Exotic,Asia,640107
+501,Fishes,Scorpaeniformes,Cottidae,Cottus,asper,NULL,Cottus asper,NULL,Prickly Sculpin,Native,North America,167233
+502,Fishes,Scorpaeniformes,Cottidae,Cottus,bairdii,NULL,Cottus bairdii,NULL,Mottled Sculpin,Native,North America,167237
+503,Fishes,Scorpaeniformes,Cottidae,Cottus,extensus,NULL,Cottus extensus,NULL,Bear Lake Sculpin,Native,North America,167242
+504,Fishes,Scorpaeniformes,Cottidae,Cottus,greenei,NULL,Cottus greenei,NULL,Shoshone Sculpin,Native,North America,167244
+505,Fishes,Cypriniformes,Cyprinidae,Danio,rerio,NULL,Danio rerio,NULL,zebra danio,Exotic,Asia,163699
+506,Fishes,Cypriniformes,Cyprinidae,Campostoma,anomalum,NULL,Campostoma anomalum,NULL,Central Stoneroller,Native,North America,163508
+507,Fishes,Cypriniformes,Cyprinidae,Campostoma,oligolepis,NULL,Campostoma oligolepis,NULL,Largescale Stoneroller,Native,North America,163509
+508,Fishes,Cypriniformes,Cyprinidae,Carassius,auratus,NULL,Carassius auratus,NULL,Goldfish,Exotic,Asia,163350
+509,Fishes,Cypriniformes,Cyprinidae,Carassius,carassius,NULL,Carassius carassius,NULL,crucian carp,Exotic,Asia,163352
+510,Fishes,Cypriniformes,Cyprinidae,Clinostomus,elongatus,NULL,Clinostomus elongatus,NULL,Redside Dace,Native,North America,163373
+511,Fishes,Cypriniformes,Cyprinidae,Clinostomus,funduloides,NULL,Clinostomus funduloides,NULL,Rosyside Dace,Native,North America,163371
+512,Fishes,Cypriniformes,Cyprinidae,Clinostomus,funduloides,funduloides,Clinostomus funduloides funduloides,NULL,Rosyside Dace,Native,North America,163372
+513,Fishes,Cypriniformes,Cyprinidae,Couesius,plumbeus,NULL,Couesius plumbeus,NULL,Lake Chub,Native,North America,163535
+514,Fishes,Cypriniformes,Cyprinidae,Ctenopharyngodon,idella,NULL,Ctenopharyngodon idella,NULL,Grass Carp,Exotic,Asia,163537
+515,Fishes,Cypriniformes,Cyprinidae,Ctenopharyngodon x Hypophthalmichthys,idella x nobilis,NULL,Ctenopharyngodon x Hypophthalmichthys idella x nobilis,NULL,grass carp x bighead carp,Exotic Hybrid,Asia,NULL
+516,Fishes,Cypriniformes,Cyprinidae,Cyprinella,analostana,NULL,Cyprinella analostana,NULL,Satinfin Shiner,Native,North America,163766
+517,Fishes,Cypriniformes,Cyprinidae,Cyprinella,galactura,NULL,Cyprinella galactura,NULL,Whitetail Shiner,Native,North America,163782
+518,Fishes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis,NULL,Cyprinella lutrensis,NULL,Red Shiner,Native,North America,163792
+519,Fishes,Cypriniformes,Cyprinidae,Cyprinella,pyrrhomelas,NULL,Cyprinella pyrrhomelas,NULL,Fieryblack Shiner,Native,North America,163801
+520,Fishes,Cypriniformes,Cyprinidae,Cyprinella,spiloptera,NULL,Cyprinella spiloptera,NULL,Spotfin Shiner,Native,North America,163803
+521,Fishes,Cypriniformes,Cyprinidae,Cyprinella,venusta,NULL,Cyprinella venusta,NULL,Blacktail Shiner,Native,North America,163809
+522,Fishes,Cypriniformes,Cyprinidae,Cyprinella,venusta,cercostigma,Cyprinella venusta cercostigma,NULL,eastern blacktail shiner,Native,North America,NULL
+523,Fishes,Cypriniformes,Cyprinidae,Cyprinella,whipplei,NULL,Cyprinella whipplei,NULL,Steelcolor Shiner,Native,North America,163811
+527,Fishes,Cypriniformes,Cyprinidae,Devario,malabaricus,NULL,Devario malabaricus,NULL,Malabar danio,Exotic,Asia,688997
+528,Fishes,Cypriniformes,Cyprinidae,Eremichthys,acros,NULL,Eremichthys acros,NULL,Desert Dace,Native,North America,163540
+529,Fishes,Cypriniformes,Cyprinidae,Exoglossum,laurae,NULL,Exoglossum laurae,NULL,Tonguetied Minnow,Native,North America,163357
+530,Fishes,Cypriniformes,Cyprinidae,Exoglossum,maxillingua,NULL,Exoglossum maxillingua,NULL,Cutlip Minnow,Native,North America,163356
+531,Fishes,Cypriniformes,Cyprinidae,Gila,atraria,NULL,Gila atraria,NULL,Utah Chub,Native,North America,163543
+532,Fishes,Cypriniformes,Cyprinidae,Siphateles,bicolor,NULL,Siphateles bicolor,NULL,Tui Chub,Native,North America,913989
+533,Fishes,Cypriniformes,Cyprinidae,Siphateles,bicolor,mohavensis,Siphateles bicolor mohavensis,NULL,Mohave Tui Chub,Native,North America,914012
+535,Fishes,Cypriniformes,Cyprinidae,Siphateles,bicolor,obesus,Siphateles bicolor obesus,NULL,Lahontan Creek Tui Chub,Native,North America,914009
+536,Fishes,Cypriniformes,Cyprinidae,Siphateles,bicolor,snyderi,Siphateles bicolor snyderi,NULL,Owens Tui Chub,Native,North America,914014
+537,Fishes,Cypriniformes,Cyprinidae,Siphateles,bicolor,ssp.,Siphateles bicolor ssp.,NULL,Hot Creek Valley Tui Chub,Native,North America,NULL
+538,Fishes,Cypriniformes,Cyprinidae,Gila,coerulea,NULL,Gila coerulea,NULL,Blue Chub,Native,North America,163548
+540,Fishes,Cypriniformes,Cyprinidae,Gila,orcuttii,NULL,Gila orcuttii,NULL,Arroyo Chub,Native,North America,553278
+541,Fishes,Cypriniformes,Cyprinidae,Gila,pandora,NULL,Gila pandora,NULL,Rio Grande Chub,Native,North America,163556
+542,Fishes,Cypriniformes,Cyprinidae,Gila,seminuda,NULL,Gila seminuda,NULL,Virgin Chub,Native,North America,553395
+543,Fishes,Cypriniformes,Cyprinidae,Hesperoleucus,symmetricus,NULL,Hesperoleucus symmetricus,NULL,California Roach,Native,North America,163565
+544,Fishes,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni,NULL,Hybognathus hankinsoni,NULL,Brassy Minnow,Native,North America,163363
+545,Fishes,Cypriniformes,Cyprinidae,Hybognathus,placitus,NULL,Hybognathus placitus,NULL,Plains Minnow,Native,North America,163361
+546,Fishes,Cypriniformes,Cyprinidae,Hybognathus,regius,NULL,Hybognathus regius,NULL,Eastern Silvery Minnow,Native,North America,163359
+547,Fishes,Cypriniformes,Cyprinidae,Hybopsis,amblops,NULL,Hybopsis amblops,NULL,Bigeye Chub,Native,North America,163476
+548,Fishes,Cypriniformes,Cyprinidae,Hybopsis,cf. winchelli,NULL,Hybopsis cf. winchelli,NULL,undescribed clear chub,Native,North America,NULL
+549,Fishes,Cypriniformes,Cyprinidae,Hypophthalmichthys,molitrix,NULL,Hypophthalmichthys molitrix,NULL,Silver Carp,Exotic,Asia,163691
+550,Fishes,Cypriniformes,Cyprinidae,Hypophthalmichthys,molitrix x nobilis,NULL,Hypophthalmichthys molitrix x nobilis,NULL,hybrid silver/bighead carp,Exotic Hybrid,Asia,NULL
+551,Fishes,Cypriniformes,Cyprinidae,Hypophthalmichthys,nobilis,NULL,Hypophthalmichthys nobilis,NULL,Bighead Carp,Exotic,Asia,163692
+552,Fishes,Cypriniformes,Cyprinidae,Iotichthys,phlegethontis,NULL,Iotichthys phlegethontis,NULL,Least Chub,Native,North America,163567
+553,Fishes,Cypriniformes,Cyprinidae,Lavinia,exilicauda,NULL,Lavinia exilicauda,NULL,Hitch,Native,North America,163569
+554,Fishes,Cypriniformes,Cyprinidae,Lepidomeda,albivallis,NULL,Lepidomeda albivallis,NULL,White River Spinedace,Native,North America,163571
+555,Fishes,Cypriniformes,Cyprinidae,Lepidomeda,mollispinis,mollispinis,Lepidomeda mollispinis mollispinis,NULL,Virgin Spinedace,Native,North America,201924
+556,Fishes,Cypriniformes,Cyprinidae,Lepidomeda,mollispinis,pratensis,Lepidomeda mollispinis pratensis,NULL,Big Spring spinedace,Native,North America,201925
+557,Fishes,Cypriniformes,Cyprinidae,Leuciscus,idus,NULL,Leuciscus idus,NULL,Ide,Exotic,Eurasia,163576
+558,Fishes,Cypriniformes,Cyprinidae,Luxilus,albeolus,NULL,Luxilus albeolus,NULL,White Shiner,Native,North America,163826
+559,Fishes,Cypriniformes,Cyprinidae,Luxilus,cerasinus,NULL,Luxilus cerasinus,NULL,Crescent Shiner,Native,North America,163830
+560,Fishes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus,NULL,Luxilus chrysocephalus,NULL,Striped Shiner,Native,North America,163832
+561,Fishes,Cypriniformes,Cyprinidae,Luxilus,chrysocephalus,isolepis,Luxilus chrysocephalus isolepis,NULL,Striped Shiner,Native,North America,163832
+562,Fishes,Cypriniformes,Cyprinidae,Luxilus,coccogenis,NULL,Luxilus coccogenis,NULL,Warpaint Shiner,Native,North America,163834
+563,Fishes,Cypriniformes,Cyprinidae,Luxilus,cornutus,NULL,Luxilus cornutus,NULL,Common Shiner,Native,North America,163836
+564,Fishes,Cypriniformes,Cyprinidae,Luxilus,zonistius,NULL,Luxilus zonistius,NULL,Bandfin Shiner,Native,North America,163843
+565,Fishes,Cypriniformes,Cyprinidae,Lythrurus,ardens,NULL,Lythrurus ardens,NULL,Rosefin Shiner,Native,North America,163847
+566,Fishes,Cypriniformes,Cyprinidae,Lythrurus,atrapiculus,NULL,Lythrurus atrapiculus,NULL,Blacktip Shiner,Native,North America,163849
+567,Fishes,Cypriniformes,Cyprinidae,Lythrurus,fasciolaris,NULL,Lythrurus fasciolaris,NULL,Scarlet Shiner,Native,North America,201928
+568,Fishes,Cypriniformes,Cyprinidae,Lythrurus,matutinus,NULL,Lythrurus matutinus,NULL,Pinewoods Shiner,Native,North America,201926
+569,Fishes,Cypriniformes,Cyprinidae,Margariscus,margarita,NULL,Margariscus margarita,NULL,Allegheny Pearl Dace,Native,North America,163873
+570,Fishes,Cypriniformes,Cyprinidae,Meda,fulgida,NULL,Meda fulgida,NULL,Spikedace,Native,North America,163583
+571,Fishes,Cypriniformes,Cyprinidae,Moapa,coriacea,NULL,Moapa coriacea,NULL,Moapa Dace,Native,North America,163585
+572,Fishes,Cypriniformes,Cyprinidae,Labeo,chrysophekadion,NULL,Labeo chrysophekadion,NULL,"black sharkminnow, black labeo",Exotic,Asia,163689
+573,Fishes,Cypriniformes,Cyprinidae,Mylopharyngodon,piceus,NULL,Mylopharyngodon piceus,NULL,Black Carp,Exotic,Asia,639618
+574,Fishes,Cypriniformes,Cyprinidae,Nocomis,biguttatus,NULL,Nocomis biguttatus,NULL,Hornyhead Chub,Native,North America,163395
+575,Fishes,Cypriniformes,Cyprinidae,Nocomis,leptocephalus,NULL,Nocomis leptocephalus,NULL,Bluehead Chub,Native,North America,163393
+576,Fishes,Cypriniformes,Cyprinidae,Nocomis,leptocephalus,bellicus,Nocomis leptocephalus bellicus,NULL,Bluehead Chub,Native,North America,163393
+577,Fishes,Cypriniformes,Cyprinidae,Nocomis,micropogon,NULL,Nocomis micropogon,NULL,River Chub,Native,North America,163392
+578,Fishes,Cypriniformes,Cyprinidae,Nocomis,raneyi,NULL,Nocomis raneyi,NULL,Bull Chub,Native,North America,163398
+579,Fishes,Cypriniformes,Cyprinidae,Notemigonus,crysoleucas,NULL,Notemigonus crysoleucas,NULL,Golden Shiner,Native,North America,163368
+580,Fishes,Cypriniformes,Cyprinidae,Notropis,amoenus,NULL,Notropis amoenus,NULL,Comely Shiner,Native,North America,163401
+581,Fishes,Cypriniformes,Cyprinidae,Notropis,ariommus,NULL,Notropis ariommus,NULL,Popeye Shiner,Native,North America,163425
+582,Fishes,Cypriniformes,Cyprinidae,Notropis,atherinoides,NULL,Notropis atherinoides,NULL,Emerald Shiner,Native,North America,163412
+583,Fishes,Cypriniformes,Cyprinidae,Notropis,baileyi,NULL,Notropis baileyi,NULL,Rough Shiner,Native,North America,163427
+584,Fishes,Cypriniformes,Cyprinidae,Notropis,bairdi,NULL,Notropis bairdi,NULL,Red River Shiner,Native,North America,163428
+585,Fishes,Cypriniformes,Cyprinidae,Notropis,bifrenatus,NULL,Notropis bifrenatus,NULL,Bridle Shiner,Native,North America,163402
+586,Fishes,Cypriniformes,Cyprinidae,Notropis,blennius,NULL,Notropis blennius,NULL,River Shiner,Native,North America,163429
+587,Fishes,Cypriniformes,Cyprinidae,Notropis,boops,NULL,Notropis boops,NULL,Bigeye Shiner,Native,North America,163430
+588,Fishes,Cypriniformes,Cyprinidae,Notropis,buccatus,NULL,Notropis buccatus,NULL,Silverjaw Minnow,Native,North America,163478
+589,Fishes,Cypriniformes,Cyprinidae,Notropis,buccula,NULL,Notropis buccula,NULL,Smalleye Shiner,Native,North America,163432
+590,Fishes,Cypriniformes,Cyprinidae,Notropis,buchanani,NULL,Notropis buchanani,NULL,Ghost Shiner,Native,North America,163414
+591,Fishes,Cypriniformes,Cyprinidae,Notropis,chiliticus,NULL,Notropis chiliticus,NULL,Redlip Shiner,Native,North America,163435
+592,Fishes,Cypriniformes,Cyprinidae,Notropis,chrosomus,NULL,Notropis chrosomus,NULL,Rainbow Shiner,Native,North America,163437
+593,Fishes,Cypriniformes,Cyprinidae,Notropis,dorsalis,NULL,Notropis dorsalis,NULL,Bigmouth Shiner,Native,North America,163439
+594,Fishes,Cypriniformes,Cyprinidae,Notropis,girardi,NULL,Notropis girardi,NULL,Arkansas River Shiner,Native,North America,163442
+595,Fishes,Cypriniformes,Cyprinidae,Notropis,harperi,NULL,Notropis harperi,NULL,Redeye Chub,Native,North America,163444
+596,Fishes,Cypriniformes,Cyprinidae,Notropis,hudsonius,NULL,Notropis hudsonius,NULL,Spottail Shiner,Native,North America,163404
+597,Fishes,Cypriniformes,Cyprinidae,Notropis,hypsilepis,NULL,Notropis hypsilepis,NULL,Highscale Shiner,Native,North America,163449
+598,Fishes,Cypriniformes,Cyprinidae,Notropis,leuciodus,NULL,Notropis leuciodus,NULL,Tennessee Shiner,Native,North America,163451
+599,Fishes,Cypriniformes,Cyprinidae,Notropis,longirostris,NULL,Notropis longirostris,NULL,Longnose Shiner,Native,North America,163452
+600,Fishes,Cypriniformes,Cyprinidae,Notropis,stramineus,NULL,Notropis stramineus,NULL,Sand Shiner,Native,North America,163419
+601,Fishes,Cypriniformes,Cyprinidae,Notropis,stramineus,missuriensis,Notropis stramineus missuriensis,NULL,Sand Shiner,Native,North America,NULL
+602,Fishes,Cypriniformes,Cyprinidae,Notropis,lutipinnis,NULL,Notropis lutipinnis,NULL,Yellowfin Shiner,Native,North America,163453
+603,Fishes,Cypriniformes,Cyprinidae,Notropis,nubilus,NULL,Notropis nubilus,NULL,Ozark Minnow,Native,North America,163456
+604,Fishes,Cypriniformes,Cyprinidae,Notropis,oxyrhynchus,NULL,Notropis oxyrhynchus,NULL,Sharpnose Shiner,Native,North America,163415
+605,Fishes,Cypriniformes,Cyprinidae,Notropis,ozarcanus,NULL,Notropis ozarcanus,NULL,Ozark Shiner,Native,North America,163458
+606,Fishes,Cypriniformes,Cyprinidae,Notropis,potteri,NULL,Notropis potteri,NULL,Chub Shiner,Native,North America,163416
+607,Fishes,Cypriniformes,Cyprinidae,Notropis,procne,NULL,Notropis procne,NULL,Swallowtail Shiner,Native,North America,163407
+608,Fishes,Cypriniformes,Cyprinidae,Notropis,rubellus,NULL,Notropis rubellus,NULL,Rosyface Shiner,Native,North America,163409
+609,Fishes,Cypriniformes,Cyprinidae,Notropis,rubricroceus,NULL,Notropis rubricroceus,NULL,Saffron Shiner,Native,North America,163462
+610,Fishes,Cypriniformes,Cyprinidae,Notropis,shumardi,NULL,Notropis shumardi,NULL,Silverband Shiner,Native,North America,163417
+611,Fishes,Cypriniformes,Cyprinidae,Notropis,spectrunculus,NULL,Notropis spectrunculus,NULL,Mirror Shiner,Native,North America,163468
+612,Fishes,Cypriniformes,Cyprinidae,Notropis,telescopus,NULL,Notropis telescopus,NULL,Telescope Shiner,Native,North America,163470
+613,Fishes,Cypriniformes,Cyprinidae,Notropis,texanus,NULL,Notropis texanus,NULL,Weed Shiner,Native,North America,163420
+614,Fishes,Cypriniformes,Cyprinidae,Notropis,volucellus,NULL,Notropis volucellus,NULL,Mimic Shiner,Native,North America,163421
+615,Fishes,Cypriniformes,Cyprinidae,Notropis,xaenocephalus,NULL,Notropis xaenocephalus,NULL,Coosa Shiner,Native,North America,163474
+616,Fishes,Cypriniformes,Cyprinidae,Orthodon,microlepidotus,NULL,Orthodon microlepidotus,NULL,Sacramento Blackfish,Native,North America,163589
+617,Fishes,Cypriniformes,Cyprinidae,Phenacobius,mirabilis,NULL,Phenacobius mirabilis,NULL,Suckermouth Minnow,Native,North America,163502
+618,Fishes,Cypriniformes,Cyprinidae,Chrosomus,eos,NULL,Chrosomus eos,NULL,Northern Redbelly Dace,Native,North America,913993
+619,Fishes,Cypriniformes,Cyprinidae,Chrosomus,oreas,NULL,Chrosomus oreas,NULL,Mountain Redbelly Dace,Native,North America,913996
+620,Fishes,Cypriniformes,Cyprinidae,Pimephales,notatus,NULL,Pimephales notatus,NULL,Bluntnose Minnow,Native,North America,163516
+621,Fishes,Cypriniformes,Cyprinidae,Pimephales,promelas,NULL,Pimephales promelas,NULL,Fathead Minnow,Native,North America,163517
+622,Fishes,Cypriniformes,Cyprinidae,Pimephales,tenellus,NULL,Pimephales tenellus,NULL,Slim Minnow,Native,North America,163519
+623,Fishes,Cypriniformes,Cyprinidae,Pimephales,vigilax,NULL,Pimephales vigilax,NULL,Bullhead Minnow,Native,North America,163518
+624,Fishes,Cypriniformes,Cyprinidae,Plagopterus,argentissimus,NULL,Plagopterus argentissimus,NULL,Woundfin,Native,North America,163600
+625,Fishes,Cypriniformes,Cyprinidae,Platygobio,gracilis,NULL,Platygobio gracilis,NULL,Flathead Chub,Native,North America,163882
+626,Fishes,Cypriniformes,Cyprinidae,Pogonichthys,macrolepidotus,NULL,Pogonichthys macrolepidotus,NULL,Splittail,Native,North America,163603
+627,Fishes,Cypriniformes,Cyprinidae,Ptychocheilus,grandis,NULL,Ptychocheilus grandis,NULL,Sacramento Pikeminnow,Native,North America,163524
+629,Fishes,Cypriniformes,Cyprinidae,Ptychocheilus,umpquae,NULL,Ptychocheilus umpquae,NULL,Umpqua Pikeminnow,Native,North America,163526
+630,Fishes,Cypriniformes,Cyprinidae,Pethia,conchonius,NULL,Pethia conchonius,NULL,rosy barb,Exotic,Asia,163710
+631,Fishes,Cypriniformes,Cyprinidae,Dawkinsia,filamentosa,NULL,Dawkinsia filamentosa,NULL,blackspot barb,Exotic,Asia,553286
+632,Fishes,Cypriniformes,Cyprinidae,Pethia,gelius,NULL,Pethia gelius,NULL,dwarf barb,Exotic,Asia,163711
+633,Fishes,Cypriniformes,Cyprinidae,Barbonymus,schwanenfeldii,NULL,Barbonymus schwanenfeldii,NULL,tinfoil barb,Exotic,Asia,688445
+634,Fishes,Cypriniformes,Cyprinidae,Puntius,semifasciolatus,NULL,Puntius semifasciolatus,NULL,green barb,Exotic,Asia,163709
+635,Fishes,Cypriniformes,Cyprinidae,Puntigrus,tetrazona,,Puntigrus tetrazona,,tiger barb,Exotic,Asia,NULL
+636,Fishes,Cypriniformes,Cyprinidae,Relictus,solitarius,NULL,Relictus solitarius,NULL,Relict Dace,Native,North America,163605
+637,Fishes,Cypriniformes,Cyprinidae,Rhinichthys,atratulus,NULL,Rhinichthys atratulus,NULL,Blacknose Dace,Native,North America,163382
+638,Fishes,Cypriniformes,Cyprinidae,Rhinichthys,cataractae,NULL,Rhinichthys cataractae,NULL,Longnose Dace,Native,North America,163384
+639,Fishes,Cypriniformes,Cyprinidae,Agosia,chrysogaster,NULL,Agosia chrysogaster,NULL,Longfin Dace,Native,North America,163533
+640,Fishes,Cypriniformes,Cyprinidae,Rhinichthys,osculus,NULL,Rhinichthys osculus,NULL,Speckled Dace,Native,North America,163387
+641,Fishes,Cypriniformes,Cyprinidae,Rhinichthys,osculus,klamathensis,Rhinichthys osculus klamathensis,NULL,Klamath speckled dace,Native,North America,690341
+642,Fishes,Cypriniformes,Cyprinidae,Rhinichthys,osculus,robustus,Rhinichthys osculus robustus,NULL,Lahontan speckled dace,Native,North America,690340
+643,Fishes,Cypriniformes,Cyprinidae,Rhodeus,sericeus,NULL,Rhodeus sericeus,NULL,Bitterling,Exotic,Eurasia,163607
+644,Fishes,Cypriniformes,Cyprinidae,Richardsonius,balteatus,NULL,Richardsonius balteatus,NULL,Redside Shiner,Native,North America,163528
+645,Fishes,Cypriniformes,Cyprinidae,Richardsonius,balteatus,hydrophlox,Richardsonius balteatus hydrophlox,NULL,Bonneville redside shiner,Native,North America,163528
+647,Fishes,Cypriniformes,Cyprinidae,Richardsonius,egregius,NULL,Richardsonius egregius,NULL,Lahontan Redside,Native,North America,163529
+648,Fishes,Cypriniformes,Cyprinidae,Scardinius,erythrophthalmus,NULL,Scardinius erythrophthalmus,NULL,Rudd,Exotic,Eurasia,163613
+649,Fishes,Cypriniformes,Cyprinidae,Semotilus,atromaculatus,NULL,Semotilus atromaculatus,NULL,Creek Chub,Native,North America,163376
+650,Fishes,Cypriniformes,Cyprinidae,Semotilus,corporalis,NULL,Semotilus corporalis,NULL,Fallfish,Native,North America,163375
+651,Fishes,Cypriniformes,Cyprinidae,Lepidomeda,copei,NULL,Lepidomeda copei,NULL,Northern Leatherside Chub,Native,North America,913987
+652,Fishes,Cypriniformes,Cyprinidae,Tinca,tinca,NULL,Tinca tinca,NULL,Tench,Exotic,Eurasia,163348
+653,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,diabolis,NULL,Cyprinodon diabolis,NULL,Devils Hole Pupfish,Native,North America,165633
+654,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,macularius,NULL,Cyprinodon macularius,NULL,Desert Pupfish,Native,North America,165637
+655,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,eremus,NULL,Cyprinodon eremus,NULL,Sonoyta Pupfish,Native,North America,913895
+656,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,macularius,macularius,Cyprinodon macularius macularius,NULL,Desert Pupfish,Native,North America,165637
+657,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,nevadensis,NULL,Cyprinodon nevadensis,NULL,Amargosa Pupfish,Native,North America,165638
+658,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,nevadensis,amargosae,Cyprinodon nevadensis amargosae,NULL,Amargosa pupfish,Native,North America,647758
+659,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,radiosus,NULL,Cyprinodon radiosus,NULL,Owens Pupfish,Native,North America,165640
+660,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,rubrofluviatilis,NULL,Cyprinodon rubrofluviatilis,NULL,Red River Pupfish,Native,North America,165641
+661,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,salinus,NULL,Cyprinodon salinus,NULL,Salt Creek Pupfish,Native,North America,165642
+662,Fishes,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,variegatus,NULL,Cyprinodon variegatus,NULL,Sheepshead Minnow,Native,North America,165631
+663,Fishes,Cyprinodontiformes,Cyprinodontidae,Jordanella,floridae,,Jordanella floridae,,Flagfish,Native,North America,165694
+664,Fishes,Siluriformes,Doradidae,Oxydoras,niger,NULL,Oxydoras niger,NULL,ripsaw catfish,Exotic,South America,681269
+665,Fishes,Siluriformes,Doradidae,Platydoras,costatus,NULL,Platydoras costatus,NULL,Raphael catfish,Exotic,South America,164199
+666,Fishes,Siluriformes,Doradidae,Pterodoras,granulosus,NULL,Pterodoras granulosus,NULL,granulated catfish,Exotic,South America,164204
+667,Fishes,Siluriformes,Doradidae,Pterodoras,sp.,NULL,Pterodoras sp.,NULL,thorny catfish,Exotic,South America,164203
+668,Fishes,Perciformes,Embiotocidae,Hysterocarpus,traskii,NULL,Hysterocarpus traskii,NULL,Tule Perch,Native,North America,553322
+669,Fishes,Clupeiformes,Engraulidae,Anchoa,compressa,NULL,Anchoa compressa,NULL,Deepbody Anchovy,Exotic,Indo-Pacific,161847
+670,Fishes,Clupeiformes,Engraulidae,Anchoa,mundeoloides,NULL,Anchoa mundeoloides,NULL,Northern Gulf Anchovy,Exotic,South America,161851
+671,Fishes,Clupeiformes,Engraulidae,Cetengraulis,mysticetus,NULL,Cetengraulis mysticetus,NULL,Anchoveta,Native,North America,161862
+672,Fishes,Clupeiformes,Engraulidae,Engraulis,mordax,NULL,Engraulis mordax,NULL,Northern Anchovy,Native,North America,161828
+673,Fishes,Characiformes,Erythrinidae,Hoplias,malabaricus,NULL,Hoplias malabaricus,NULL,trahira,Exotic,South America,163055
+674,Fishes,Esociformes,Esocidae,Esox,americanus,americanus,Esox americanus americanus,NULL,Redfin Pickerel,Native,North America,162141
+675,Fishes,Esociformes,Esocidae,Esox,americanus,vermiculatus,Esox americanus vermiculatus,NULL,Grass Pickerel,Native,North America,162142
+676,Fishes,Esociformes,Esocidae,Esox,lucius,NULL,Esox lucius,NULL,Northern Pike,Native,North America,162139
+677,Fishes,Esociformes,Esocidae,Esox,lucius x E. masquinongy,NULL,Esox lucius x E. masquinongy,NULL,tiger muskellunge,Native Hybrid,North America,NULL
+678,Fishes,Esociformes,Esocidae,Esox,lucius x E. reichertii,NULL,Esox lucius x E. reichertii,NULL,northern pike x amur pike,Exotic Hybrid,Europe,NULL
+679,Fishes,Esociformes,Esocidae,Esox,masquinongy,NULL,Esox masquinongy,NULL,Muskellunge,Native,North America,162144
+680,Fishes,Esociformes,Esocidae,Esox,masquinongy,ohioensis,Esox masquinongy ohioensis,NULL,muskellunge,Native,North America,162144
+681,Fishes,Esociformes,Esocidae,Esox,niger,NULL,Esox niger,NULL,Chain Pickerel,Native,North America,162143
+682,Fishes,Esociformes,Esocidae,Esox,reichertii,NULL,Esox reichertii,NULL,Amur pike,Exotic,Europe,623349
+683,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,catenatus,NULL,Fundulus catenatus,NULL,Northern Studfish,Native,North America,165660
+684,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,chrysotus,NULL,Fundulus chrysotus,NULL,Golden Topminnow,Native,North America,165652
+685,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,diaphanus,NULL,Fundulus diaphanus,NULL,Banded Killifish,Native,North America,165646
+686,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,diaphanus,diaphanus,Fundulus diaphanus diaphanus,,eastern banded killifish,Native,North America,913978
+687,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,grandis,NULL,Fundulus grandis,NULL,Gulf Killifish,Native,North America,165651
+688,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,heteroclitus,NULL,Fundulus heteroclitus,NULL,Mummichog,Native,North America,165647
+689,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,lineolatus,NULL,Fundulus lineolatus,NULL,Lined Topminnow,Native,North America,165662
+690,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,notatus,NULL,Fundulus notatus,NULL,Blackstripe Topminnow,Native,North America,165663
+691,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,sciadicus,NULL,Fundulus sciadicus,NULL,Plains Topminnow,Native,North America,165666
+692,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,seminolis,NULL,Fundulus seminolis,NULL,Seminole Killifish,Native,North America,165667
+693,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,stellifer,NULL,Fundulus stellifer,NULL,Southern Studfish,Native,North America,165668
+694,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,zebrinus,NULL,Fundulus zebrinus,NULL,Plains Killifish,Native,North America,165658
+695,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,kansae,NULL,Fundulus kansae,NULL,Northern Plains Killifish,Native,North America,165654
+696,Fishes,Cyprinodontiformes,Fundulidae,Lucania,goodei,NULL,Lucania goodei,NULL,Bluefin Killifish,Native,North America,165680
+697,Fishes,Cyprinodontiformes,Fundulidae,Lucania,parva,NULL,Lucania parva,NULL,Rainwater Killifish,Native,North America,165679
+698,Fishes,Gadiformes,Gadidae,Lota,lota,NULL,Lota lota,NULL,Burbot,Native,North America,164725
+700,Fishes,Gasterosteiformes,Gasterosteidae,Apeltes,quadracus,NULL,Apeltes quadracus,NULL,Fourspine Stickleback,Native,North America,166397
+701,Fishes,Gasterosteiformes,Gasterosteidae,Culaea,inconstans,NULL,Culaea inconstans,NULL,Brook Stickleback,Native,North America,166399
+702,Fishes,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,NULL,Gasterosteus aculeatus,NULL,Threespine Stickleback,Native,North America,166365
+703,Fishes,Gasterosteiformes,Gasterosteidae,Gasterosteus,aculeatus,williamsoni,Gasterosteus aculeatus williamsoni,NULL,Threespine Stickleback,Native,North America,201979
+704,Fishes,Gasterosteiformes,Gasterosteidae,Pungitius,pungitius,NULL,Pungitius pungitius,NULL,Ninespine Stickleback,Native,North America,166387
+705,Fishes,Perciformes,Gerreidae,Eucinostomus,argenteus,NULL,Eucinostomus argenteus,NULL,Spotfin Mojarra,Native,North America,169015
+706,Fishes,Perciformes,Gerreidae,Eucinostomus,gracilis,NULL,Eucinostomus gracilis,NULL,Graceful Mojarra,Native,North America,169021
+707,Fishes,Perciformes,Gobiidae,Acanthogobius,flavimanus,NULL,Acanthogobius flavimanus,NULL,Yellowfin Goby,Exotic,Asia,171882
+708,Fishes,Perciformes,Gobiidae,Gillichthys,mirabilis,NULL,Gillichthys mirabilis,NULL,Longjaw Mudsucker,Native,North America,171967
+709,Fishes,Perciformes,Gobiidae,Gillichthys,seta,NULL,Gillichthys seta,NULL,Shortjaw Mudsucker,Exotic,South America,637364
+710,Fishes,Perciformes,Gobiidae,Gobiosoma,bosc,NULL,Gobiosoma bosc,NULL,Naked Goby,Native,North America,171789
+713,Fishes,Perciformes,Gobiidae,Neogobius,melanostomus,NULL,Neogobius melanostomus,NULL,Round Goby,Exotic,Eurasia,172072
+714,Fishes,Perciformes,Gobiidae,Proterorhinus,semilunaris,NULL,Proterorhinus semilunaris,NULL,Freshwater Tubenose Goby,Exotic,Eurasia,NULL
+715,Fishes,Perciformes,Gobiidae,Tridentiger,barbatus,NULL,Tridentiger barbatus,NULL,Shokihaze Goby,Exotic,Asia,638138
+716,Fishes,Perciformes,Gobiidae,Tridentiger,bifasciatus,NULL,Tridentiger bifasciatus,NULL,Shimofuri Goby,Exotic,Asia,553361
+717,Fishes,Perciformes,Gobiidae,Tridentiger,trigonocephalus,NULL,Tridentiger trigonocephalus,NULL,Chameleon Goby,Exotic,Asia,171912
+718,Fishes,Cyprinodontiformes,Goodeidae,Ameca,splendens,NULL,Ameca splendens,NULL,Butterfly Splitfin,Exotic,North America,165863
+719,Fishes,Cyprinodontiformes,Goodeidae,Crenichthys,baileyi,grandis,Crenichthys baileyi grandis,NULL,Hiko White River springfish,Native,North America,201976
+720,Fishes,Cyprinodontiformes,Goodeidae,Crenichthys,nevadae,NULL,Crenichthys nevadae,NULL,Railroad Valley Springfish,Native,North America,165688
+721,Fishes,Cyprinodontiformes,Goodeidae,Empetrichthys,latos,NULL,Empetrichthys latos,NULL,Pahrump Poolfish,Native,North America,165691
+722,Fishes,Cyprinodontiformes,Goodeidae,Empetrichthys,latos,latos,Empetrichthys latos latos,NULL,Pahrump Poolfish,Native,North America,647756
+723,Fishes,Perciformes,Grammatidae,Gramma,loreto,NULL,Gramma loreto,NULL,Fairy Basslet,Exotic,Caribbean,168017
+724,Fishes,Perciformes,Haemulidae,Anisotremus,davidsonii,NULL,Anisotremus davidsonii,NULL,Sargo,Native,North America,553364
+725,Fishes,Perciformes,Helostomatidae,Helostoma,temminkii,NULL,Helostoma temminkii,NULL,kissing gourami,Exotic,Asia,638746
+726,Fishes,Osteoglossiformes,Hiodontidae,Hiodon,alosoides,NULL,Hiodon alosoides,NULL,Goldeye,Native,North America,161905
+727,Fishes,Osteoglossiformes,Hiodontidae,Hiodon,tergisus,NULL,Hiodon tergisus,NULL,Mooneye,Native,North America,161906
+728,Fishes,Siluriformes,Ictaluridae,Ameiurus,brunneus,NULL,Ameiurus brunneus,NULL,Snail Bullhead,Native,North America,164035
+729,Fishes,Siluriformes,Ictaluridae,Ameiurus,catus,NULL,Ameiurus catus,NULL,White Catfish,Native,North America,164037
+730,Fishes,Siluriformes,Ictaluridae,Ameiurus,melas,NULL,Ameiurus melas,NULL,Black Bullhead,Native,North America,164039
+733,Fishes,Siluriformes,Ictaluridae,Ameiurus,natalis,NULL,Ameiurus natalis,NULL,Yellow Bullhead,Native,North America,164041
+734,Fishes,Siluriformes,Ictaluridae,Ameiurus,nebulosus,NULL,Ameiurus nebulosus,NULL,Brown Bullhead,Native,North America,164043
+737,Fishes,Siluriformes,Ictaluridae,Ameiurus,platycephalus,NULL,Ameiurus platycephalus,NULL,Flat Bullhead,Native,North America,164045
+740,Fishes,Siluriformes,Ictaluridae,Ictalurus,furcatus,NULL,Ictalurus furcatus,NULL,Blue Catfish,Native,North America,163997
+741,Fishes,Siluriformes,Ictaluridae,Ictalurus,pricei,NULL,Ictalurus pricei,NULL,Yaqui Catfish,Native,North America,164000
+744,Fishes,Siluriformes,Ictaluridae,Noturus,exilis,NULL,Noturus exilis,NULL,Slender Madtom,Native,North America,164010
+745,Fishes,Siluriformes,Ictaluridae,Noturus,flavus,NULL,Noturus flavus,NULL,Stonecat,Native,North America,164013
+746,Fishes,Siluriformes,Ictaluridae,Noturus,gilberti,NULL,Noturus gilberti,NULL,Orangefin Madtom,Native,North America,164016
+747,Fishes,Siluriformes,Ictaluridae,Noturus,gyrinus,NULL,Noturus gyrinus,NULL,Tadpole Madtom,Native,North America,164003
+748,Fishes,Siluriformes,Ictaluridae,Noturus,insignis,NULL,Noturus insignis,NULL,Margined Madtom,Native,North America,164004
+749,Fishes,Siluriformes,Ictaluridae,Noturus,miurus,NULL,Noturus miurus,NULL,Brindled Madtom,Native,North America,164020
+750,Fishes,Siluriformes,Ictaluridae,Pylodictis,olivaris,NULL,Pylodictis olivaris,NULL,Flathead Catfish,Native,North America,164029
+751,Fishes,Perciformes,Kuhlidae,Kuhlia,rupestris,NULL,Kuhlia rupestris,NULL,Rock flagtail,Exotic,Indo-Pacific,168086
+752,Fishes,Perciformes,Kyphosidae,Girella,simplicidens,NULL,Girella simplicidens,NULL,Gulf Opaleye,Exotic,South America,645717
+753,Fishes,Perciformes,Labridae,Halichoeres,semicinctus,NULL,Halichoeres semicinctus,NULL,Rock Wrasse,Native,North America,170511
+754,Fishes,Perciformes,Labridae,Tautoga,onitis,NULL,Tautoga onitis,NULL,Tautog,Native,North America,170479
+755,Fishes,Lepisosteiformes,Lepisosteidae,Atractosteus,spatula,NULL,Atractosteus spatula,NULL,Alligator Gar,Native,North America,201897
+756,Fishes,Lepisosteiformes,Lepisosteidae,Lepisosteus,oculatus,NULL,Lepisosteus oculatus,NULL,Spotted Gar,Native,North America,161095
+757,Fishes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platostomus,NULL,Lepisosteus platostomus,NULL,Shortnose Gar,Native,North America,161096
+758,Fishes,Lepisosteiformes,Lepisosteidae,Lepisosteus,sp.,NULL,Lepisosteus sp.,NULL,gar,Native,North America,161093
+759,Fishes,Perciformes,Lethrinidae,Lethrinus,sp.,NULL,Lethrinus sp.,NULL,emperor,Exotic,Indo-Pacific,169130
+760,Fishes,Siluriformes,Loricariidae,Ancistrus,cf. temminckii,NULL,Ancistrus cf. temminckii,NULL,bristlenosed catfish,Exotic,South America,NULL
+761,Fishes,Siluriformes,Loricariidae,Hypostomus,plecostomus,NULL,Hypostomus plecostomus,NULL,Suckermouth Catfish,Exotic,South America,164342
+762,Fishes,Siluriformes,Loricariidae,Hypostomus,sp.,NULL,Hypostomus sp.,NULL,suckermouth catfish,Exotic,South America,164341
+763,Fishes,Siluriformes,Loricariidae,Hypostomus,sp. (watwata group),NULL,Hypostomus sp. (watwata group),NULL,suckermouth catfish,Exotic,South America,NULL
+764,Fishes,Siluriformes,Loricariidae,Otocinclus,sp.,NULL,Otocinclus sp.,NULL,suckermouth catfish,Exotic,South America,164354
+765,Fishes,Siluriformes,Loricariidae,Peckoltia,sp.,NULL,Peckoltia sp.,NULL,clown pleco,Exotic,South America,164367
+766,Fishes,Siluriformes,Loricariidae,Pterygoplichthys,anisitsi,NULL,Pterygoplichthys anisitsi,NULL,Paraná Sailfin Catfish,Exotic,South America,680350
+767,Fishes,Siluriformes,Loricariidae,Pterygoplichthys,disjunctivus,NULL,Pterygoplichthys disjunctivus,NULL,Vermiculated Sailfin Catfish,Exotic,South America,680351
+768,Fishes,Siluriformes,Loricariidae,Pterygoplichthys,multiradiatus,NULL,Pterygoplichthys multiradiatus,NULL,Orinoco Sailfin Catfish,Exotic,South America,164375
+769,Fishes,Siluriformes,Loricariidae,Pterygoplichthys,pardalis,NULL,Pterygoplichthys pardalis,NULL,Amazon Sailfin Catfish,Exotic,South America,680353
+770,Fishes,Siluriformes,Loricariidae,Pterygoplichthys,sp.,,Pterygoplichthys sp.,,sailfin armored catfish,Exotic,South America,164372
+771,Fishes,Perciformes,Lutjanidae,Lutjanus,fulvus,NULL,Lutjanus fulvus,NULL,blacktail snapper,Exotic,Indo-Pacific,168863
+772,Fishes,Perciformes,Lutjanidae,Lutjanus,gibbus,NULL,Lutjanus gibbus,NULL,humpback snapper,Exotic,Indo-Pacific,168866
+773,Fishes,Perciformes,Lutjanidae,Lutjanus,guttatus,NULL,Lutjanus guttatus,NULL,Spotted Rose Snapper,Exotic,North and South America,168856
+774,Fishes,Perciformes,Lutjanidae,Lutjanus,kasmira,NULL,Lutjanus kasmira,NULL,bluestripe snapper,Exotic,Indo-Pacific,168862
+775,Fishes,Elopiformes,Megalopidae,Megalops,atlanticus,NULL,Megalops atlanticus,NULL,Tarpon,Native,North America,161116
+776,Fishes,Atheriniformes,Melanotaeniidae,Melanotaenia,nigrans,NULL,Melanotaenia nigrans,NULL,black-banded rainbowfish,Exotic,Australia,165981
+777,Fishes,Perciformes,Moronidae,Morone,americana,NULL,Morone americana,NULL,White Perch,Native,North America,167678
+778,Fishes,Perciformes,Moronidae,Morone,americana x M. saxatilis,NULL,Morone americana x M. saxatilis,NULL,white perch x striped bass,Native Hybrid,North America,NULL
+779,Fishes,Perciformes,Moronidae,Morone,chrysops,NULL,Morone chrysops,NULL,White Bass,Native,North America,167682
+780,Fishes,Perciformes,Moronidae,Morone,chrysops x M. mississippiensis,NULL,Morone chrysops x M. mississippiensis,NULL,white bass x yellow bass,Native Hybrid,North America,NULL
+784,Fishes,Perciformes,Moronidae,Morone,chrysops x M. saxatilis,NULL,Morone chrysops x M. saxatilis,NULL,wiper,Native Hybrid,North America,167681
+785,Fishes,Perciformes,Moronidae,Morone,mississippiensis,NULL,Morone mississippiensis,NULL,Yellow Bass,Native,North America,167683
+786,Fishes,Perciformes,Moronidae,Morone,mississippiensis x M. saxatilis,NULL,Morone mississippiensis x M. saxatilis,NULL,yellow bass x striped bass,Native Hybrid,North America,NULL
+787,Fishes,Perciformes,Moronidae,Morone,saxatilis,NULL,Morone saxatilis,NULL,Striped Bass,Native,North America,167680
+788,Fishes,Mugiliformes,Mugilidae,Mugil,cephalus,NULL,Mugil cephalus,NULL,Striped Mullet,Native,North America,170335
+789,Fishes,Mugiliformes,Mugilidae,Mugil,curema,NULL,Mugil curema,NULL,White Mullet,Native,North America,170336
+790,Fishes,Mugiliformes,Mugilidae,Valamugil,engeli,NULL,Valamugil engeli,NULL,kanda,Exotic,Indo-Pacific,170422
+791,Fishes,Perciformes,Mullidae,Upeneus,vittatus,NULL,Upeneus vittatus,NULL,bandedtail goatfish,Exotic,Indo-Pacific,169443
+792,Fishes,Perciformes,Nematistiidae,Nematistius,pectoralis,NULL,Nematistius pectoralis,NULL,Roosterfish,Native,North America,168744
+793,Fishes,Osteoglossiformes,Notopteridae,Chitala,ornata,NULL,Chitala ornata,NULL,Clown Knifefish,Exotic,Africa,649807
+794,Fishes,Osmeriformes,Osmeridae,Hypomesus,nipponensis,NULL,Hypomesus nipponensis,NULL,wakasagi,Exotic,Asia,162033
+795,Fishes,Osmeriformes,Osmeridae,Hypomesus,transpacificus,NULL,Hypomesus transpacificus,NULL,Delta Smelt,Native,North America,162032
+796,Fishes,Osmeriformes,Osmeridae,Osmerus,mordax,NULL,Osmerus mordax,NULL,Rainbow Smelt,Native,North America,162041
+797,Fishes,Osmeriformes,Osmeridae,Plecoglossus,altivelis,NULL,Plecoglossus altivelis,NULL,ayu,Exotic,Asia,162027
+798,Fishes,Perciformes,Osphronemidae,Osphronemus,goramy,NULL,Osphronemus goramy,NULL,giant gourami,Exotic,Asia,638762
+799,Fishes,Osteoglossiformes,Osteoglossidae,Osteoglossum,bicirrhosum,NULL,Osteoglossum bicirrhosum,NULL,Silver Arowana,Exotic,South America,161894
+800,Fishes,Pleuronectiformes,Paralichthyidae,Etropus,crossotus,NULL,Etropus crossotus,NULL,Fringed Flounder,Native,North America,172729
+801,Fishes,Pleuronectiformes,Paralichthyidae,Paralichthys,aestuarius,NULL,Paralichthys aestuarius,NULL,Cortez Halibut,Exotic,South America,616418
+802,Fishes,Pleuronectiformes,Paralichthyidae,Paralichthys,albigutta,NULL,Paralichthys albigutta,NULL,Gulf Flounder,Native,North America,172736
+803,Fishes,Pleuronectiformes,Paralichthyidae,Paralichthys,lethostigma,NULL,Paralichthys lethostigma,NULL,Southern Flounder,Native,North America,172738
+804,Fishes,Pleuronectiformes,Paralichthyidae,Paralichthys,woolmani,NULL,Paralichthys woolmani,NULL,Dappled Flounder,Exotic,South America,616427
+805,Fishes,Perciformes,Percidae,Ammocrypta,bifascia,NULL,Ammocrypta bifascia,NULL,Florida Sand Darter,Native,North America,168514
+806,Fishes,Perciformes,Percidae,Ammocrypta,clara,NULL,Ammocrypta clara,NULL,Western Sand Darter,Native,North America,168515
+807,Fishes,Perciformes,Percidae,Etheostoma,sp.,NULL,Etheostoma sp.,NULL,darter,Native,North America,168357
+808,Fishes,Perciformes,Percidae,Etheostoma,blennioides,NULL,Etheostoma blennioides,NULL,Greenside Darter,Native,North America,168375
+809,Fishes,Perciformes,Percidae,Etheostoma,caeruleum,NULL,Etheostoma caeruleum,NULL,Rainbow Darter,Native,North America,168378
+810,Fishes,Perciformes,Percidae,Etheostoma,cragini,NULL,Etheostoma cragini,NULL,Arkansas Darter,Native,North America,168386
+811,Fishes,Perciformes,Percidae,Etheostoma,edwini,NULL,Etheostoma edwini,NULL,Brown Darter,Native,North America,168390
+812,Fishes,Perciformes,Percidae,Etheostoma,exile,NULL,Etheostoma exile,NULL,Iowa Darter,Native,North America,168393
+813,Fishes,Perciformes,Percidae,Etheostoma,fusiforme,NULL,Etheostoma fusiforme,NULL,Swamp Darter,Native,North America,168358
+814,Fishes,Perciformes,Percidae,Etheostoma,nigrum,NULL,Etheostoma nigrum,NULL,Johnny Darter,Native,North America,168369
+815,Fishes,Perciformes,Percidae,Etheostoma,nuchale,NULL,Etheostoma nuchale,NULL,Watercress Darter,Native,North America,168415
+816,Fishes,Perciformes,Percidae,Etheostoma,olmstedi,NULL,Etheostoma olmstedi,NULL,Tessellated Darter,Native,North America,168360
+817,Fishes,Perciformes,Percidae,Etheostoma,simoterum,NULL,Etheostoma simoterum,NULL,Snubnose Darter,Native,North America,168431
+818,Fishes,Perciformes,Percidae,Etheostoma,zonale,NULL,Etheostoma zonale,NULL,Banded Darter,Native,North America,168449
+820,Fishes,Perciformes,Percidae,Perca,flavescens,NULL,Perca flavescens,NULL,Yellow Perch,Native,North America,168469
+821,Fishes,Perciformes,Percidae,Percina,caprodes,NULL,Percina caprodes,NULL,Logperch,Native,North America,168472
+822,Fishes,Perciformes,Percidae,Percina,macrolepida,NULL,Percina macrolepida,NULL,Bigscale Logperch,Native,North America,168487
+823,Fishes,Perciformes,Percidae,Percina,maculata,NULL,Percina maculata,NULL,Blackside Darter,Native,North America,168488
+824,Fishes,Perciformes,Percidae,Percina,nigrofasciata,NULL,Percina nigrofasciata,NULL,Blackbanded Darter,Native,North America,168490
+825,Fishes,Perciformes,Percidae,Percina,roanoka,NULL,Percina roanoka,NULL,Roanoke Darter,Native,North America,168496
+826,Fishes,Perciformes,Percidae,Percina,shumardi,NULL,Percina shumardi,NULL,River Darter,Native,North America,168497
+827,Fishes,Perciformes,Percidae,Percina,tanasi,NULL,Percina tanasi,NULL,Snail Darter,Native,North America,168499
+828,Fishes,Perciformes,Percidae,Sander,canadensis,NULL,Sander canadensis,NULL,Sauger,Native,North America,650171
+829,Fishes,Perciformes,Percidae,Sander,canadensis x vitreus,NULL,Sander canadensis x vitreus,NULL,Saugeye,Native Hybrid,North America,NULL
+830,Fishes,Perciformes,Percidae,Sander,lucioperca,NULL,Sander lucioperca,NULL,Zander,Exotic,Europe,650172
+831,Fishes,Perciformes,Percidae,Sander,vitreus,NULL,Sander vitreus,NULL,Walleye,Native,North America,650173
+833,Fishes,Percopsiformes,Percopsidae,Percopsis,omiscomaycus,NULL,Percopsis omiscomaycus,NULL,Trout-perch,Native,North America,164409
+834,Fishes,Petromyzontiformes,Petromyzontidae,Ichthyomyzon,unicuspis,NULL,Ichthyomyzon unicuspis,NULL,Silver Lamprey,Native,North America,159730
+836,Fishes,Petromyzontiformes,Petromyzontidae,Petromyzon,marinus,NULL,Petromyzon marinus,NULL,Sea Lamprey,Native,North America,159722
+837,Fishes,Siluriformes,Pimelodidae,Perrunichthys,perruno,NULL,Perrunichthys perruno,NULL,leopard catfish,Exotic,South America,681763
+838,Fishes,Siluriformes,Pimelodidae,Phractocephalus,hemioliopterus,NULL,Phractocephalus hemioliopterus,NULL,redtail catfish,Exotic,South America,164255
+839,Fishes,Siluriformes,Heptapteridae,Rhamdia,quelen,NULL,Rhamdia quelen,NULL,bagre,Exotic,South America,640029
+840,Fishes,Pleuronectiformes,Pleuronectidae,Hypsopsetta,guttulata,NULL,Hypsopsetta guttulata,NULL,Diamond Turbot,Native,North America,172945
+841,Fishes,Pleuronectiformes,Pleuronectidae,Platichthys,flesus,NULL,Platichthys flesus,NULL,European flounder,Exotic,Europe,172894
+842,Fishes,Pleuronectiformes,Pleuronectidae,Platichthys,stellatus,NULL,Platichthys stellatus,NULL,Starry Flounder,Native,North America,172893
+843,Fishes,Cyprinodontiformes,Poeciliidae,Belonesox,belizanus,,Belonesox belizanus,,Pike Killifish,Exotic,North and Central America,165913
+846,Fishes,Cyprinodontiformes,Poeciliidae,Gambusia,affinis,NULL,Gambusia affinis,NULL,Western Mosquitofish,Native,North America,165878
+848,Fishes,Cyprinodontiformes,Poeciliidae,Gambusia,geiseri,NULL,Gambusia geiseri,NULL,Largespring Gambusia,Native,North America,165885
+849,Fishes,Cyprinodontiformes,Poeciliidae,Gambusia,holbrooki,NULL,Gambusia holbrooki,NULL,Eastern Mosquitofish,Native,North America,165896
+851,Fishes,Cyprinodontiformes,Poeciliidae,Gambusia,nobilis,NULL,Gambusia nobilis,NULL,Pecos Gambusia,Native,North America,165888
+852,Fishes,Cyprinodontiformes,Poeciliidae,Heterandria,formosa,NULL,Heterandria formosa,NULL,Least Killifish,Native,North America,165915
+853,Fishes,Cyprinodontiformes,Poeciliidae,Limia,vittata,NULL,Limia vittata,NULL,Cuban limia,Exotic,Caribbean,165946
+854,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,spp. hybrid,NULL,Poecilia spp. hybrid,NULL,lyretail black molly,Exotic Hybrid,North America,NULL
+855,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,sp.,,Poecilia sp.,,unidentified poeciliid (hybrid),Exotic,Central America,165897
+856,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,formosa,,Poecilia formosa,,Amazon Molly,Native,North America,165899
+858,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,latipinna,NULL,Poecilia latipinna,NULL,Sailfin Molly,Native,North America,165898
+859,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,latipinna x velifera,NULL,Poecilia latipinna x velifera,NULL,black molly,Exotic Hybrid,North America,NULL
+860,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,latipunctata,NULL,Poecilia latipunctata,NULL,Tamesí Molly,Native,North America,647530
+861,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,mexicana,,Poecilia mexicana,,Shortfin Molly,Exotic,Central America,165902
+862,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,kykesis,NULL,Poecilia kykesis,NULL,Péten molly,Native,North America,647529
+863,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,reticulata,NULL,Poecilia reticulata,NULL,Guppy,Exotic,South America,165903
+864,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,sphenops,,Poecilia sphenops,,Mexican Molly,Exotic,North and Central America,165904
+865,Fishes,Cyprinodontiformes,Poeciliidae,Poeciliopsis,gracilis,NULL,Poeciliopsis gracilis,NULL,Porthole Livebearer,Exotic,North America,165917
+866,Fishes,Cyprinodontiformes,Poeciliidae,Poeciliopsis,occidentalis,occidentalis,Poeciliopsis occidentalis occidentalis,NULL,Gila Topminnow,Native,North America,913957
+867,Fishes,Cyprinodontiformes,Poeciliidae,Poeciliopsis,sp.,NULL,Poeciliopsis sp.,NULL,unidentified Poeciliopsis,Native,North America,165916
+868,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,sp.,NULL,Xiphophorus sp.,NULL,platyfish,Exotic,North America,165919
+869,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,hellerii,NULL,Xiphophorus hellerii,NULL,Green Swordtail,Exotic,North America,647013
+870,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,hellerii x maculatus,NULL,Xiphophorus hellerii x maculatus,NULL,red swordtail,Exotic Hybrid,North America,NULL
+871,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,hellerii x variatus,NULL,Xiphophorus hellerii x variatus,NULL,platyfish/swordtail,Exotic Hybrid,North America,NULL
+872,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,maculatus,,Xiphophorus maculatus,,Southern Platyfish,Exotic,North and Central America,165922
+873,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,maculatus x variatus,NULL,Xiphophorus maculatus x variatus,NULL,platyfish/swordtail,Exotic Hybrid,North America,NULL
+874,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,variatus,,Xiphophorus variatus,,Variable Platyfish,Exotic,North America,165925
+875,Fishes,Cyprinodontiformes,Poeciliidae,Xiphophorus,xiphidium,,Xiphophorus xiphidium,,Swordtail Platyfish,Exotic,North America,165929
+876,Fishes,Acipenseriformes,Polyodontidae,Polyodon,spathula,NULL,Polyodon spathula,NULL,Paddlefish,Native,North America,161088
+877,Fishes,Perciformes,Pomacanthidae,Pomacanthus,asfur,NULL,Pomacanthus asfur,NULL,Arabian angel,Exotic,Indo-Pacific,610455
+878,Fishes,Perciformes,Pomacanthidae,Pomacanthus,xanthometopon,NULL,Pomacanthus xanthometopon,NULL,bluefaced angel,Exotic,Indo-Pacific,610419
+879,Fishes,Cyprinodontiformes,Aplocheilidae,Austrolebias,bellottii,NULL,Austrolebias bellottii,NULL,Argentine pearlfish,Exotic,South America,646911
+880,Fishes,Cyprinodontiformes,Aplocheilidae,Austrolebias,nigripinnis,NULL,Austrolebias nigripinnis,NULL,blackfin pearlfish,Exotic,South America,646913
+881,Fishes,Cyprinodontiformes,Aplocheilidae,Rivulus,hartii,,Rivulus hartii,,Giant Rivulus,Exotic,South and Central America,553288
+882,Fishes,Cyprinodontiformes,Aplocheilidae,Nematolebias,whitei,NULL,Nematolebias whitei,NULL,Rio pearlfish,Exotic,South America,646915
+883,Fishes,Salmoniformes,Salmonidae,Coregonus,sp.,NULL,Coregonus sp.,NULL,a whitefish,Native,North America,161932
+885,Fishes,Salmoniformes,Salmonidae,Coregonus,albula,NULL,Coregonus albula,NULL,vendace,Exotic,Europe,161963
+886,Fishes,Salmoniformes,Salmonidae,Coregonus,artedi,NULL,Coregonus artedi,NULL,Cisco,Native,North America,623384
+887,Fishes,Salmoniformes,Salmonidae,Coregonus,clupeaformis,NULL,Coregonus clupeaformis,NULL,Lake Whitefish,Native,North America,161941
+888,Fishes,Salmoniformes,Salmonidae,Coregonus,wartmanni,NULL,Coregonus wartmanni,NULL,blaufelchen,Exotic,Europe,623435
+889,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,aguabonita,NULL,Oncorhynchus aguabonita,NULL,Golden Trout,Native,North America,161987
+890,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,NULL,Oncorhynchus clarkii,NULL,Cutthroat Trout,Native,North America,161983
+891,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,bouvieri,Oncorhynchus clarkii bouvieri,NULL,Yellowstone cutthroat trout,Native,North America,553416
+892,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,behnkei,Oncorhynchus clarkii behnkei,NULL,Snake River Finespotted Cutthroat Trout,Native,North America,914090
+894,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,henshawi,Oncorhynchus clarkii henshawi,NULL,Lahontan cutthroat trout,Native,North America,201902
+895,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,lewisi,Oncorhynchus clarkii lewisi,,Westslope Cutthroat Trout,Native,North America,553415
+896,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,pleuriticus,Oncorhynchus clarkii pleuriticus,NULL,Colorado River cutthroat trout,Native,North America,553429
+897,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,seleniris,Oncorhynchus clarkii seleniris,NULL,Paiute cutthroat trout,Native,North America,553426
+899,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,ssp. 2,Oncorhynchus clarkii ssp. 2,NULL,Pikes Peak cutthroat trout,Native,North America,NULL
+900,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,stomias,Oncorhynchus clarkii stomias,NULL,greenback cutthroat trout,Native,North America,201901
+901,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,utah,Oncorhynchus clarkii utah,NULL,Bonneville cutthroat trout,Native,North America,553427
+902,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,virginalis,Oncorhynchus clarkii virginalis,NULL,Rio Grande cutthroat trout,Native,North America,553428
+904,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii x mykiss,NULL,Oncorhynchus clarkii x mykiss,NULL,cutbow trout,Native Hybrid,North America,NULL
+905,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,gilae,NULL,Oncorhynchus gilae,NULL,Gila Trout,Native,North America,161985
+906,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,gorbuscha,NULL,Oncorhynchus gorbuscha,NULL,Pink Salmon,Native,North America,161975
+907,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,keta,NULL,Oncorhynchus keta,NULL,Chum Salmon,Native,North America,161976
+908,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,kisutch,NULL,Oncorhynchus kisutch,NULL,Coho Salmon,Native,North America,161977
+909,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,masou,NULL,Oncorhynchus masou,NULL,cherry salmon,Exotic,Asia,161978
+910,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,NULL,Oncorhynchus mykiss,NULL,Rainbow Trout,Native,North America,161989
+911,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,irideus,Oncorhynchus mykiss irideus,NULL,coastal rainbow trout,Native,North America,553422
+913,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,kamloops strain,Oncorhynchus mykiss kamloops strain,NULL,Kamloops trout,Native,North America,NULL
+914,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,ssp.,Oncorhynchus mykiss ssp.,NULL,redband trout,Native,North America,NULL
+915,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,nerka,NULL,Oncorhynchus nerka,NULL,Sockeye Salmon,Native,North America,161979
+920,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha,NULL,Oncorhynchus tshawytscha,NULL,Chinook Salmon,Native,North America,161980
+921,Fishes,Salmoniformes,Salmonidae,Prosopium,cylindraceum,NULL,Prosopium cylindraceum,NULL,Round Whitefish,Native,North America,162008
+922,Fishes,Salmoniformes,Salmonidae,Prosopium,gemmifer,NULL,Prosopium gemmifer,NULL,Bonneville Cisco,Native,North America,162013
+924,Fishes,Salmoniformes,Salmonidae,Prosopium,williamsoni,NULL,Prosopium williamsoni,NULL,Mountain Whitefish,Native,North America,162009
+925,Fishes,Salmoniformes,Salmonidae,Salmo,letnica,NULL,Salmo letnica,NULL,Ohrid trout,Exotic,Europe,161998
+926,Fishes,Salmoniformes,Salmonidae,Salmo,salar,NULL,Salmo salar,NULL,Atlantic Salmon,Native,North America,161996
+927,Fishes,Salmoniformes,Salmonidae,Salmo,salar,salar,Salmo salar salar,NULL,Atlantic Salmon,Native,North America,161996
+929,Fishes,Salmoniformes,Salmonidae,Salmo,salar,sebago,Salmo salar sebago,NULL,Atlantic Salmon,Native,North America,161996
+930,Fishes,Salmoniformes,Salmonidae,Salmo,salar x trutta,NULL,Salmo salar x trutta,NULL,Sambrown,Exotic Hybrid,North America,NULL
+931,Fishes,Salmoniformes,Salmonidae,Salmo,trutta,NULL,Salmo trutta,NULL,Brown Trout,Exotic,Europe,161997
+932,Fishes,Salmoniformes,Salmonidae,Salmo,trutta,levenensis,Salmo trutta levenensis,NULL,brown trout,Exotic,Europe,161997
+933,Fishes,Salmoniformes,Salmonidae,Salmo,trutta x Salvelinus fontinalis,NULL,Salmo trutta x Salvelinus fontinalis,NULL,tiger trout,Exotic Hybrid,North America,NULL
+935,Fishes,Salmoniformes,Salmonidae,Salvelinus,alpinus,NULL,Salvelinus alpinus,NULL,Arctic Char,Exotic,Europe,162001
+936,Fishes,Salmoniformes,Salmonidae,Salvelinus,alpinus,oquassa,Salvelinus alpinus oquassa,NULL,"blueback trout, Sunapee trout",Native,North America,914088
+938,Fishes,Salmoniformes,Salmonidae,Salvelinus,confluentus,NULL,Salvelinus confluentus,NULL,Bull Trout,Native,North America,162004
+939,Fishes,Salmoniformes,Salmonidae,Salvelinus,fontinalis,NULL,Salvelinus fontinalis,NULL,Brook Trout,Native,North America,162003
+940,Fishes,Salmoniformes,Salmonidae,Salvelinus,fontinalis x namaycush,NULL,Salvelinus fontinalis x namaycush,NULL,splake,Native Hybrid,North America,NULL
+941,Fishes,Salmoniformes,Salmonidae,Salvelinus,malma,NULL,Salvelinus malma,NULL,Dolly Varden,Native,North America,162000
+942,Fishes,Salmoniformes,Salmonidae,Salvelinus,namaycush,NULL,Salvelinus namaycush,NULL,Lake Trout,Native,North America,162002
+943,Fishes,Salmoniformes,Salmonidae,Thymallus,arcticus,NULL,Thymallus arcticus,NULL,Arctic Grayling,Native,North America,162016
+945,Fishes,Perciformes,Scatophagidae,Scatophagus,argus,NULL,Scatophagus argus,NULL,scat,Exotic,Indo-Pacific,170321
+946,Fishes,Perciformes,Sciaenidae,Aplodinotus,grunniens,NULL,Aplodinotus grunniens,NULL,Freshwater Drum,Native,North America,169364
+947,Fishes,Perciformes,Sciaenidae,Bairdiella,icistia,NULL,Bairdiella icistia,NULL,Bairdiella,Exotic,North America,169264
+948,Fishes,Perciformes,Sciaenidae,Cynoscion,nebulosus,NULL,Cynoscion nebulosus,NULL,Spotted Seatrout,Native,North America,169239
+949,Fishes,Perciformes,Sciaenidae,Cynoscion,nebulosus x C. xanthulus,NULL,Cynoscion nebulosus x C. xanthulus,NULL,spotted seatrout x orangemouth corvina,Exotic Hybrid,North America,NULL
+950,Fishes,Perciformes,Sciaenidae,Cynoscion,othonopterus,NULL,Cynoscion othonopterus,NULL,Gulf Corvina,Exotic,South America,646725
+951,Fishes,Perciformes,Sciaenidae,Cynoscion,parvipinnis,NULL,Cynoscion parvipinnis,NULL,Shortfin Corvina,Native,North America,169251
+952,Fishes,Perciformes,Sciaenidae,Cynoscion,xanthulus,NULL,Cynoscion xanthulus,NULL,Orangemouth Corvina,Exotic,North America,169252
+953,Fishes,Perciformes,Sciaenidae,Leiostomus,xanthurus,NULL,Leiostomus xanthurus,NULL,Spot,Native,North America,169267
+954,Fishes,Perciformes,Sciaenidae,Menticirrhus,nasus,NULL,Menticirrhus nasus,NULL,Highfin Kingfish,Exotic,South America,169279
+955,Fishes,Perciformes,Sciaenidae,Menticirrhus,undulatus,NULL,Menticirrhus undulatus,NULL,California Corbina,Native,North America,169280
+956,Fishes,Perciformes,Sciaenidae,Micropogonias,megalops,NULL,Micropogonias megalops,NULL,Gulf Croaker,Exotic,South America,646639
+957,Fishes,Perciformes,Sciaenidae,Micropogonias,undulatus,NULL,Micropogonias undulatus,NULL,Atlantic Croaker,Native,North America,169283
+958,Fishes,Perciformes,Sciaenidae,Pogonias,cromis,NULL,Pogonias cromis,NULL,Black Drum,Native,North America,169288
+959,Fishes,Perciformes,Sciaenidae,Pogonias x Sciaenops,cromis x ocellatus,NULL,Pogonias x Sciaenops cromis x ocellatus,NULL,black drum x red drum,Native Hybrid,North America,NULL
+960,Fishes,Perciformes,Sciaenidae,Sciaenops,ocellatus,NULL,Sciaenops ocellatus,NULL,Red Drum,Native,North America,169290
+961,Fishes,Perciformes,Sciaenidae,Totoaba,macdonaldi,NULL,Totoaba macdonaldi,NULL,Totoaba,Exotic,South America,646540
+962,Fishes,Perciformes,Scombridae,Scomberomorus,concolor,NULL,Scomberomorus concolor,NULL,Gulf Sierra,Native,North America,172438
+963,Fishes,Perciformes,Scorpaenidae,Pterois,volitans/miles,NULL,Pterois volitans/miles,NULL,lionfish,Exotic,Indo-Pacific,NULL
+964,Fishes,Perciformes,Serranidae,Cephalopholis,argus,NULL,Cephalopholis argus,NULL,peacock hind,Exotic,Indo-Pacific,167752
+965,Fishes,Perciformes,Serranidae,Cephalopholis,urodeta,NULL,Cephalopholis urodeta,NULL,darkfin hind,Exotic,Indo-Pacific,167755
+966,Fishes,Perciformes,Serranidae,Chromileptes,altivelis,NULL,Chromileptes altivelis,NULL,panther grouper,Exotic,Indo-Pacific,643423
+967,Fishes,Perciformes,Serranidae,Epinephelus,fasciatus,NULL,Epinephelus fasciatus,NULL,blacktip grouper,Exotic,Indo-Pacific,167709
+969,Fishes,Perciformes,Serranidae,Epinephelus,hexagonatus,NULL,Epinephelus hexagonatus,NULL,starspotted grouper,Exotic,Indo-Pacific,167712
+970,Fishes,Perciformes,Serranidae,Epinephelus,irroratus,NULL,Epinephelus irroratus,NULL,Marquesan grouper,Exotic,Indo-Pacific,551068
+971,Fishes,Perciformes,Serranidae,Epinephelus,merra,NULL,Epinephelus merra,NULL,dwarf spotted grouper,Exotic,Indo-Pacific,167710
+972,Fishes,Perciformes,Serranidae,Paralabrax,maculatofasciatus,NULL,Paralabrax maculatofasciatus,NULL,Spotted Sand Bass,Native,North America,167833
+973,Fishes,Perciformes,Stromateidae,Peprilus,simillimus,NULL,Peprilus simillimus,NULL,Pacific Pompano,Native,North America,172565
+974,Fishes,Synbranchiformes,Synbranchidae,Monopterus,albus,NULL,Monopterus albus,NULL,Asian Swamp Eel,Exotic,Asia,166697
+975,Fishes,Esociformes,Umbridae,Dallia,pectoralis,NULL,Dallia pectoralis,NULL,Alaska Blackfish,Native,North America,162159
+976,Fishes,Esociformes,Umbridae,Novumbra,hubbsi,NULL,Novumbra hubbsi,NULL,Olympic Mudminnow,Native,North America,162161
+977,Fishes,Esociformes,Umbridae,Umbra,limi,NULL,Umbra limi,NULL,Central Mudminnow,Native,North America,162153
+1421,Fishes,Esociformes,Esocidae,Esox,americanus,NULL,Esox americanus,NULL,Redfin Pickerel,Native,North America,162140
+1438,Fishes,Lepisosteiformes,Lepisosteidae,Lepisosteus,osseus,NULL,Lepisosteus osseus,NULL,Longnose Gar,Native,North America,161094
+1983,Fishes,Cypriniformes,Cyprinidae,Cyprinella,lutrensis x C. venusta,NULL,Cyprinella lutrensis x C. venusta,NULL,,Native Hybrid,North America,NULL
+2087,Fishes,Mugiliformes,Mugilidae,Mugil,sp.,NULL,Mugil sp.,NULL,,Native,North America,170334
+2090,Fishes,Cypriniformes,Cyprinidae,Notropis,asperifrons,NULL,Notropis asperifrons,NULL,Burrhead Shiner,Native,North America,163426
+2255,Fishes,Perciformes,Gobiidae,Mugilogobius,cavifrons,NULL,Mugilogobius cavifrons,NULL,mangrove goby,Exotic,Asia,553334
+2256,Fishes,Perciformes,Blenniidae,Omobranchus,ferox,NULL,Omobranchus ferox,NULL,fang-toothed blenny,Exotic,Asia and Africa,636446
+2261,Fishes,Synbranchiformes,Mastacembelidae,Macrognathus,siamensis,NULL,Macrognathus siamensis,NULL,Spotfin Spiny Eel,Exotic,Asia,650111
+2262,Fishes,Perciformes,Pomacanthidae,Centropyge,flavissima,NULL,Centropyge flavissima,NULL,lemonpeel angel,Exotic,Indo-Pacific,646767
+2263,Fishes,Lepisosteiformes,Lepisosteidae,Lepisosteus,platyrhincus,NULL,Lepisosteus platyrhincus,NULL,Florida Gar,Native,North America,161098
+2264,Fishes,Polypteriformes,Polypteridae,Polypterus,delhezi,NULL,Polypterus delhezi,NULL,barred bichir,Exotic,Africa,573245
+2265,Fishes,Perciformes,Channidae,Channa,argus,,Channa argus,,Northern Snakehead,Exotic,Asia,166680
+2266,Fishes,Perciformes,Channidae,Channa,marulius,NULL,Channa marulius,NULL,Bullseye Snakehead,Exotic,Asia,166663
+2291,Fishes,Anguilliformes,Anguillidae,Anguilla,marmorata,NULL,Anguilla marmorata,NULL,marbled eel,Exotic,Indo-Pacific,161135
+2294,Fishes,Perciformes,Pomacanthidae,Pomacanthus,imperator,NULL,Pomacanthus imperator,NULL,emperor angelfish,Exotic,Indo-Pacific,169635
+2295,Fishes,Perciformes,Pomacanthidae,Pomacanthus,annularis,NULL,Pomacanthus annularis,NULL,blue ringed angelfish,Exotic,Indo-Pacific,610565
+2296,Fishes,Perciformes,Pomacanthidae,Pomacanthus,semicirculatus,NULL,Pomacanthus semicirculatus,NULL,semicircle angelfish,Exotic,Indo-Pacific,169636
+2297,Fishes,Perciformes,Pomacanthidae,Pomacanthus,maculosus,NULL,Pomacanthus maculosus,NULL,yellowbar angelfish,Exotic,Indo-Pacific,610541
+2299,Fishes,Perciformes,Acanthuridae,Zebrasoma,desjardinii,NULL,Zebrasoma desjardinii,NULL,sailfin tang,Exotic,Indo-Pacific,623253
+2300,Fishes,Perciformes,Acanthuridae,Zebrasoma,veliferum,NULL,Zebrasoma veliferum,NULL,sailfin tang,Exotic,Indo-Pacific,172315
+2301,Fishes,Perciformes,Chaetodontidae,Chaetodon,lunula,NULL,Chaetodon lunula,NULL,raccoon butterflyfish,Native,Indo-Pacific,169571
+2303,Fishes,Perciformes,Zanclidae,Zanclus,cornutus,NULL,Zanclus cornutus,NULL,Moorish Idol,Exotic,Indo-Pacific,172311
+2304,Fishes,Perciformes,Acanthuridae,Zebrasoma,flavescens,NULL,Zebrasoma flavescens,NULL,yellow tang,Exotic,Indo-Pacific,172314
+2305,Fishes,Perciformes,Acanthuridae,Zebrasoma,xanthurum,NULL,Zebrasoma xanthurum,NULL,yellowtail tang,Exotic,Indo-Pacific,623270
+2309,Fishes,Perciformes,Ephippididae,Platax,orbicularis,NULL,Platax orbicularis,NULL,orbiculate batfish,Exotic,Indo-Pacific,169542
+2313,Fishes,Perciformes,Channidae,Channa,maculata,NULL,Channa maculata,NULL,Blotched Snakehead,Exotic,Asia,166684
+2341,Fishes,Siluriformes,Ictaluridae,Ictalurus,punctatus,NULL,Ictalurus punctatus,NULL,Channel Catfish,Native,North America,163998
+2345,Fishes,Cypriniformes,Cyprinidae,Carassius,auratus x C. carassius,NULL,Carassius auratus x C. carassius,NULL,goldfish x Crucian carp,Exotic Hybrid,Eurasia,NULL
+2347,Fishes,Perciformes,Percidae,Percina,notogramma,NULL,Percina notogramma,NULL,Stripeback Darter,Native,North America,168473
+2349,Fishes,Cypriniformes,Cyprinidae,Mylocheilus,caurinus,NULL,Mylocheilus caurinus,NULL,Peamouth,Native,North America,163521
+2350,Fishes,Cypriniformes,Cyprinidae,Macrhybopsis,meeki,NULL,Macrhybopsis meeki,NULL,Sicklefin Chub,Native,North America,163868
+2351,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,aguabonita,whitei,Oncorhynchus aguabonita whitei,,Little Kern golden trout,Native,North America,914092
+2392,Fishes,Cypriniformes,Cyprinidae,Carassius,auratus x Cyprinus carpio,NULL,Carassius auratus x Cyprinus carpio,NULL,goldfish x common carp,Exotic Hybrid,Eurasia,NULL
+2395,Fishes,Perciformes,Moronidae,Morone,americana x M. mississippiensis,NULL,Morone americana x M. mississippiensis,NULL,white perch x yellow bass,Native Hybrid,North America,NULL
+2399,Fishes,Salmoniformes,Salmonidae,Coregonus,maraena,NULL,Coregonus maraena,NULL,Maraena whitefish,Exotic,Europe,623417
+2403,Fishes,Perciformes,Blenniidae,Hypsoblennius,ionthas,NULL,Hypsoblennius ionthas,NULL,Freckled Blenny,Native,North America,171157
+2405,Fishes,Perciformes,Gobiidae,Gobionellus,oceanicus,NULL,Gobionellus oceanicus,NULL,Highfin Goby,Native,North America,171769
+2536,Fishes,Siluriformes,Ictaluridae,Noturus,nocturnus,NULL,Noturus nocturnus,NULL,Freckled Madtom,Native,North America,164005
+2544,Fishes,Percopsiformes,Amblyopsidae,Typhlichthys,subterraneus,NULL,Typhlichthys subterraneus,NULL,Southern Cavefish,Native,North America,164399
+2545,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,apache,,Oncorhynchus apache,,Apache Trout,Native,North America,161981
+2546,Fishes,Perciformes,Moronidae,Morone,chrysops x M. americana,NULL,Morone chrysops x M. americana,NULL,white bass x white perch,Native Hybrid,North America,NULL
+2549,Fishes,Tetraodontiformes,Tetraodontidae,Tetraodon,nigroviridis,NULL,Tetraodon nigroviridis,NULL,spotted green pufferfish,Exotic,Asia,646446
+2553,Fishes,Perciformes,Acanthuridae,Naso,lituratus,NULL,Naso lituratus,NULL,orangespine unicornfish,Exotic,Indo-Pacific,172297
+2554,Fishes,Perciformes,Acanthuridae,Acanthurus,sohal,NULL,Acanthurus sohal,NULL,Red Sea surgeonfish,Exotic,Indo-Pacific,623239
+2556,Fishes,Cypriniformes,Cyprinidae,Chrosomus,neogaeus,NULL,Chrosomus neogaeus,NULL,Finescale Dace,Native,North America,913995
+2560,Fishes,Cypriniformes,Cyprinidae,Hybognathus,nuchalis,NULL,Hybognathus nuchalis,NULL,Mississippi Silvery Minnow,Native,North America,163360
+2562,Fishes,Cypriniformes,Cyprinidae,Notropis,heterolepis,NULL,Notropis heterolepis,NULL,Blacknose Shiner,Native,North America,163446
+2565,Fishes,Siluriformes,Pimelodidae,Sorubimichthys,planiceps,NULL,Sorubimichthys planiceps,NULL,firewood catfish,Exotic,South America,681799
+2578,Fishes,Siluriformes,Pimelodidae,Sorubim,sp.,,Sorubim sp.,,unidentified shovelnose catfish,Exotic,South America,679602
+2580,Fishes,Anguilliformes,Muraenidae,Gymnothorax,sp.,NULL,Gymnothorax sp.,NULL,unidentified moray,Exotic,Indo-Pacific,161185
+2582,Fishes,Synbranchiformes,Mastacembelidae,Mastacembelus,erythrotaenia,NULL,Mastacembelus erythrotaenia,NULL,fire eel,Exotic,Asia,172695
+2589,Fishes,Perciformes,Lutjanidae,Lutjanus,sebae,NULL,Lutjanus sebae,NULL,emperor snapper,Exotic,Indo-Pacific,168894
+2590,Fishes,Perciformes,Pomacanthidae,Apolemichthys,xanthopunctatus,NULL,Apolemichthys xanthopunctatus,NULL,goldspotted angelfish,Exotic,Indo-Pacific,610445
+2591,Fishes,Perciformes,Pomacanthidae,Centropyge,loricula,NULL,Centropyge loricula,NULL,flaming angelfish,Native,Indo-Pacific,646768
+2592,Fishes,Perciformes,Pomacanthidae,Chaetodontoplus,mesoleucus,NULL,Chaetodontoplus mesoleucus,NULL,vermiculated angelfish,Exotic,Indo-Pacific,169676
+2593,Fishes,Siluriformes,Mochokidae,Synodontis,sp.,,Synodontis sp.,,squeaker,Exotic,Africa,164148
+2596,Fishes,Perciformes,Chaetodontidae,Heniochus,intermedius,NULL,Heniochus intermedius,NULL,Red Sea bannerfish,Exotic,Indo-Pacific,610299
+2597,Fishes,Perciformes,Cichlidae,Astatotilapia,calliptera,NULL,Astatotilapia calliptera,NULL,eastern happy,Exotic,Africa,648316
+2598,Fishes,Siluriformes,Loricariidae,Ancistrus,sp.,NULL,Ancistrus sp.,NULL,bristlenosed catfish,Exotic,South America,164345
+2601,Fishes,Perciformes,Cichlidae,Amphilophus,citrinellus x Cichlasoma urophthalmus,NULL,Amphilophus citrinellus x Cichlasoma urophthalmus,NULL,Midas x Mayan cichlid hybrid,Exotic Hybrid,South America,NULL
+2602,Fishes,Siluriformes,Schilbeidae,Platytropius,siamensis,NULL,Platytropius siamensis,NULL,false Siamese shark,Exotic,Asia,681866
+2603,Fishes,Siluriformes,Pangasiidae,Pangasianodon,hypophthalmus,NULL,Pangasianodon hypophthalmus,NULL,iridescent shark,Exotic,Asia,639954
+2605,Fishes,Perciformes,Pomacanthidae,Pygoplites,diacanthus,NULL,Pygoplites diacanthus,NULL,Regal angelfish,Exotic,Indo-Pacific,169667
+2606,Fishes,Perciformes,Cirrhitidae,Cirrhitichthys,falco,NULL,Cirrhitichthys falco,NULL,dwarf hawkfish,Exotic,Indo-Pacific,645472
+2607,Fishes,Perciformes,Cirrhitidae,Cirrhitichthys,oxycephalus,NULL,Cirrhitichthys oxycephalus,NULL,Coral Hawkfish,Exotic,Indo-Pacific,645648
+2608,Fishes,Perciformes,Cichlidae,Hypsophrys,nicaraguensis,NULL,Hypsophrys nicaraguensis,NULL,Moga,Exotic,Central America,649491
+2612,Fishes,Perciformes,Gobiidae,Rhinogobius,brunneus,NULL,Rhinogobius brunneus,NULL,Amur goby,Exotic,Asia,637953
+2616,Fishes,Cypriniformes,Cyprinidae,Balantiocheilos,melanopterus,NULL,Balantiocheilos melanopterus,NULL,tricolor sharkminnow,Exotic,Asia,163716
+2629,Fishes,Characiformes,Characidae,Metynnis,hypsauchen,NULL,Metynnis hypsauchen,NULL,silver dollar,Exotic,South America,163249
+2630,Fishes,Perciformes,Cichlidae,Cichlasoma,festae,NULL,Cichlasoma festae,NULL,Guayas cichlid,Exotic,South America,649452
+2632,Fishes,Characiformes,Alestiidae,Phenacogrammus,interruptus,NULL,Phenacogrammus interruptus,NULL,Congo tetra,Exotic,Africa,163303
+2637,Fishes,Siluriformes,Loricariidae,Glyptoperichthys,gibbiceps,NULL,Glyptoperichthys gibbiceps,NULL,leopard pleco,Exotic,South America,639370
+2638,Fishes,Perciformes,Blenniidae,Hypsoblennius,invemar,NULL,Hypsoblennius invemar,NULL,Tessellated Blenny,Unknown,South and Central America,171162
+2639,Fishes,Cyprinodontiformes,Poeciliidae,Poecilia,vivipara,NULL,Poecilia vivipara,NULL,Guaru,Exotic,South America,647540
+2640,Fishes,Cypriniformes,Gyrinocheilidae,Gyrinocheilus,aymonieri,NULL,Gyrinocheilus aymonieri,NULL,Chinese algae-eater,Exotic,Asia,163888
+2740,Fishes,Synbranchiformes,Synbranchidae,Monopterus,sp.,NULL,Monopterus sp.,NULL,Asian swamp eel,Exotic,Asia,NULL
+2760,Fishes,Perciformes,Acanthuridae,Acanthurus,guttatus,NULL,Acanthurus guttatus,NULL,whitespotted surgeonfish,Exotic,Indo-Pacific,172263
+2761,Fishes,Tetraodontiformes,Tetraodontidae,Arothron,diadematus,NULL,Arothron diadematus,NULL,masked pufferfish,Exotic,Indo-Pacific,646261
+2762,Fishes,Orectolobiformes,Hemiscylliidae,Chiloscyllium,punctatum,NULL,Chiloscyllium punctatum,NULL,brownbanded bambooshark,Exotic,Indo-Pacific,159952
+2763,Fishes,Perciformes,Pomacentridae,Dascyllus,trimaculatus,NULL,Dascyllus trimaculatus,NULL,three spot damselfish,Exotic,Indo-Pacific,170124
+2765,Fishes,Perciformes,Haemulidae,Plectorhinchus,chaetodonoides,NULL,Plectorhinchus chaetodonoides,NULL,spotted sweetlip,Exotic,Indo-Pacific,630191
+2766,Fishes,Tetraodontiformes,Balistidae,Rhinecanthus,aculeatus,NULL,Rhinecanthus aculeatus,NULL,Lagoon Triggerfish,Exotic,Indo-Pacific,173203
+2775,Fishes,Perciformes,Percidae,Percina,peltata,NULL,Percina peltata,NULL,Shield Darter,Native,North America,168474
+2784,Fishes,Cypriniformes,Cyprinidae,Tanichthys,albonubes,NULL,Tanichthys albonubes,NULL,White Cloud Mountain Minnow,Exotic,Asia,163764
+2786,Fishes,Siluriformes,Doradidae,Agamyxis,pectinifrons,NULL,Agamyxis pectinifrons,NULL,spotted rafael catfish,Exotic,South America,640006
+2787,Fishes,Perciformes,Chaetodontidae,Heniochus,sp.,NULL,Heniochus sp.,NULL,bannerfish,Exotic,Indo-Pacific,NULL
+2788,Fishes,Perciformes,Cichlidae,Oreochromis,sp.,NULL,Oreochromis sp.,NULL,Tilapia species,Exotic,Africa,170014
+2797,Fishes,Perciformes,Acanthuridae,Zebrasoma,scopas,NULL,Zebrasoma scopas,NULL,Brown Tang,Exotic,Indo-Pacific,172316
+2803,Fishes,Cyprinodontiformes,Fundulidae,Fundulus,olivaceus,NULL,Fundulus olivaceus,NULL,Blackspotted Topminnow,Native,North America,165655
+2805,Fishes,Perciformes,Pomacentridae,Dascyllus,aruanus,NULL,Dascyllus aruanus,NULL,whitetail damselfish,Exotic,Indo-Pacific,170123
+2807,Fishes,Siluriformes,Pimelodidae,Pseudoplatystoma,fasciatum,NULL,Pseudoplatystoma fasciatum,NULL,tiger catfish,Exotic,South America,164244
+2809,Fishes,Perciformes,Cichlidae,Parachromis,dovii,NULL,Parachromis dovii,NULL,wolf cichlid,Exotic,Central America,649545
+2822,Fishes,Perciformes,Serranidae,Epinephelus,ongus,,Epinephelus ongus,,Summan grouper,Exotic,Indo-Pacific,551082
+2823,Fishes,Tetraodontiformes,Balistidae,Balistoides,conspicillum,NULL,Balistoides conspicillum,NULL,clown triggerfish,Exotic,Indo-Pacific,173225
+2839,Fishes,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,longurio,NULL,Rhizoprionodon longurio,NULL,Pacific Sharpnose Shark,Native,Pacific Ocean,160208
+2842,Fishes,Perciformes,Centrarchidae,Micropterus,dolomieu x treculii,NULL,Micropterus dolomieu x treculii,NULL,,Native Hybrid,North America,NULL
+2844,Fishes,Perciformes,Chaetodontidae,Heniochus,diphreutes,NULL,Heniochus diphreutes,NULL,schooling bannerfish,Exotic,Indo-Pacific,169651
+2859,Fishes,Cypriniformes,Catostomidae,Moxostoma,breviceps,NULL,Moxostoma breviceps,NULL,Smallmouth Redhorse,Native,North America,163929
+2860,Fishes,Cypriniformes,Catostomidae,Moxostoma,pisolabrum,NULL,Moxostoma pisolabrum,NULL,Pealip Redhorse,Native,North America,201948
+2872,Fishes,Cypriniformes,Cyprinidae,Notropis,altipinnis,NULL,Notropis altipinnis,NULL,Highfin Shiner,Native,North America,163423
+2879,Fishes,Siluriformes,Loricariidae,Farlowella,vittata,NULL,Farlowella vittata,NULL,twig catfish,Exotic,South America,680414
+2881,Fishes,Perciformes,Centrarchidae,Enneacanthus,obesus,,Enneacanthus obesus,,Banded Sunfish,Native,North America,168117
+2883,Fishes,Characiformes,Characidae,Serrasalmus,humeralis,NULL,Serrasalmus humeralis,NULL,pirambeba,Exotic,South America,163278
+2886,Fishes,Perciformes,Percidae,Etheostoma,rufilineatum,NULL,Etheostoma rufilineatum,NULL,Redline Darter,Native,North America,168428
+2900,Fishes,Petromyzontiformes,Petromyzontidae,Ichthyomyzon,castaneus,NULL,Ichthyomyzon castaneus,NULL,Chestnut Lamprey,Native,North America,159725
+2902,Fishes,Perciformes,Oplegnathidae,Oplegnathus,fasciatus,NULL,Oplegnathus fasciatus,NULL,barred knifejaw,Exotic,Northwest Pacific,169730
+2903,Fishes,Atheriniformes,Atherinopsidae,Menidia,audens,NULL,Menidia audens,NULL,Mississippi Silverside,Native,North America,165998
+2905,Fishes,Cypriniformes,Catostomidae,Hypentelium,roanokense,NULL,Hypentelium roanokense,NULL,Roanoke Hog Sucker,Native,North America,163951
+2908,Fishes,Cyprinodontiformes,Poeciliidae,Poeciliopsis,occidentalis,NULL,Poeciliopsis occidentalis,NULL,Gila Topminnow,Native,North America,165918
+2909,Fishes,Cypriniformes,Cyprinidae,Lepidomeda,mollispinis,NULL,Lepidomeda mollispinis,NULL,Virgin spinedace,Native,North America,163573
+2910,Fishes,Cypriniformes,Cyprinidae,Campostoma,pauciradii,NULL,Campostoma pauciradii,NULL,Bluefin Stoneroller,Native,North America,163511
+2911,Fishes,Cypriniformes,Cyprinidae,Hybopsis,hypsinotus,NULL,Hybopsis hypsinotus,NULL,Highback Chub,Native,North America,163482
+2912,Fishes,Cypriniformes,Catostomidae,Moxostoma,anisurum,NULL,Moxostoma anisurum,NULL,Silver Redhorse,Native,North America,163933
+2913,Fishes,Siluriformes,Bagridae,Horabagrus,brachysoma,NULL,Horabagrus brachysoma,NULL,Günther's catfish,Exotic,Asia,680987
+2917,Fishes,Siluriformes,Pimelodidae,Leiarius,marmoratus,,Leiarius marmoratus,,Marbled Pim,Exotic,South America,681752
+2918,Fishes,Siluriformes,Heptapteridae,Rhamdia,sp.,NULL,Rhamdia sp.,NULL,bagre de Rio,Exotic,South America,164246
+2919,Fishes,Siluriformes,Pimelodidae,Phractocephalus,hemiliopterus x Pseudoplatystoma sp.,NULL,Phractocephalus hemiliopterus x Pseudoplatystoma sp.,NULL,Pimelodid hybrid catfish,Exotic Hybrid,South America,NULL
+2920,Fishes,Siluriformes,Ictaluridae,Ameiurus,sp.,NULL,Ameiurus sp.,NULL,bullhead catfish,Native,North America,164034
+2922,Fishes,Cypriniformes,Catostomidae,Erimyzon,oblongus,NULL,Erimyzon oblongus,NULL,Creek Chubsucker,Native,North America,163924
+2924,Fishes,Cypriniformes,Cyprinidae,Carassius,gibelio,,Carassius gibelio,,Prussian carp,Exotic,Eurasia,688850
+2925,Fishes,Carcharhiniformes,Carcharinidae,Rhizoprionodon,terranovae,,Rhizoprionodon terranovae,,Atlantic Sharpnose Shark,Native,North America,160200
+2931,Fishes,Perciformes,Acanthuridae,Acanthurus,pyroferus,NULL,Acanthurus pyroferus,NULL,chocolate surgeonfish,Exotic,Indo-Pacific,172272
+2934,Fishes,Cypriniformes,Cobitidae,Paramisgurnus,dabryanus,,Paramisgurnus dabryanus,,Large scale loach,Exotic,Asia,687899
+2935,Fishes,Acipenseriformes,Acipenseridae,Scaphirhynchus,platorynchus,NULL,Scaphirhynchus platorynchus,NULL,Shovelnose Sturgeon,Native,North America,161082
+2936,Fishes,Perciformes,Pomacentridae,Neopomacentrus,cyanomos,NULL,Neopomacentrus cyanomos,NULL,regal demoiselle,Exotic,Indo-Pacific,615385
+2939,Fishes,Perciformes,Cichlidae,Herichthys,carpintis,NULL,Herichthys carpintis,NULL,Lowland Cichlid,Exotic,North America,648685
+2940,Fishes,Perciformes,Cichlidae,Petenia,splendida,,Petenia splendida,,Giant Cichlid,Exotic,Central America,649225
+2947,Fishes,Cypriniformes,Cyprinidae,Ctenopharyngodon,idella,,Ctenopharyngodon idella,diploid,Grass Carp (diploid),Exotic,Asia,163537
+2948,Fishes,Cypriniformes,Cyprinidae,Ctenopharyngodon,idella,,Ctenopharyngodon idella,triploid,Grass Carp (triploid),Exotic,Asia,163537
+2949,Fishes,Cypriniformes,Cyprinidae,Mylopharyngodon,piceus,,Mylopharyngodon piceus,diploid,Black Carp (diploid),Exotic,Asia,639618
+2950,Fishes,Cypriniformes,Cyprinidae,Mylopharyngodon,piceus,,Mylopharyngodon piceus,triploid,Black Carp (triploid),Exotic,Asia,639618
+2987,Fishes,Perciformes,Rachycentridae,Rachycentron,canadum,,Rachycentron canadum,,Cobia,Native,North and Central America,168566
+3009,Fishes,Perciformes,Blenniidae,Omobranchus,punctatus,,Omobranchus punctatus,,Muzzled blenny,Exotic,Indo-Pacific,636257
+3017,Fishes,Perciformes,Cichlidae,Labeotropheus,fuelleborni,,Labeotropheus fuelleborni,,blue mbuna,Exotic,Africa,169956
+3019,Fishes,Perciformes,Chaetodontidae,Heniochus,acuminatus,,Heniochus acuminatus,,pennant coralfish,Exotic,Indo-Pacific,169652
+3052,Fishes,,Centrarchidae,Ambloplites,ariommus,,Ambloplites ariommus,, shadow bass,Native,North America,168099
+3089,Fishes,Perciformes,Centrarchidae,Lepomis,marginatus,,Lepomis marginatus,,Dollar Sunfish,Native,North America,168152
+3092,Fishes,Perciformes,Centrarchidae,Micropterus,notius,,Micropterus notius,,Suwanee Bass,Native,North America,168164
+3094,Fishes,Perciformes,Siganidae,Siganus,unimaculatus,,Siganus unimaculatus,,blotched foxface,Exotic,Indo-Pacific,623224
+3100,Fishes,Siluriformes,Mochokidae,Synodontis,ocellifer,,Synodontis ocellifer,,Ocellated Synodontis,Exotic,Africa,681645
+3147,Fishes,Cypriniformes,Cyprinidae,Hypophthalmichthys,sp.,,Hypophthalmichthys sp.,,bigheaded carps,Exotic,Asia,NULL
+3148,Fishes,Osteoglossiformes,Osteoglossidae,Arapaima,sp.,,Arapaima sp.,,Arapaima,Exotic,South America,161889
+3154,Fishes,Perciformes,Centrarchidae,Micropterus,sp. cf cataractae,,Micropterus sp. cf cataractae,,Bartram's Bass,Native,North America,NULL
+3155,Fishes,Perciformes,Centrarchidae,Micropterus,sp. cf cataractae,,Micropterus sp. cf cataractae,,Altamaha Bass,Native,North America,NULL
+3162,Fishes,Perciformes,Chaenopsidae,Protemblemaria,punctata,,Protemblemaria punctata,,Warthead Blenny,Exotic,South America,638327
+3164,Fishes,Perciformes,Cichlidae,Oreochromis,aureus x O. niloticus,,Oreochromis aureus x O. niloticus,,Blue x Nile Tilapia hybrid,Exotic Hybrid,Eurasia,NULL
+3165,Fishes,Cypriniformes,Cyprinidae,Barbonymus,gonionotus,,Barbonymus gonionotus,,Java Barb,Exotic,Asia,688444
+3168,Fishes,Perciformes,Pomacentridae,Acanthochromis,polyacanthus,,Acanthochromis polyacanthus,,spiny chromis damselfish,Exotic,Indo-Pacific,170199
+3169,Fishes,Perciformes,Monodactylidae,Monodactylus,sebae,,Monodactylus sebae,,African moony,Exotic,Africa,169469
+3170,Fishes,Perciformes,Eleotridae,Butis,koilomatodon,,Butis koilomatodon,,mud sleeper,Exotic,Indo-Pacific,637078
+3171,Fishes,Siluriformes,Pimelodidae,Pseudoplatystoma,punctifer,,Pseudoplatystoma punctifer,,Spotted Tiger Shovelnose Catfish,Exotic,South America,NULL
+3174,Fishes,Acipenseriformes,Acipenseridae,Acipenser,oxyrinchus,,Acipenser oxyrinchus,,Atlantic Sturgeon,Native,North America,553269
+3176,Fishes,Cypriniformes,Catostomidae,Catostomus,clarkii,,Catostomus clarkii,,Desert Sucker,Native,,163901
+3178,Fishes,Cypriniformes,Catostomidae,Catostomus,insignis,,Catostomus insignis,,Sonora Sucker,Native,,163905
+3184,Fishes,Cypriniformes,Catostomidae,Xyrauchen,texanus,,Xyrauchen texanus,,Razorback Sucker,Native,,163968
+3187,Fishes,Scorpaeniformes,Cottidae,Cottus,aleuticus,,Cottus aleuticus,,Coastrange Sculpin,Native,,167230
+3189,Fishes,Scorpaeniformes,Cottidae,Cottus,beldingii,,Cottus beldingii,,Paiute Sculpin,Native,,167238
+3193,Fishes,Cypriniformes,Cyprinidae,Erimystax,dissimilis,,Erimystax dissimilis,,Streamline Chub,Native,,163821
+3194,Fishes,Cypriniformes,Cyprinidae,Notropis,amabilis,,Notropis amabilis,,Texas Shiner,Native,North America,163410
+3197,Fishes,Cypriniformes,Cyprinidae,Gila,robusta,,Gila robusta,,roundtail chub,Native,Unknown,163558
+3198,Fishes,Cypriniformes,Cyprinidae,Hybopsis,amnis,,Hybopsis amnis,,Pallid Shiner,Native,North America,201917
+3202,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,clarkii,Oncorhynchus clarkii clarkii,,Coastal Cutthroat Trout,Native,,201900
+3203,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,alvordensis,Oncorhynchus clarkii alvordensis,,Alvord Cutthroat Trout,Native,,NULL
+3204,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,ssp. 3,Oncorhynchus clarkii ssp. 3,,Whitehorse Basin Cutthroat Trout,Native,,NULL
+3205,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,clarkii,macdonaldi,Oncorhynchus clarkii macdonaldi,,Yellowfin Cutthroat Trout,Native,,553417
+3206,Fishes,Acipenseriformes,Acipenseridae,Acipenser,oxyrinchus,desotoi,Acipenser oxyrinchus desotoi,,Gulf Sturgeon,Native,North America,624005
+3207,Fishes,Acipenseriformes,Acipenseridae,Acipenser,oxyrinchus,oxyrinchus,Acipenser oxyrinchus oxyrinchus,,Atlantic sturgeon,Native,North America,624004
+3208,Fishes,Acipenseriformes,Acipenseridae,Scaphirhynchus,suttkusi,,Scaphirhynchus suttkusi,,Alabama Sturgeon,Native,North America,201895
+3210,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,gilberti,Oncorhynchus mykiss gilberti,,Kern Golden Trout,Native,,553420
+3212,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,stonei,Oncorhynchus mykiss stonei,,Sacramento Golden Trout,Native,,553421
+3218,Fishes,Salmoniformes,Salmonidae,Oncorhynchus,mykiss,newberrii,Oncorhynchus mykiss newberrii,,Redband Trout of the Northern Great Basin,Native,North America,NULL
+3219,Fishes,Cypriniformes,Cyprinidae,Margariscus,nachtriebi,,Margariscus nachtriebi,,Northern Pearl Dace,Native,North America,689434
+3231,Fishes,Scorpaeniformes,Cottidae,Cottus,immaculatus,,Cottus immaculatus,,Knobfin Sculpin,Native,North America,NULL
+3232,Fishes,Scorpaeniformes,Cottidae,Cottus,hypselurus,,Cottus hypselurus,,Ozark Sculpin,Native,North America,167263
+3236,Fishes,Perciformes,Pomacentridae,Chromis,limbata,,Chromis limbata,,Azores chromis,Exotic,Europe and Africa,615284
+3238,Fishes,Cypriniformes,Cyprinidae,Carassius,langsdorfii,,Carassius langsdorfii,,Ginbuna crucian carp,Exotic,Asia,NULL
+1089,Mammals,Rodentia,Myocastoridae,Myocastor,coypus,NULL,Myocastor coypus,NULL,nutria,Exotic,South America,180402
+1090,Mammals,Rodentia,Castoridae,Castor,canadensis,NULL,Castor canadensis,NULL,American Beaver,Native,North America,180212
+1091,Mammals,Carnivora,Otariidae,Zalophus,californianus,NULL,Zalophus californianus,NULL,California sea lion,Native,North America,180621
+2555,Mammals,Rodentia,Muridae,Ondatra,zibethicus,NULL,Ondatra zibethicus,NULL,muskrat,Native,North America,180318
+2587,Mammals,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,,Hydrochoerus hydrochaeris,,capybara,Exotic,South America,825303
+2647,Mammals,Carnivora,Otariidae,Otaria,flavescens,NULL,Otaria flavescens,NULL,South American sea lion,Exotic,South America,180619
+5,Mollusks-Bivalves,Veneroida,Dreissenidae,Dreissena,polymorpha,,Dreissena polymorpha,,zebra mussel,Exotic,Eurasia,81339
+92,Mollusks-Bivalves,Veneroida,Cyrenidae,Corbicula,fluminea,,Corbicula fluminea,,Asian clam,Exotic,Asia,81387
+95,Mollusks-Bivalves,Veneroida,Dreissenidae,Dreissena,rostriformis,bugensis,Dreissena rostriformis bugensis,,quagga mussel,Exotic,Eurasia,567514
+110,Mollusks-Bivalves,Mytiloida,Mytilidae,Perna,viridis,,Perna viridis,,green mussel,Exotic,Asia,NULL
+129,Mollusks-Bivalves,Veneroida,Sphaeriidae,Pisidium,amnicum,NULL,Pisidium amnicum,NULL,greater European peaclam,Exotic,Eurasia,81401
+130,Mollusks-Bivalves,Veneroida,Sphaeriidae,Pisidium,henslowanum,NULL,Pisidium henslowanum,NULL,Henslow peaclam,Exotic,Eurasia,81410
+131,Mollusks-Bivalves,Veneroida,Pisidiidae,Sphaerium,corneum,NULL,Sphaerium corneum,NULL,European fingernail clam,Exotic,Eurasia,81392
+146,Mollusks-Bivalves,Unionoida,Unionidae,Lasmigona,subviridis,NULL,Lasmigona subviridis,NULL,green floater,Native,North America,80142
+2235,Mollusks-Bivalves,Unionoida,Unionidae,Alasmidonta,marginata,NULL,Alasmidonta marginata,NULL,elktoe,Native,North America,79918
+2236,Mollusks-Bivalves,Unionoida,Unionidae,Fusconaia,flava,NULL,Fusconaia flava,NULL,Wabash pigtoe,Native,North America,80041
+2238,Mollusks-Bivalves,Unionoida,Unionidae,Lampsilis,cardium,NULL,Lampsilis cardium,NULL,plain pocketbook,Native,North America,80016
+2239,Mollusks-Bivalves,Unionoida,Unionidae,Leptodea,fragilis,NULL,Leptodea fragilis,NULL,fragile papershell,Native,North America,80182
+2240,Mollusks-Bivalves,Unionoida,Unionidae,Pyganodon,grandis,NULL,Pyganodon grandis,NULL,giant floater,Native,North America,568179
+2241,Mollusks-Bivalves,Unionoida,Unionidae,Potamilus,alatus,NULL,Potamilus alatus,NULL,pink heelsplitter,Native,North America,80282
+2246,Mollusks-Bivalves,Unionoida,Unionidae,Ligumia,recta,NULL,Ligumia recta,NULL,black sandshell,Native,North America,80196
+2248,Mollusks-Bivalves,Veneroida,Sphaeriidae,Pisidium,punctiferum,NULL,Pisidium punctiferum,NULL,striate peaclam,Native,South and Central America,81425
+2322,Mollusks-Bivalves,Veneroida,Pisidiidae,Musculium,sp.,NULL,Musculium sp.,NULL,fingernail clam,Native,North America,81427
+2375,Mollusks-Bivalves,Veneroida,Sphaeriidae,Pisidium,moitessierianum,NULL,Pisidium moitessierianum,NULL,pygmy peaclam,Exotic,Eurasia,NULL
+2391,Mollusks-Bivalves,Veneroida,Sphaeriidae,Pisidium,supinum,NULL,Pisidium supinum,NULL,humpbacked peaclam,Exotic,Eurasia,81417
+2778,Mollusks-Bivalves,Veneroida,Pisidiidae,Eupera,cubensis,NULL,Eupera cubensis,NULL,mottled fingernailclam,Native,North America,81438
+2824,Mollusks-Bivalves,Unionoida,Unionidae,Sinanodonta,woodiana,,Sinanodonta woodiana,,Chinese pond mussel,Exotic,Asia,983676
+2933,Mollusks-Bivalves,Unionoida,Mycetopodidae,Anodontites,trapesialis,,Anodontites trapesialis,,,Exotic,South America,983982
+2985,Mollusks-Bivalves,Veneroida,Cyrenidae,Corbicula,largillierta,,Corbicula largillierta,,a freshwater clam,Exotic,Asia,NULL
+2986,Mollusks-Bivalves,Veneroida,Cyrenidae,Corbicula,squalida,,Corbicula squalida,,a freshwater clam,Exotic,Asia,NULL
+3118,Mollusks-Bivalves,Veneroida,Dreissenidae,Dreissena,sp.,,Dreissena sp.,,mussel,Exotic,Asia,81338
+3160,Mollusks-Bivalves,Veneroida,Cyrenidae,Corbicula,sp.,Form D,Corbicula sp. Form D,,Asian clam,Exotic,Asia,NULL
+2343,Mollusks-Cephalopods,Octopoda,Octopodidae,Octopus,vulgaris,NULL,Octopus vulgaris,NULL,common octopus,Native,North America,82603
+2826,Mollusks-Cephalopods,Octopoda,Octopodidae,Octopus,sp.,NULL,Octopus sp.,NULL,octopus,Native,North America,82595
+980,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,canaliculata,NULL,Pomacea canaliculata,NULL,channeled applesnail,Exotic,South America,568121
+981,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Marisa,cornuarietis,,Marisa cornuarietis,,giant rams-horn snail,Exotic,South America,73195
+982,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,bridgesi,NULL,Pomacea bridgesi,NULL,spiketop applesnail,Exotic,South America,70344
+984,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,cumingi,NULL,Pomacea cumingi,NULL,an applesnail,Exotic,South America,NULL
+985,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,paludosa,NULL,Pomacea paludosa,NULL,Florida applesnail,Native,North America,70343
+986,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,sp.,NULL,Pomacea sp.,NULL,an applesnail,Exotic,North America,70342
+987,Mollusks-Gastropods,Neotaenioglossa,Bithyniidae,Bithynia,tentaculata,NULL,Bithynia tentaculata,NULL,"mud bithynia, faucet snail",Exotic,Europe,70794
+1007,Mollusks-Gastropods,Neotaenioglossa,Hydrobiidae,Gillia,altilis,NULL,Gillia altilis,NULL,buffalo pebblesnail,Native,North America,70665
+1008,Mollusks-Gastropods,Neotaenioglossa,Hydrobiidae,Potamopyrgus,antipodarum,NULL,Potamopyrgus antipodarum,NULL,New Zealand mudsnail,Exotic,Eurasia,205006
+1011,Mollusks-Gastropods,Basommatophora,Lymnaeidae,Pseudosuccinea,columella,NULL,Pseudosuccinea columella,NULL,mimic lymnaea,Native,North America,76529
+1012,Mollusks-Gastropods,Basommatophora,Lymnaeidae,Radix,auricularia,,Radix auricularia,,European ear snail,Exotic,Europe,76526
+1018,Mollusks-Gastropods,Neogastropoda,Muricidae,Rapana,venosa,NULL,Rapana venosa,NULL,veined rapa whelk,Exotic,Asia,NULL
+1024,Mollusks-Gastropods,Basommatophora,Physidae,Physa,skinneri,NULL,Physa skinneri,NULL,glass physa,Native,North America,76694
+1025,Mollusks-Gastropods,Basommatophora,Physidae,Physella,acuta,NULL,Physella acuta,NULL,European physa,Exotic,Europe,76699
+1026,Mollusks-Gastropods,Basommatophora,Physidae,Physella,sp.,NULL,Physella sp.,NULL,a physa,Exotic,Unknown,76698
+1027,Mollusks-Gastropods,Basommatophora,Physidae,Stenophysa,marmorata,,Stenophysa marmorata,,marbled aplexa,Exotic,South and Central America,76743
+1028,Mollusks-Gastropods,Basommatophora,Physidae,Stenophysa,maugeriae,,Stenophysa maugeriae,,tawny aplexa,Exotic,North America,76742
+1029,Mollusks-Gastropods,Basommatophora,Planorbidae,Biomphalaria,glabrata,NULL,Biomphalaria glabrata,NULL,bloodfluke planorb,Exotic,Caribbean,76637
+1030,Mollusks-Gastropods,Basommatophora,Planorbidae,Biomphalaria,havanensis,NULL,Biomphalaria havanensis,NULL,ghost rams-horn,Native,North America,76638
+1031,Mollusks-Gastropods,Basommatophora,Planorbidae,Helisoma,sp.,NULL,Helisoma sp.,NULL,unidentified rams-horn,Native,North America,76599
+1032,Mollusks-Gastropods,Neotaenioglossa,Pleuroceridae,Elimia,virginica,NULL,Elimia virginica,NULL,Piedmont elimia,Native,North America,71851
+1037,Mollusks-Gastropods,Neotaenioglossa,Thiaridae,Melanoides,tuberculata,,Melanoides tuberculata,,red-rim melania,Exotic,Asia,NULL
+1038,Mollusks-Gastropods,Neotaenioglossa,Thiaridae,Melanoides,turriculus,NULL,Melanoides turriculus,NULL,fawn melania,Exotic,Asia,71535
+1039,Mollusks-Gastropods,Neotaenioglossa,Thiaridae,Tarebia,granifera,,Tarebia granifera,,quilted melania,Exotic,Asia,71539
+1043,Mollusks-Gastropods,Heterostropha,Valvatidae,Valvata,piscinalis,NULL,Valvata piscinalis,NULL,European stream valvata,Exotic,Europe,70348
+1044,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Cipangopaludina,chinensis,,Cipangopaludina chinensis,,Chinese mysterysnail,Exotic,Asia,70329
+1046,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Cipangopaludina,japonica,,Cipangopaludina japonica,,Japanese mysterysnail,Exotic,Asia,70332
+1047,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Viviparus,georgianus,NULL,Viviparus georgianus,NULL,banded mysterysnail,Native,North America,70307
+1049,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Viviparus,viviparus,NULL,Viviparus viviparus,NULL,snail,Exotic,Europe,NULL
+2233,Mollusks-Gastropods,Neotaenioglossa,Pleuroceridae,Elimia,livescens,,Elimia livescens,,liver elimia,Native,North America,71868
+2234,Mollusks-Gastropods,Neotaenioglossa,Pleuroceridae,Pleurocera,acuta,NULL,Pleurocera acuta,NULL,sharp hornsnail,Native,North America,71550
+2258,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pila,scutata,,Pila scutata,,an applesnail,Exotic,Asia,NULL
+2320,Mollusks-Gastropods,Basommatophora,Lymnaeidae,Fossaria,viridis,NULL,Fossaria viridis,NULL,,Exotic,Asia,NULL
+2321,Mollusks-Gastropods,Basommatophora  ,Planorbidae,Planorbella,duryi,NULL,Planorbella duryi,NULL,Seminole rams-horn,Native,North America,76662
+2543,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pila,luzonica,NULL,Pila luzonica,NULL,snail,Exotic,Asia,NULL
+2572,Mollusks-Gastropods,Basommatophora,Planorbidae,Drepanotrema,aeruginosus,,Drepanotrema aeruginosus,,rusty rams-horn,Exotic,Unknown,76640
+2573,Mollusks-Gastropods,Basommatophora,Planorbidae,Drepanotrema,cimex,,Drepanotrema cimex,,ridged rams-horn,Exotic,Unknown,76641
+2574,Mollusks-Gastropods,Basommatophora,Planorbidae,Drepanotrema,kermatoides,NULL,Drepanotrema kermatoides,NULL,crested rams-horn,Exotic,South and Central America,76642
+2600,Mollusks-Gastropods,Architaenioglossa,Ampullariidae,Pomacea,haustrum,NULL,Pomacea haustrum,NULL,titan applesnail,Exotic,South America,568122
+2633,Mollusks-Gastropods,Caenogastropoda,Ampullariidae,Pomacea,maculata,NULL,Pomacea maculata,NULL,giant applesnail,Exotic,South America,NULL
+2644,Mollusks-Gastropods,Neotaenioglossa,Thiaridae,Thiara,scabra,NULL,Thiara scabra,NULL,Pagoda tiara,Exotic,Asia,NULL
+2662,Mollusks-Gastropods,Neotaenioglossa,Ampullariidae,Pomacea,diffusa,NULL,Pomacea diffusa,NULL,spike-topped applesnail,Exotic,South America,NULL
+2769,Mollusks-Gastropods,Archaeopulmonata,Viviparidae,Viviparus,subpurpureus,NULL,Viviparus subpurpureus,NULL,olive mysterysnail,Native,North America,70310
+2916,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Cipangopaludina,sp.,NULL,Cipangopaludina sp.,NULL,a mysterysnail,Exotic,Asia,NULL
+2951,Mollusks-Gastropods,Neotaenioglossa,Hydrobiidae,Pyrgophorus,spinosus,,Pyrgophorus spinosus,,spiny crownsnail,Native,North America,70701
+3014,Mollusks-Gastropods,Neotaenioglossa,Hydrobiidae,Pyrgophorus,parvulus,,Pyrgophorus parvulus,,a crownsnail,Exotic,Caribbean,205003
+3158,Mollusks-Gastropods,Architaenioglossa,Viviparidae,Cipangopaludina,chinensis,chinensis,Cipangopaludina chinensis chinensis,,,Exotic,Asia,NULL
+6,Plants,Alismatales,Hydrocharitaceae,Hydrilla,verticillata,,Hydrilla verticillata,,hydrilla,Exotic,Asia,38974
+225,Plants,Lamiales,Acanthaceae,Hygrophila,polysperma,,Hygrophila polysperma,,hygro,Exotic,Asia,182342
+226,Plants,Lamiales,Acanthaceae,Nomaphila,stricta,,Nomaphila stricta,,stiff beargrass,Exotic,Asia,507563
+227,Plants,Caryophyllales,Amaranthaceae,Alternanthera,philoxeroides,,Alternanthera philoxeroides,,alligatorweed,Exotic,South America,20770
+228,Plants,Asterales,Asteraceae,Cotula,coronopifolia,,Cotula coronopifolia,,common brassbuttons,Exotic,Africa,35799
+229,Plants,Brassicales,Brassicaceae,Nasturtium,officinale,,Nasturtium officinale,,water-cress,Exotic,Eurasia,23255
+230,Plants,Lamiales,Plantaginaceae,Bacopa,monnieri,,Bacopa monnieri,,coastal waterhyssop,Native,North America,33038
+231,Plants,Nymphaeales,Cabombaceae,Cabomba,caroliniana,,Cabomba caroliniana,,Carolina fanwort,Native,North America,18408
+233,Plants,Lamiales,Plantaginaceae,Callitriche,stagnalis,,Callitriche stagnalis,,pond water-starwort,Exotic,Europe,32062
+234,Plants,Solanales,Convolvulaceae,Ipomoea,aquatica,,Ipomoea aquatica,,water spinach,Exotic,Asia,30759
+235,Plants,Saxifragales,Haloragaceae,Myriophyllum,aquaticum,,Myriophyllum aquaticum,,parrot feather,Exotic,South America,503904
+236,Plants,Saxifragales,Haloragaceae,Myriophyllum,heterophyllum,,Myriophyllum heterophyllum,,variable-leaf watermilfoil,Native,North America,27044
+237,Plants,Saxifragales,Haloragaceae,Myriophyllum,spicatum,,Myriophyllum spicatum,,Eurasian watermilfoil,Exotic,Eurasia,27039
+238,Plants,Lamiales,Lentibulariaceae,Utricularia,inflata,,Utricularia inflata,,swollen bladderwort,Native,North America,34453
+239,Plants,Myrtales,Lythraceae,Lythrum,salicaria,,Lythrum salicaria,,purple lythrum,Exotic,Eurasia,27079
+240,Plants,Myrtales,Lythraceae,Rotala,indica,,Rotala indica,,Indian toothcup,Exotic,Asia,27117
+242,Plants,Asterales,Menyanthaceae,Nymphoides,indica,,Nymphoides indica,,water snowflake,Exotic,Asia,503979
+243,Plants,Asterales,Menyanthaceae,Nymphoides,peltata,,Nymphoides peltata,,yellow floating-heart,Exotic,Eurasia,29998
+244,Plants,Proteales,Nelumbonaceae,Nelumbo,nucifera,,Nelumbo nucifera,,sacred lotus,Exotic,Asia,18400
+247,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,capensis,,Nymphaea capensis,zanzibariensis,cape blue waterlily,Exotic,Africa,503973
+249,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,lotus,,Nymphaea lotus,,white Egyptian lotus,Exotic,Africa,503977
+250,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,mexicana,,Nymphaea mexicana,,yellow waterlily,Native,North America,18385
+251,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,odorata,,Nymphaea odorata,,American white waterlily,Native,North America,18384
+252,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,x daubenyana [caerulea x micrantha],,Nymphaea x daubenyana [caerulea x micrantha],,waterlily,Exotic Hybrid,North America,503975
+253,Plants,Myrtales,Onagraceae,Ludwigia,grandiflora,,Ludwigia grandiflora,,large-flower primrose-willow,Exotic,South and Central America,516152
+255,Plants,Lamiales,Plantaginaceae,Bacopa,egensis,,Bacopa egensis,,Brazilian water-hyssop,Exotic,South America,192943
+256,Plants,Lamiales,Plantaginaceae,Dopatrium,junceum,,Dopatrium junceum,,horsefly's eye,Exotic,Asia,33587
+257,Plants,Lamiales,Phyrmaceae,Glossostigma,cleistanthum,,Glossostigma cleistanthum,,mudmats,Exotic,Australia,834093
+258,Plants,Lamiales,Plantaginaceae,Limnophila,indica,,Limnophila indica,,Indian marshweed,Exotic,Asia,503463
+259,Plants,Lamiales,Plantaginaceae,Limnophila,sessiliflora,,Limnophila sessiliflora,,Asian marshweed,Exotic,Asia,33635
+260,Plants,Lamiales,Plantaginaceae,Limnophila,x ludoviciana [indica x sessiliflora],,Limnophila x ludoviciana [indica x sessiliflora],,marshweed,Exotic Hybrid,North America,503464
+261,Plants,Lamiales,Plantaginaceae,Veronica,beccabunga,,Veronica beccabunga,,European speedwell,Exotic,Europe,33412
+262,Plants,Commelinales,Philydraceae,Philydrum,lanuginosum,,Philydrum lanuginosum,,woolly frog's mouth,Native?,Asia,507380
+263,Plants,Myrtales,Lythraceae,Trapa,natans,,Trapa natans,,water chestnut,Exotic,Eurasia,27170
+286,Plants,Salviniales,Azollaceae,Azolla,cristata,,Azolla cristata,,mosquitofern,Native,North and Central America,898983
+287,Plants,Salviniales,Azollaceae,Azolla,filiculoides,,Azolla filiculoides,,Pacific mosquitofern,Native,North and Central America,18007
+289,Plants,Salviniales,Marsileaceae,Marsilea,crenata,,Marsilea crenata,,false pepperwort,Exotic,Australia,899183
+291,Plants,Salviniales,Marsileaceae,Marsilea,macropoda,,Marsilea macropoda,,big-foot water-clover,Native,North and Central America,17993
+292,Plants,Salviniales,Marsileaceae,Marsilea,minuta,,Marsilea minuta,,dwarf water-clover,Exotic,Asia and Africa,565297
+293,Plants,Salviniales,Marsileaceae,Marsilea,quadrifolia,,Marsilea quadrifolia,,European water-clover,Exotic,Eurasia,17995
+294,Plants,Salviniales,Marsileaceae,Marsilea,vestita,,Marsilea vestita,,hairy water-clover,Native,North and Central America,17998
+296,Plants,Polypodiales,Pteridaceae,Ceratopteris,thalictroides,,Ceratopteris thalictroides,,watersprite,Exotic,South and Central America,17958
+297,Plants,Salviniales,Salviniaceae,Salvinia,minima,,Salvinia minima,,water spangles,Exotic,South America,181822
+298,Plants,Salviniales,Salviniaceae,Salvinia,molesta,,Salvinia molesta,,giant salvinia,Exotic,South America,181823
+1092,Plants,Alismatales,Alismataceae,Sagittaria,graminea,graminea,Sagittaria graminea graminea,,grassy arrowhead,Native,North America,811033
+1093,Plants,Alismatales,Alismataceae,Sagittaria,guayanensis,guayanensis,Sagittaria guayanensis guayanensis,,Guyanese arrowhead,Exotic,Central America,623996
+1094,Plants,Alismatales,Alismataceae,Sagittaria,montevidensis,montevidensis,Sagittaria montevidensis montevidensis,,giant arrowhead,Exotic,South America,811034
+1095,Plants,Alismatales,Alismataceae,Sagittaria,rigida,,Sagittaria rigida,,sessilefruit arrowhead,Native,North America,38928
+1097,Plants,Alismatales,Araceae,Cryptocoryne,beckettii,,Cryptocoryne beckettii,,Beckett's water trumpet,Exotic,Asia,811046
+1098,Plants,Alismatales,Araceae,Cryptocoryne,wendtii,,Cryptocoryne wendtii,,Wendt's water trumpet,Exotic,Asia,182569
+1099,Plants,Alismatales,Araceae,Pistia,stratiotes,,Pistia stratiotes,,water lettuce,Native?,South and Central America,42542
+1100,Plants,Alismatales,Butomaceae,Butomus,umbellatus,,Butomus umbellatus,,flowering rush,Exotic,Eurasia,38886
+1101,Plants,Alismatales,Alismataceae,Hydrocleys,nymphoides,,Hydrocleys nymphoides,,waterpoppy,Exotic,South and Central America,503099
+1102,Plants,Commelinales,Commelinaceae,Murdannia,keisak,,Murdannia keisak,,marsh dewflower,Exotic,Asia,39145
+1103,Plants,Alismatales,Hydrocharitaceae,Elodea,sp.,,Elodea sp.,,water weed,Native,North America,38936
+1106,Plants,Alismatales,Hydrocharitaceae,Blyxa,aubertii,,Blyxa aubertii,,roundfruit blyxa,Exotic,AustralAsia,501003
+1107,Plants,Alismatales,Hydrocharitaceae,Egeria,densa,,Egeria densa,,Brazilian waterweed,Exotic,South America,38972
+1110,Plants,Alismatales,Hydrocharitaceae,Hydrocharis,morsus-ranae,,Hydrocharis morsus-ranae,,European frogbit,Exotic,Europe,503098
+1112,Plants,Myrtales,Onagraceae,Ludwigia,decurrens,,Ludwigia decurrens,,wingleaf waterprimrose,Native,North and Central America,27343
+1113,Plants,Alismatales,Hydrocharitaceae,Ottelia,alismoides,,Ottelia alismoides,,duck-lettuce,Exotic,AustralAsia,38976
+1114,Plants,Alismatales,Hydrocharitaceae,Vallisneria,americana,,Vallisneria americana,,wild-celery,Native,North America,38951
+1115,Plants,Asparagales,Iridaceae,Iris,pseudacorus,,Iris pseudacorus,,yellow iris,Exotic,Europe and Africa,43194
+1116,Plants,Alismatales,Araceae,Landoltia,punctata,,Landoltia punctata,,dotted duckweed,Exotic,AustralAsia,811051
+1117,Plants,Alismatales,Hydrocharitaceae,Najas,graminea,,Najas graminea,,ricefield waternymph,Exotic,Asia,39000
+1118,Plants,Alismatales,Hydrocharitaceae,Najas,minor,,Najas minor,,brittle waternymph,Exotic,Eurasia,39002
+1120,Plants,Poales,Poaceae,Glyceria,maxima,,Glyceria maxima,,reed mannagrass,Exotic,Eurasia,40846
+1121,Plants,Poales,Poaceae,Hymenachne,amplexicaulis,,Hymenachne amplexicaulis,,West Indian marsh grass,Exotic,South and Central America,41778
+1123,Plants,Poales,Poaceae,Oryza,sativa,,Oryza sativa,,rice,Exotic,Asia,41976
+1125,Plants,Poales,Poaceae,Spartina,alterniflora,,Spartina alterniflora,,Atlantic cordgrass,Native,North America,41267
+1126,Plants,Poales,Poaceae,Spartina,anglica,,Spartina anglica,,common cordgrass,Exotic Hybrid,Europe,505302
+1127,Plants,Poales,Poaceae,Spartina,densiflora,,Spartina densiflora,,dense-flowered cordgrass,Exotic,South America,505303
+1128,Plants,Poales,Poaceae,Spartina,patens,,Spartina patens,,saltmeadow cordgrass,Native,North America,41271
+1129,Plants,Poales,Poaceae,Zizania,palustris,,Zizania palustris,palustris,northern wildrice,Native,North America,530918
+1130,Plants,Commelinales,Pontederiaceae,Eichhornia,crassipes,,Eichhornia crassipes,,floating waterhyacinth,Exotic,South America,42623
+1133,Plants,Commelinales,Pontederiaceae,Monochoria,vaginalis,,Monochoria vaginalis,,heart-shape false pickerelweed,Exotic,Asia,42628
+1134,Plants,Alismatales,Potamogetonaceae,Potamogeton,crispus,,Potamogeton crispus,,curly-leaf pondweed,Exotic,Eurasia,39007
+1135,Plants,Alismatales,Zosteraceae,Zostera,japonica,,Zostera japonica,,dwarf eelgrass,Exotic,Asia,505809
+1684,Plants,Ericales,Primulaceae,Lysimachia,punctata,,Lysimachia punctata,,large yellow loosestrife,Exotic,Europe,23995
+1688,Plants,Charales,Characeae,Nitellopsis,obtusa,,Nitellopsis obtusa,,starry stonewort,Exotic,Eurasia,NULL
+2216,Plants,Asterales,Menyanthaceae,Nymphoides,cristata,,Nymphoides cristata,,crested floating-heart,Exotic,Asia,897401
+2609,Plants,Alismatales,Araceae,Cryptocoryne,undulata,,Cryptocoryne undulata,,undulate water trumpet,Exotic,Asia,NULL
+2610,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,x marliacea [alba x mexicana],,Nymphaea x marliacea [alba x mexicana],,waterlily,Native Hybrid,South America,896689
+2611,Plants,Myrtales,Lythraceae,Rotala,rotundifolia,,Rotala rotundifolia,,roundleaf toothcup,Exotic,Asia,895362
+2615,Plants,Salviniales,Marsileaceae,Marsilea,mutica,,Marsilea mutica,,Australian water-clover,Exotic,Australia,899182
+2673,Plants,Poales,Juncaceae,Juncus,gerardii,,Juncus gerardii,,saltmarsh rush,Native,North America,503251
+2674,Plants,Alismatales,Hydrocharitaceae,Najas,marina,,Najas marina,,spiny waternymph,Native,North and Central America,39001
+2676,Plants,Poales,Cyperaceae,Carex,disticha,,Carex disticha,,tworank sedge,Exotic,Eurasia,501214
+2679,Plants,Poales,Typhaceae,Typha,angustifolia,,Typha angustifolia,,narrow-leaved cattail,Exotic,Eurasia,42325
+2681,Plants,Poales,Poaceae,Alopecurus,geniculatus,,Alopecurus geniculatus,geniculatus,water foxtail,Exotic,Eurasia,182516
+2682,Plants,Brassicales,Brassicaceae,Rorippa,sylvestris,,Rorippa sylvestris,,keek,Exotic,Eurasia,23017
+2686,Plants,Boraginales,Boraginaceae,Myosotis,scorpioides,,Myosotis scorpioides,,forget-me-not,Exotic,Eurasia,31697
+2688,Plants,Lamiales,Lamiaceae,Lycopus,asper,,Lycopus asper,,rough water-horehound,Native,North America,32256
+2691,Plants,Poales,Juncaceae,Juncus,compressus,,Juncus compressus,,roundfruit rush,Exotic,Eurasia,39260
+2694,Plants,Lamiales,Lamiaceae,Lycopus,europaeus,,Lycopus europaeus,,gypsywort,Exotic,Eurasia,32260
+2701,Plants,Poales,Typhaceae,Sparganium,glomeratum,,Sparganium glomeratum,,northern bur-reed,Native,North America,42322
+2704,Plants,Poales,Cyperaceae,Carex,acutiformis,,Carex acutiformis,,lesser pond sedge,Exotic,Eurasia,39477
+2730,Plants,Fabales,Fabaceae,Aeschynomene,fluitans,,Aeschynomene fluitans,,giant water sensitive plant,Exotic,Africa,NULL
+2745,Plants,Salviniales,Azollaceae,Azolla,pinnata,pinnata,Azolla pinnata pinnata,,feathered mosquitofern,Exotic,Australia,181820
+2758,Plants,Commelinales,Pontederiaceae,Eichhornia,azurea,,Eichhornia azurea,,anchored waterhyacinth,Exotic,South and Central America,42622
+2789,Plants,Alismatales,Alismataceae,Sagittaria,brevirostra,,Sagittaria brevirostra,,short-beak arrowhead,Native,North America,38914
+2796,Plants,Commelinales,Pontederiaceae,Pontederia,cordata,,Pontederia cordata,,pickerelweed,Native,North America,42620
+2808,Plants,Myrtales,Onagraceae,Ludwigia,peploides,montevidensis,Ludwigia peploides montevidensis,,floating primrose-willow,Exotic,South and Central America,27358
+2819,Plants,Poales,Cyperaceae,Cyperus,blepharoleptos,,Cyperus blepharoleptos,,Cuban bulrush,Exotic,South and Central America,518065
+2825,Plants,Alismatales,Hydrocharitaceae,Najas,guadalupensis,guadalupensis,Najas guadalupensis guadalupensis,,Guadalupe waternymph,Native,North and Central America,529249
+2843,Plants,Alismatales,Hydrocharitaceae,Elodea,canadensis,,Elodea canadensis,,Canadian waterweed,Native,North America,38937
+2854,Plants,Malpighiales,Phyllanthaceae,Phyllanthus,fluitans,,Phyllanthus fluitans,,red root floater,Exotic,South America,28364
+2941,Plants,Nymphaeales,Cabombaceae,Cabomba,palaeformis,,Cabomba palaeformis,,fish-grass,Exotic,Central America,897225
+2942,Plants,Alismatales,Hydrocharitaceae,Hydrilla,verticillata [dioecious],,Hydrilla verticillata [dioecious],,dioecious hydrilla,Exotic,Asia,38974
+2943,Plants,Alismatales,Hydrocharitaceae,Hydrilla,verticillata [monoecious],,Hydrilla verticillata [monoecious],,monoecious hydrilla,Exotic,Asia,38974
+2954,Plants,Myrtales,Onagraceae,Ludwigia,peruviana,,Ludwigia peruviana,,Peruvian primrose-willow,Exotic,Central America,27359
+2955,Plants,Brassicales,Brassicaceae,Nasturtium,microphyllum,,Nasturtium microphyllum,,onerow yellowcress,Exotic,Eurasia,23254
+2958,Plants,Caryophyllales,Droseraceae,Aldrovanda,vesiculosa,,Aldrovanda vesiculosa,,waterwheel plant,Exotic,Eurasia,NULL
+2960,Plants,Saxifragales,Haloragaceae,Myriophyllum,x spicatum [sibiricum x spicatum],,Myriophyllum x spicatum [sibiricum x spicatum],,hybrid watermilfoil,Exotic Hybrid,North America,NULL
+2961,Plants,Poales,Typhaceae,Typha,x glauca [angustifolia x latifolia],,Typha x glauca [angustifolia x latifolia],,white cattail,Exotic Hybrid,North America,42328
+2962,Plants,Alismatales,Potamogetonaceae,Stuckenia,pectinata,,Stuckenia pectinata,,broadleaf pondweed,Native,North and Central America,757504
+2964,Plants,Poales,Cyperaceae,Cyperus,blepharoleptos,,Cyperus blepharoleptos,,Cuban bulrush (umbellate),Exotic,South and Central America,518065
+2965,Plants,Poales,Cyperaceae,Cyperus,blepharoleptos,,Cyperus blepharoleptos,,Cuban bulrush (capitate),Exotic,South and Central America,518065
+2968,Plants,Caryophyllales,Amaranthaceae,Amaranthus,cannabinus,,Amaranthus cannabinus,,tidalmarsh amaranth,Native,North America,20716
+2970,Plants,Acorales,Acoraceae,Acorus,calamus,,Acorus calamus,,single-vein sweetflag,Exotic,Asia,564989
+2974,Plants,Myrtales,Lythraceae,Trapa,sp.,,Trapa sp.,,water chestnut,Exotic,Asia,27169
+2975,Plants,Alismatales,Hydrocharitaceae,Elodea,nuttallii,,Elodea nuttallii,,nuttall waterweed,Native,North America,502246
+2976,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,caerulea,,Nymphaea caerulea,,Egyptian lotus,Exotic,Africa,506589
+2979,Plants,Myrtales,Onagraceae,Ludwigia,hexapetala,,Ludwigia hexapetala,,six petal water primrose,Exotic,South and Central America,516153
+2981,Plants,Salviniales,Salviniaceae,Salvinia,auriculata,,Salvinia auriculata,,eared watermoss,Exotic,South and Central America,18013
+2982,Plants,Caryophyllales,Caryophyllaceae,Spergularia,platensis,,Spergularia platensis,,La Plata sandspurry,Exotic,South America,20160
+2988,Plants,Asterales,Menyanthaceae,Nymphoides,humboldtiana,,Nymphoides humboldtiana,,Humboldt's floating-heart,Native?,South and Central America,29999
+2989,Plants,Asterales,Menyanthaceae,Nymphoides,grayana,,Nymphoides grayana,,Gray's floating-heart,Native?,Caribbean,NULL
+2991,Plants,Salviniales,Marsileaceae,Marsilea,oligospora,,Marsilea oligospora,,Pacific waterclover,Native,North America,181817
+2993,Plants,Lamiales,Acanthaceae,Hygrophila,corymbosa,,Hygrophila corymbosa,,starhorn,Exotic,Asia,182340
+2994,Plants,Lamiales,Acanthaceae,Hygrophila,difformis,,Hygrophila difformis,,water-wisteria,Exotic,Asia,NULL
+2995,Plants,Salviniales,Marsileaceae,Marsilea,sp.,,Marsilea sp.,,waterclover,Unknown,Africa,17992
+2997,Plants,Poales,Cyperaceae,Cyperus,papyrus,,Cyperus papyrus,,papyrus,Exotic,Asia,39950
+2999,Plants,Commelinales,Pontederiaceae,Eichhornia,paniculata,,Eichhornia paniculata,,Brazilian water hyacinth,Exotic,South and Central America,502222
+3000,Plants,Commelinales,Pontederiaceae,Eichhornia,diversifolia,,Eichhornia diversifolia,,variableleaf waterhyacinth,Exotic,South America,42624
+3001,Plants,Poales,Poaceae,Luziola,subintegra,,Luziola subintegra,,Tropical American watergrass,Exotic,South America,783694
+3002,Plants,Nymphaeales,Nymphaeaceae,Nymphaea,sp.,,Nymphaea sp.,,waterlily,Unknown,Unknown,18383
+3004,Plants,Polypodiales,Pteridaceae,Acrostichum,aureum,,Acrostichum aureum,,golden leatherfern,Native,North and Central America,17305
+3011,Plants,Lamiales,Plantaginaceae,Limnophila,aromatica,,Limnophila aromatica,,rice paddy herb,Exotic,Asia,507349
+3012,Plants,Myrtales,Onagraceae,Ludwigia,peploides,glabrescens,Ludwigia peploides glabrescens,,floating primrose-willow,Native,North and Central America,524268
+3013,Plants,Poales,Cyperaceae,Cyperus,difformis,,Cyperus difformis,,smallflower umbrella sedge,Exotic,Europe and Africa,39915
+3020,Plants,Poales,Typhaceae,Typha,domingensis,,Typha domingensis,,southern cattail,Native,North and Central America,42327
+3021,Plants,Poales,Typhaceae,Typha,latifolia,,Typha latifolia,,broadleaf cattail,Native,North America,42326
+3035,Plants,Alismatales,Alismataceae,Alisma,gramineum,,Alisma gramineum,,narrowl-leaf water-plantain,Native,North America,38896
+3036,Plants,Caryophyllales,Amaranthaceae,Amaranthus,australis,,Amaranthus australis,,southern amaranth,Native,North and Central America,20721
+3041,Plants,Malpighiales,Elatinaceae,Elatine,triandra,,Elatine triandra,,longstem waterwort,Exotic,Eurasia,21413
+3043,Plants,Salviniales,Marsileaceae,Marsilea,drummondii,,Marsilea drummondii,,nardoo,Exotic,Australia,NULL
+3046,Plants,Apiales,Apiaceae,Oenanthe,javanica,,Oenanthe javanica,,Java waterdropwort,Exotic,Asia,506796
+3051,Plants,Polypodiales,Pteridaceae,Ceratopteris,richardii,,Ceratopteris richardii,,triangle waterfern,Exotic,Central America,17957
+3053,Plants,Poales,Cyperaceae,Scleria,microcarpa,,Scleria microcarpa,,tropical nutrush,Native?,South and Central America,505068
+3055,Plants,Saxifragales,Crassulaceae,Crassula,aquatica,,Crassula aquatica,,water pigmyweed,Native,North America,24099
+3069,Plants,Lamiales,Plantaginaceae,Bacopa,repens,,Bacopa repens,,creeping waterhyssop,Exotic,South and Central America,33044
+3099,Plants,Zingiberales,Cannaceae,Canna,glauca,,Canna glauca,,maraca amarilla,Exotic,South and Central America,42412
+3122,Plants,Poales,Cyperaceae,Eleocharis,schaffneri,,Eleocharis schaffneri,,Schaffner's spikerush,Exotic,Indo-Pacific,565154
+3124,Plants,Solanales,Hydroleaceae,Hydrolea,capsularis,,Hydrolea capsularis,,spiny false fiddleleaf,Exotic,South and Central America,31382
+3125,Plants,Asterales,Asteraceae,Enydra,fluctuans,,Enydra fluctuans,,buffalo spinach,Exotic,Asia,38850
+3126,Plants,Poales,Eriocaulaceae,Eriocaulon,scariosum,,Eriocaulon scariosum,,rough pipewort,Exotic,Australia,896358
+3135,Plants,Poales,Poaceae,Puccinellia,maritima,,Puccinellia maritima,,seaside alkaligrass,Exotic,Eurasia,41216
+3139,Plants,Selaginellales,Selaginellaceae,Selaginella,uncinata,,Selaginella uncinata,,peacock spikemoss,Exotic,Asia,17096
+3141,Plants,Asterales,Asteraceae,Symphyotrichum,squamatum,,Symphyotrichum squamatum,,southeastern annual saltmarsh aster,Exotic,South America,780972
+3142,Plants,Commelinales,Pontederiaceae,Heteranthera,limosa,,Heteranthera limosa,,mud plantain,Native,North and Central America,42618
+3163,Plants,Brassicales,Brassicaceae,Nasturtium,sp.,,Nasturtium sp.,,,Exotic,Eurasia,23252
+3172,Plants,Poales,Cyperaceae,Bolboschoenus,maritimus,paludosus,Bolboschoenus maritimus paludosus,,cosmopolitan bulrush,Native,North and Central America,525319
+3215,Plants,Myrtales,Onagraceae,Ludwigia,peploides,,Ludwigia peploides,,floating primrose-willow,Native,North and Central America,27355
+3220,Plants,Commelinales,Pontederiaceae,Heteranthera,rotundifolia,,Heteranthera rotundifolia,,roundleaf mudplantain,Native,North America,502964
+3221,Plants,Caryophyllales,Polygonaceae,Persicaria,meisneriana,,Persicaria meisneriana,beyrichiana,branched tearthumb,Native,North and Central America,823884
+3222,Plants,Caryophyllales,Polygonaceae,Persicaria,minor,,Persicaria minor,,pygmy smartweed,Exotic,Asia,823785
+3223,Plants,Caryophyllales,Polygonaceae,Persicaria,hydropiper,,Persicaria hydropiper,,marshpepper knotweed,Exotic,Eurasia,518732
+3225,Plants,Caryophyllales,Polygonaceae,Persicaria,setacea,,Persicaria setacea,,bog smartweed,Native,North America,518753
+3226,Plants,Salviniales,Salviniaceae,Salvinia,oblongifolia,,Salvinia oblongifolia,,,Exotic,South America,NULL
+3227,Plants,Asterales,Asteraceae,Symphyotrichum,bahamense,,Symphyotrichum bahamense,,Bahaman aster,Native,North and Central America,780969
+3228,Plants,Asterales,Asteraceae,Symphyotrichum,divaricatum ,,Symphyotrichum divaricatum,,southern annual saltmarsh aster,Native,North and Central America,780970
+3229,Plants,Lamiales,Lentibulariaceae,Utricularia,subulata,,Utricularia subulata,,zigzag bladderwort,Native,North and Central America,34465
+3237,Plants,Asterales,Asteraceae,Blennosperma,bakeri,,Blennosperma bakeri,,Baker's stickyseed,Native,North America,36842
+2798,Platyhelminthes,Bothriocephalidea,Bothriocephalidae,Schyzocotyle,acheilognathi,,Schyzocotyle acheilognathi,,Asian tapeworm,Exotic,Asia,1059846
+221,Reptiles-Crocodilians,Crocodilia,Alligatoridae,Alligator,mississippiensis,,Alligator mississippiensis,,American alligator,Native,North America,551771
+222,Reptiles-Crocodilians,Crocodilia,Alligatoridae,Caiman,crocodilus,,Caiman crocodilus,,Common Caiman,Exotic,South and Central America,174370
+223,Reptiles-Crocodilians,Crocodilia,Crocodylidae,Crocodylus,acutus,,Crocodylus acutus,,American crocodile,Native,North America,174361
+2273,Reptiles-Crocodilians,Crocodilia,Crocodylidae,Crocodylus,niloticus,,Crocodylus niloticus,,Nile Crocodile,Exotic,Africa,202200
+2869,Reptiles-Crocodilians,Crocodilia,Crocodylidae,Crocodylus,cataphractus,NULL,Crocodylus cataphractus,NULL,African Slender-snouted Crocodile,Exotic,Africa,202195
+2870,Reptiles-Crocodilians,Crocodilia,Alligatoridae,Paleosuchus,trigonatus,,Paleosuchus trigonatus,,Schneider's Smooth-fronted Caiman,Exotic,South America,551815
+2871,Reptiles-Crocodilians,Crocodilia,Alligatoridae,Paleosuchus,palpebrosus,,Paleosuchus palpebrosus,,Dwarf Caiman,Exotic,South America,551814
+2906,Reptiles-Crocodilians,Crocodilia,Crocodylidae,Mecistops,cataphractus,,Mecistops cataphractus,,African Gavial,Exotic,Africa,845140
+1194,Reptiles-Snakes,Squamata,Colubridae,Natrix,tessellata,,Natrix tessellata,,Tessellated Watersnake,Exotic,Eurasia,700800
+1195,Reptiles-Snakes,Squamata,Colubridae,Nerodia,fasciata,pictiventris,Nerodia fasciata pictiventris,NULL,Florida Watersnake,Native,North America,209353
+1196,Reptiles-Snakes,Squamata,Colubridae,Nerodia,taxispilota,NULL,Nerodia taxispilota,NULL,Brown Watersnake,Native,North America,174255
+1197,Reptiles-Snakes,Squamata,Viperidae,Agkistrodon,piscivorus,NULL,Agkistrodon piscivorus,NULL,Cottonmouth,Native,North America,174299
+2271,Reptiles-Snakes,Squamata,Colubridae,Nerodia,fasciata,fasciata,Nerodia fasciata fasciata,NULL,Southern Watersnake,Native,North America,202173
+2576,Reptiles-Snakes,Squamata,Boidae,Eunectes,notaeus,NULL,Eunectes notaeus,NULL,Yellow Anaconda,Exotic,South America,634803
+2577,Reptiles-Snakes,Squamata,Colubridae,Nerodia,rhombifer,NULL,Nerodia rhombifer,NULL,Diamond-backed Watersnake,Native,North America,563904
+2628,Reptiles-Snakes,Squamata,Acrochordidae,Acrochordus,javanicus,,Acrochordus javanicus,,Javan Filesnake,Exotic,Asia,634833
+2636,Reptiles-Snakes,Squamata,Boidae,Eunectes,murinus,NULL,Eunectes murinus,NULL,Green Anaconda,Exotic,South America,634802
+2646,Reptiles-Snakes,Squamata,Colubridae,Fordonia,leucobalia,NULL,Fordonia leucobalia,NULL,Crab-eating water snake,Exotic,Asia,700427
+2779,Reptiles-Snakes,Squamata,Colubridae,Nerodia,sipedon,NULL,Nerodia sipedon,NULL,Northern Watersnake,Native,North America,174251
+2851,Reptiles-Snakes,Squamata,Colubridae,Erpeton,tentaculatus,NULL,Erpeton tentaculatus,NULL,Tentacled Snake,Exotic,Asia,700426
+2990,Reptiles-Snakes,Squamata,Colubridae,Xenochrophis,vittatus,,Xenochrophis vittatus,,Striped Keelback,Exotic,Indo-Pacific,700878
+1223,Reptiles-Turtles,Testudines,Chelidae,Chelus,fimbriatus,NULL,Chelus fimbriatus,NULL,Matamata,Exotic,South America,NULL
+1224,Reptiles-Turtles,Testudines,Chelidae,Platemys,platycephala,NULL,Platemys platycephala,NULL,twist-necked turtle,Exotic,South America,551845
+1225,Reptiles-Turtles,Testudines,Chelydridae,Chelydra,serpentina,NULL,Chelydra serpentina,NULL,Snapping Turtle,Native,North America,173752
+1226,Reptiles-Turtles,Testudines,Chelydridae,Chelydra,serpentina,serpentina,Chelydra serpentina serpentina,NULL,Eastern Snapping Turtle,Native,North America,173753
+1227,Reptiles-Turtles,Testudines,Chelydridae,Macrochelys,temminckii,NULL,Macrochelys temminckii,NULL,Alligator Snapping Turtle,Native,North America,668671
+1228,Reptiles-Turtles,Testudines,Geoemydidae,Mauremys,reevesii,,Mauremys reevesii,,Chinese Three-keeled Pond Turtle,Exotic,Asia,949163
+1229,Reptiles-Turtles,Testudines,Emydidae,Chrysemys,picta,NULL,Chrysemys picta,NULL,Painted Turtle,Native,North America,173783
+1231,Reptiles-Turtles,Testudines,Emydidae,Chrysemys,picta,bellii,Chrysemys picta bellii,NULL,Western Painted Turtle,Native,North America,208620
+1232,Reptiles-Turtles,Testudines,Emydidae,Chrysemys,picta,dorsalis,Chrysemys picta dorsalis,NULL,Southern Painted Turtle,Native,North America,208622
+1233,Reptiles-Turtles,Testudines,Emydidae,Chrysemys,picta,marginata,Chrysemys picta marginata,NULL,Midland Painted Turtle,Native,North America,208624
+1234,Reptiles-Turtles,Testudines,Emydidae,Glyptemys,insculpta,NULL,Glyptemys insculpta,NULL,Wood Turtle,Native,North America,668669
+1235,Reptiles-Turtles,Testudines,Emydidae,Glyptemys,muhlenbergii,NULL,Glyptemys muhlenbergii,NULL,Bog Turtle,Native,North America,668670
+1236,Reptiles-Turtles,Testudines,Emydidae,Cuora,flavomarginata,NULL,Cuora flavomarginata,NULL,Yellow-margined Box Turtle,Exotic,Asia,551909
+1237,Reptiles-Turtles,Testudines,Emydidae,Deirochelys,reticularia,chrysea,Deirochelys reticularia chrysea,NULL,Florida Chicken Turtle,Native,North America,208627
+1238,Reptiles-Turtles,Testudines,Emydidae,Emydoidea,blandingii,NULL,Emydoidea blandingii,NULL,Blanding's Turtle,Native,North America,173789
+1239,Reptiles-Turtles,Testudines,Emydidae,Graptemys,barbouri,NULL,Graptemys barbouri,NULL,Barbour's Map Turtle,Native,North America,173791
+1240,Reptiles-Turtles,Testudines,Emydidae,Graptemys,geographica,NULL,Graptemys geographica,NULL,Northern Map Turtle,Native,North America,173794
+1241,Reptiles-Turtles,Testudines,Emydidae,Graptemys,pseudogeographica,kohnii,Graptemys pseudogeographica kohnii,NULL,Mississippi Map Turtle,Native,North America,668678
+1242,Reptiles-Turtles,Testudines,Emydidae,Graptemys,ouachitensis,NULL,Graptemys ouachitensis,NULL,Ouachita Map Turtle,Native,North America,173799
+1243,Reptiles-Turtles,Testudines,Emydidae,Graptemys,pseudogeographica,NULL,Graptemys pseudogeographica,NULL,False Map Turtle,Native,North America,173800
+1245,Reptiles-Turtles,Testudines,Emydidae,Malaclemys,spp.,NULL,Malaclemys spp.,NULL,Diamond-backed Terrapin,Native,North America,173779
+1246,Reptiles-Turtles,Testudines,Emydidae,Malaclemys,terrapin,NULL,Malaclemys terrapin,NULL,Diamond-backed Terrapin,Native,North America,173780
+1247,Reptiles-Turtles,Testudines,Emydidae,Malayemys,subtrijuga,NULL,Malayemys subtrijuga,NULL,Malayan Snail-eating Turtle,Exotic,Asia,551927
+1248,Reptiles-Turtles,Testudines,Emydidae,Mauremys,caspica,NULL,Mauremys caspica,NULL,Caspian Turtle,Exotic,Asia,551928
+1249,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,concinna,concinna,Pseudemys concinna concinna,NULL,Eastern River Cooter,Native,North America,173807
+1250,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,concinna,NULL,Pseudemys concinna,NULL,River Cooter,Native,North America,173805
+1251,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,sp.,,Pseudemys sp.,,Cooter,Native,North America,173803
+1253,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,concinna,floridana,Pseudemys concinna floridana,NULL,Coastal Plain Cooter,Native,North America,551965
+1254,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,nelsoni,NULL,Pseudemys nelsoni,NULL,Florida Red-bellied Cooter,Native,North America,173813
+1255,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,rubriventris,NULL,Pseudemys rubriventris,NULL,Northern Red-bellied Cooter,Native,North America,173814
+1256,Reptiles-Turtles,Testudines,Emydidae,Pseudemys,spp.,NULL,Pseudemys spp.,NULL,Red-bellied Turtles and Cooters,Native,North America,173803
+1257,Reptiles-Turtles,Testudines,Bataguridae,Rhinoclemmys,pulcherrima,NULL,Rhinoclemmys pulcherrima,NULL,Painted Wood Turtle,Exotic,South America,551860
+1258,Reptiles-Turtles,Testudines,Emydidae,Trachemys,dorbigni,NULL,Trachemys dorbigni,NULL,Brazilian Slider,Exotic,South America,551947
+1259,Reptiles-Turtles,Testudines,Emydidae,Trachemys,scripta,NULL,Trachemys scripta,NULL,Pond Slider,Native,North America,173819
+1260,Reptiles-Turtles,Testudines,Emydidae,Trachemys,callirostris,callirostris,Trachemys callirostris callirostris,,Columbian slider,Exotic,South America,949964
+1261,Reptiles-Turtles,Testudines,Emydidae,Trachemys,scripta,elegans,Trachemys scripta elegans,NULL,Red-eared Slider,Native,North America,173823
+1262,Reptiles-Turtles,Testudines,Emydidae,Trachemys,scripta,scripta,Trachemys scripta scripta,NULL,Yellow-bellied Slider,Native,North America,173821
+1263,Reptiles-Turtles,Testudines,Emydidae,Trachemys,scripta,troostii,Trachemys scripta troostii,NULL,Cumberland Slider,Native,North America,173825
+1264,Reptiles-Turtles,Testudines,Emydidae,Trachemys,stejnegeri,malonei,Trachemys stejnegeri malonei,NULL,Inagua Slider,Exotic,Caribbean,202094
+1266,Reptiles-Turtles,Testudines,Kinosternidae,Kinosternon,scorpioides,NULL,Kinosternon scorpioides,NULL,Scorpion Mud Turtle,Exotic,South America,551809
+1267,Reptiles-Turtles,Testudines,Kinosternidae,Kinosternon,subrubrum,,Kinosternon subrubrum,,Eastern Mud Turtle,Native,North America,949136
+1268,Reptiles-Turtles,Testudines,Kinosternidae,Kinosternon,subrubrum,hippocrepis,Kinosternon subrubrum hippocrepis,NULL,Mississippi mud turtle,Native,North America,208571
+1269,Reptiles-Turtles,Testudines,Kinosternidae,Sternotherus,odoratus,NULL,Sternotherus odoratus,NULL,Eastern Musk Turtle,Native,North America,173758
+1270,Reptiles-Turtles,Testudines,Pelomedusidae,Podocnemis,lewyana,NULL,Podocnemis lewyana,NULL,Magdalena River Turtle,Exotic,South America,551848
+1271,Reptiles-Turtles,Testudines,Pelomedusidae,Podocnemis,sextuberculata,NULL,Podocnemis sextuberculata,NULL,Six-tubercled river turtle,Exotic,South America,551849
+1272,Reptiles-Turtles,Testudines,Pelomedusidae,Podocnemis,unifilis,NULL,Podocnemis unifilis,NULL,Yellow-spotted River Turtle,Exotic,South America,202121
+1273,Reptiles-Turtles,Testudines,Trionychidae,Apalone,ferox,NULL,Apalone ferox,NULL,Florida Softshell,Native,North America,208675
+1274,Reptiles-Turtles,Testudines,Trionychidae,Apalone,spinifera,NULL,Apalone spinifera,NULL,Spiny Softshell,Native,North America,208680
+1275,Reptiles-Turtles,Testudines,Trionychidae,Apalone,spinifera,emoryi,Apalone spinifera emoryi,NULL,Texas Spiny Softshell,Native,North America,208685
+1276,Reptiles-Turtles,Testudines,Trionychidae,Apalone,spinifera,spinifera,Apalone spinifera spinifera,NULL,Eastern Spiny Softshell,Native,North America,208693
+1277,Reptiles-Turtles,Testudines,Trionychidae,Palea,steindachneri,NULL,Palea steindachneri,NULL,Wattle-necked Softshell,Exotic,Asia,208695
+1278,Reptiles-Turtles,Testudines,Trionychidae,Pelodiscus,sinensis,NULL,Pelodiscus sinensis,NULL,Chinese softshell,Exotic,Asia,208697
+2281,Reptiles-Turtles,Testudines,Pelomedusidae,Pelusios,subniger,,Pelusios subniger,,East African Black Mud Turtle,Exotic,Africa,949515
+2564,Reptiles-Turtles,Testudines,Kinosternidae,Kinosternon,flavescens,NULL,Kinosternon flavescens,NULL,Yellow Mud Turtle,Native,North America,173766
+2625,Reptiles-Turtles,Testudines,Trionychidae,Apalone,spinifera,pallida,Apalone spinifera pallida,NULL,Pallid Spiny Softshell,Native,North America,208692
+2626,Reptiles-Turtles,Testudines,Emydidae,Graptemys,spp.,NULL,Graptemys spp.,NULL,Map turtle,Native,North America,173790
+2853,Reptiles-Turtles,Testudines,Kinosternidae,Staurotypus,salvinii,NULL,Staurotypus salvinii,NULL,Pacific Coast giant musk turtle,Exotic,Central America,551863
+2868,Reptiles-Turtles,Testudines,Kinosternidae,Sternotherus,carinatus,NULL,Sternotherus carinatus,NULL,Razor-backed Musk Turtle,Native,North America,173759
+2877,Reptiles-Turtles,Testudines,Bataguridae,Rhinoclemmys,punctularia,NULL,Rhinoclemmys punctularia,NULL,Spot-legged Turtle,Exotic,South America,551861
+2901,Reptiles-Turtles,Testudines,Bataguridae,Ocadia,sinensis,NULL,Ocadia sinensis,NULL,Chinese stripe-necked turtle,Exotic,Asia,551937
+2927,Reptiles-Turtles,Testudines,Emydidae,Graptemys,ernsti,NULL,Graptemys ernsti,NULL,Escambia Map Turtle,Native,North America,551768
+2923,Rotifers,Ploima,Brachionidae,Brachionus,forficula,NULL,Brachionus forficula,NULL,a brachionid rotifer,Exotic,Unknown,NULL
+3201,Rotifers,Ploima,Brachionidae,Brachionus,leydigii,,Brachionus leydigii,,a rotifer,Exotic,Unknown,58475
