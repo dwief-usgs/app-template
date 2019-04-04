@@ -31,7 +31,7 @@ def n_sents(idx, df):
     to the passed in start sentence and dataframe
     in most cases this returns before and after sentence index
     except when at beginning or end of document
-    
+
     Returns
     -------
     tuple
@@ -42,12 +42,12 @@ def n_sents(idx, df):
     middle = idx
     end = idx
     # make sure we do not join same sentence twice but also ensure we get 3 sentence context
-    if idx == len(df)-1: 
+    if idx == len(df)-1:
         start = idx-2
         middle = idx-1
     elif idx > 0:
         start = idx-1
-    
+
     if idx == 0:
         end = idx+2
         middle = idx+1
@@ -74,15 +74,15 @@ def connect_db(term_doc_list):
                             port=conf['postgres']['port'],
                             password=conf['postgres']['password'])
     cursor = conn.cursor()
-    if len(term_doc_list) == 0:
+    if len(term_doc_list) != 0:
         sql = "select distinct(docid) from sentences_nlp352 where docid in ({});".format(", ".join(["'"+str(n)+"'" for n in term_doc_list]))
         cursor.execute(sql)
         docids = [i[0] for i in cursor.fetchall()]
-        #print("Looping over %s docids, for %s" % len(docids))
+        print("Looping over %s docids" % len(docids))
         for i in docids:
             df = pd.read_sql_query('select docid, sentid, wordidx, words, poses, ners from sentences_nlp352 WHERE docid=%(docid)s ORDER BY sentid;', con=conn, params={"docid" : i})
             yield df
-        
+
 
 
 
@@ -113,7 +113,7 @@ def get_species_list(file= './resources/nas_species_itis.csv'):
     """
     species = pd.read_csv(file, encoding='iso_8859_5')
     species_list = []
-    
+
     for row in species.itertuples():
         if ' x ' in row.scientificName:
             name = row.common_name
@@ -124,7 +124,7 @@ def get_species_list(file= './resources/nas_species_itis.csv'):
         else:
             name = row.scientificName
             species_list.append(name)
-    
+
     return species_list
 
 
@@ -152,5 +152,5 @@ def get_doc_list(term, URL='https://geodeepdive.org/api/terms?show_docids&term='
         raise Exception(e)
 
 
-	
+
 
