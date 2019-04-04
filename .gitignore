@@ -2,3 +2,8 @@
 
 credentials.yml
 *.swp
+stromatolites_demo/input/
+
+app/cand-df.csv
+app/config.yml
+venv/

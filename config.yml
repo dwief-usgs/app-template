@@ -1,14 +1,14 @@
 # The name of the application (no spaces)
-app_name: dam_removal
+app_name: nas_species
 
 # A brief description of the app.
-description : Filter documents that contain dam removal related strings and drop into a text file.
+description : Filter documents that contain strings related to species of interest and drop into a text file.
 
 # Your first and last name
-user: Brandon Serna
+user: Daniel Wieferich
 
 # Your email
-email: example.user@geodeepdive.org
+email: dwieferich@usgs.gov
 
 # The primary language the application is written in - will be used for installing dependencies
 # Current options are Python, R, and Go
