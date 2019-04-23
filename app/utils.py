@@ -6,25 +6,6 @@ import pandas as pd
 
 def remap_sent(sent): return ' '.join(sent)
 
-
-# def n_sents(idx, df):
-#     ''' Returns the surrounding sentences in relation
-#     to the passed in dataframe
-
-#     Returns
-#     -------
-#     tuple
-#         (starting sentence index, ending sentence index)
-#     '''
-#     idx  = idx-1 # convert from sentid->dataframe index
-#     start = idx
-#     end = idx
-#     if idx > 0:
-#         start = idx-1
-#     if idx < len(df) - 1:
-#         end = idx+1
-#     return(start, end)
-
 def n_sents(idx, df):
     ''' Returns index corresponding to ids of start and end sentences
     to reflect three consecetive sentences in relation
