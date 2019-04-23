@@ -20,7 +20,7 @@ sent_ids = []
 passages = []
 ner = []
 
-#Get list of NAS taxa terms 
+#Get list of NAS taxa terms
 species_list = get_species_list()
 #species_list = ['Oncorhynchus','Acipenser'] #testing
 
@@ -33,25 +33,32 @@ for term in species_list:
     term_doc_list = get_doc_list(term)
     #term_doc_list = ['558']  #for local test
     documents = connect_db(term_doc_list)
-    if isinstance(documents, pd.DataFrame):
-        for doc in documents:
-            for i in doc.itertuples():
-                # Get surrounding sentences for scope
-                surround_sents = n_sents(i[2], doc['docid'])
+    for doc in documents:
+        for i in doc.itertuples():
+            # Get surrounding sentences for scope
+            surround_sents = n_sents(i[2], doc['docid'])
+            try:
                 before_sent = doc.iloc[surround_sents[0]]
                 middle_sent = doc.iloc[surround_sents[1]]
                 after_sent = doc.iloc[surround_sents[2]]
+            except IndexError: # couldn't get surrounding sentences
+                continue
 
-                # Sample passage
-                passage = before_sent['words'] + middle_sent['words'] + after_sent['words']
-                full_ners = before_sent['ners'] + middle_sent['ners'] + after_sent['ners']
 
-                # Cand condition
-                if term in passage:  
-                    doc_ids.append((before_sent['docid'], middle_sent['docid'], after_sent['docid']))
-                    sent_ids.append((before_sent['sentid'], middle_sent['sentid'], after_sent['sentid']))
-                    passages.append(passage)
-                    ner.append(full_ners)
+
+            # Sample passage
+            passage = before_sent['words'] + middle_sent['words'] + after_sent['words']
+            full_ners = before_sent['ners'] + middle_sent['ners'] + after_sent['ners']
+            # because terms can be multi-word and passage is a list, convert it to string to check for term inclusion
+            passage_str = " ".join(passage)
+
+            # Cand condition
+            if term in passage_str:
+                doc_ids.append((before_sent['docid'], middle_sent['docid'], after_sent['docid']))
+                sent_ids.append((before_sent['sentid'], middle_sent['sentid'], after_sent['sentid']))
+                passages.append(passage)
+                ner.append(full_ners)
+    print("Current total number of sentences: %s" % len(sent_ids))
 
 df2 = pd.DataFrame({'docid': doc_ids,
                     'sentid': sent_ids,
