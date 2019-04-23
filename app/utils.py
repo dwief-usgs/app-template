@@ -70,44 +70,39 @@ def connect_db(term_doc_list):
 # Loading related data
 #*********************
 
-#This is saved in case this becomes available, currently no way to query full list of species
-#this url will be in place soon https://nas.er.usgs.gov/api/v1/species
-#def get_species_list(url='https://nas.er.usgs.gov/api/v1/species'):
-#    """Export list of species of interest
-#    ----------
-#    URL : API call built for  NAS species
-#    """
-#    try:
-#        r = requests.get(URL)
-#        if r.status_code == 200:
-#            return r.json()
-#        else:
-#            raise Exception('NAS API URL returning: %s', r.status_code)
-#    except Exception as e:
-#        raise Exception(e)
-
-
-def get_species_list(file= './resources/nas_species_itis.csv'):
-    """Export list of species of interest
+def get_nas_taxa(url='https://nas.er.usgs.gov/api/v1/species'):
+    """Return list of taxa information for NAS species of interest
     ----------
-    file : data from NAS team, being used until API in place
+    url : API that returns JSON results of NAS specie taxonomy
     """
-    species = pd.read_csv(file, encoding='iso_8859_5')
+    try:
+        r = requests.get(url)
+        if r.status_code == 200:
+            return r.json()
+        else:
+            raise Exception('NAS API URL returning: {}'.format(r.status_code))
+    except Exception as e:
+        raise Exception(e)
+
+
+def get_taxa_list():
+    """Export list of taxa of interest
+    ----------
+    taxa_r = JSON response of all NAS taxa
+    """
+    taxa_r = get_nas_taxa()
     species_list = []
 
-    for row in species.itertuples():
-        if ' x ' in row.scientificName:
-            name = row.common_name
-            species_list.append(name)
-        elif ' sp.' in row.scientificName:
-            name = row.Genus
-            species_list.append(name)
+    for taxa in taxa_r['results']:
+        if ' x ' in taxa['species']:
+            taxa_list.append(taxa['common_name'])
+        elif 'sp. ' in taxa['species']:
+            taxa_list.append(taxa['genus'])
+            taxa_list.append(taxa['common_name'])
         else:
-            name = row.scientificName
-            species_list.append(name)
-
-    return species_list
-
+            sci_name = (taxa['genus']+' '+taxa['species'] + ' '+ taxa['subspecies'] + ' ' + taxa['variety']).strip()
+            taxa_list.append(sci_name)
+    return taxa_list
 
 def get_doc_list(term, URL='https://geodeepdive.org/api/terms?show_docids&term='):
     """Create list of docs mentioning a term of interest

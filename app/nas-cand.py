@@ -11,7 +11,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-from utils import connect_db, n_sents, get_species_list, get_doc_list
+from utils import connect_db, n_sents, get_taxa_list, get_doc_list
 
 
 # Placeholders for storage
@@ -21,14 +21,14 @@ passages = []
 ner = []
 
 #Get list of NAS taxa terms
-species_list = get_species_list()
-#species_list = ['Oncorhynchus','Acipenser'] #testing
+taxa_list = get_taxa_list()
+#taxa_list = ['Oncorhynchus name','Acipenser'] #testing
 
 # Database connection
 #documents = connect_db()
 
 # For each taxa term process sentences for each document:
-for term in species_list:
+for term in taxa_list:
     print ('working on {}'.format(term))
     term_doc_list = get_doc_list(term)
     #term_doc_list = ['558']  #for local test
